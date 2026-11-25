@@ -1,0 +1,2864 @@
+{
+  "version": 5,
+  "checked_at": "2026-11-23",
+  "sources": {
+    "CDS98": {
+      "reference": "Code du sport A.322-98",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025705107/2026-10-29",
+      "checked": "2026-11-23"
+    },
+    "INIT3": {
+      "reference": "MFT Initiateur décembre 2025 p.3",
+      "url": "https://api.ffessm.fr/V1/Commissions/ManuelFormationList/Download/c73522e4-acb2-4b56-9691-3a807334ab39",
+      "checked": "2026-11-23"
+    },
+    "INIT5": {
+      "reference": "MFT Initiateur décembre 2025 p.5",
+      "url": "https://api.ffessm.fr/V1/Commissions/ManuelFormationList/Download/c73522e4-acb2-4b56-9691-3a807334ab39",
+      "checked": "2026-11-23"
+    },
+    "N1P3": {
+      "reference": "MFT N1 décembre 2025 p.3",
+      "url": "https://api.ffessm.fr/V1/Commissions/ManuelFormationList/Download/b3a9c9a2-63d1-455b-9ea1-e1f451cd639b",
+      "checked": "2026-11-23"
+    },
+    "N2P3": {
+      "reference": "MFT N2 mai 2026 p.3",
+      "url": "https://api.ffessm.fr/V1/Commissions/ManuelFormationList/Download/d7c761c8-79ed-42f2-a675-90e4c6095a56",
+      "checked": "2026-11-23"
+    },
+    "N2P4": {
+      "reference": "MFT N2 mai 2026 p.4",
+      "url": "https://api.ffessm.fr/V1/Commissions/ManuelFormationList/Download/d7c761c8-79ed-42f2-a675-90e4c6095a56",
+      "checked": "2026-11-23"
+    },
+    "MFTINTRO": {
+      "reference": "Introduction officielle du MFT",
+      "url": "https://plongee.ffessm.fr/uploads/media/docs/0001/02/acfc52835e7fac97a16c24bd8014c92ea6967f7f.pdf",
+      "checked": "2026-11-23"
+    },
+    "N3P3": {
+      "reference": "MFT N3 décembre 2025, p.3",
+      "url": "https://api.ffessm.fr/V1/Commissions/ManuelFormationList/Download/fcc5f7d1-a03f-483a-9acc-008db991e5ac",
+      "checked": "2026-11-23"
+    },
+    "N3P4": {
+      "reference": "MFT N3 décembre 2025, p.4",
+      "url": "https://api.ffessm.fr/V1/Commissions/ManuelFormationList/Download/fcc5f7d1-a03f-483a-9acc-008db991e5ac",
+      "checked": "2026-11-23"
+    },
+    "N4P3": {
+      "reference": "MFT GP-N4 mai 2026, p.3",
+      "url": "https://api.ffessm.fr/V1/Commissions/ManuelFormationList/Download/5432cb26-a2db-46a3-90bc-1a227f4d6667",
+      "checked": "2026-11-23"
+    },
+    "MF1P3": {
+      "reference": "MFT MF1 juillet 2026, p.3",
+      "url": "https://api.ffessm.fr/V1/Commissions/ManuelFormationList/Download/3312723d-c95f-4fc2-bf8b-4c48430afb21",
+      "checked": "2026-11-23"
+    },
+    "JPP3": {
+      "reference": "MFT Jeunes plongeurs juin 2026, p.3",
+      "url": "https://api.ffessm.fr/V1/Commissions/ManuelFormationList/Download/aa99d111-8e97-4550-8c5f-440b1d43bdac",
+      "checked": "2026-11-23"
+    },
+    "JPP4": {
+      "reference": "MFT Jeunes plongeurs juin 2026, p.4",
+      "url": "https://api.ffessm.fr/V1/Commissions/ManuelFormationList/Download/aa99d111-8e97-4550-8c5f-440b1d43bdac",
+      "checked": "2026-11-23"
+    },
+    "JPP5": {
+      "reference": "MFT Jeunes plongeurs juin 2026, p.5",
+      "url": "https://api.ffessm.fr/V1/Commissions/ManuelFormationList/Download/aa99d111-8e97-4550-8c5f-440b1d43bdac",
+      "checked": "2026-11-23"
+    },
+    "CDS72": {
+      "reference": "Code du sport, article A.322-72",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025393876/2026-10-10",
+      "checked": "2026-11-23"
+    },
+    "CDS78": {
+      "reference": "Code du sport, article A.322-78",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025393863/2026-10-29",
+      "checked": "2026-11-23"
+    },
+    "CDS80": {
+      "reference": "Code du sport, article A.322-80",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025393859/2026-10-23",
+      "checked": "2026-11-23"
+    },
+    "INIT18": {
+      "reference": "MFT Initiateur décembre 2025, p.18 — expérience et examen",
+      "url": "https://api.ffessm.fr/V1/Commissions/ManuelFormationList/Download/c73522e4-acb2-4b56-9691-3a807334ab39",
+      "checked": "2026-11-23"
+    },
+    "N4P8": {
+      "reference": "MFT GP-N4 mai 2026, p.8 — candidature",
+      "url": "https://api.ffessm.fr/V1/Commissions/ManuelFormationList/Download/5432cb26-a2db-46a3-90bc-1a227f4d6667",
+      "checked": "2026-11-23"
+    },
+    "MF1STAGE": {
+      "reference": "MFT MF1 juillet 2026 — stage en situation et statut E2",
+      "url": "https://api.ffessm.fr/V1/Commissions/ManuelFormationList/Download/3312723d-c95f-4fc2-bf8b-4c48430afb21",
+      "checked": "2026-11-23"
+    },
+    "MF1INITIAL": {
+      "reference": "MFT MF1 juillet 2026 — stage initial voie classique",
+      "url": "https://api.ffessm.fr/V1/Commissions/ManuelFormationList/Download/3312723d-c95f-4fc2-bf8b-4c48430afb21",
+      "checked": "2026-11-23"
+    },
+    "CDS73": {
+      "reference": "Code du sport A322-73 — palanquée et aptitudes",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025393874",
+      "checked": "2026-11-23"
+    },
+    "CDS15A": {
+      "reference": "Code du sport — annexes III-15 a (DP) et III-16 a (enseignement)",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053377104",
+      "checked": "2026-11-23"
+    },
+    "RIFAP7": {
+      "reference": "MFT RIFAP mai 2026, tableau des exigences",
+      "url": "https://api.ffessm.fr/V1/Commissions/ManuelFormationList/Download/f65d4fd1-beec-4dff-a803-b36101f71f88",
+      "checked": "2026-11-23"
+    }
+  },
+  "questions": [
+    {
+      "id": 1,
+      "min_scope": 30,
+      "source": "CDS98",
+      "q": "Un E1 majeur peut-il être DP dans une fosse de profondeur maximale 10 m si la séance reste à 6 m ?",
+      "choices": [
+        "Oui, si tous les élèves sont N1",
+        "Oui, puisque la séance reste à 6 m",
+        "Non, cette fosse relève des dispositions du milieu naturel",
+        "Oui, avec l'accord du président"
+      ],
+      "answer": "C",
+      "why": "Le critère est la profondeur maximale de la piscine ou fosse, qui ne doit pas excéder 6 m."
+    },
+    {
+      "id": 2,
+      "min_scope": 30,
+      "source": "INIT3",
+      "q": "Un E1 enseigne à des débutants à 5 m en milieu naturel. Niveau minimal du DP pour cette séance ?",
+      "choices": [
+        "E1",
+        "E2",
+        "GP-N4 sans qualification d'enseignant",
+        "E3"
+      ],
+      "answer": "D",
+      "why": "En enseignement en milieu naturel, DP E3 minimum."
+    },
+    {
+      "id": 3,
+      "min_scope": 30,
+      "source": "N1P3",
+      "q": "Un N1 majeur sans autre qualification plonge en exploration en milieu naturel. Quelles plongées entrent dans ses prérogatives, sous réserve du DP ?",
+      "choices": [
+        "20 m en autonomie",
+        "20 m avec un GP",
+        "40 m avec un GP",
+        "6 m avec un GP"
+      ],
+      "answer": "B",
+      "why": "Le N1 dispose des aptitudes PE20 : il peut évoluer avec un guide à 20 m comme à 6 m. Il ne dispose pas de l’autonomie en milieu naturel ni du PE40.",
+      "answers": [
+        "B",
+        "D"
+      ],
+      "revision": 2
+    },
+    {
+      "id": 4,
+      "min_scope": 30,
+      "source": "N2P3",
+      "q": "Un N2 majeur plonge en exploration en milieu naturel, sous l’organisation d’un DP. Quelles profondeurs proposées sont accessibles dans le cadre de son aptitude à l’autonomie ?",
+      "choices": [
+        "20 m",
+        "12 m",
+        "40 m",
+        "60 m"
+      ],
+      "answer": "A",
+      "why": "Le N2 possède les aptitudes PA20 : sous réserve du DP, il peut plonger en autonomie à 20 m comme à 12 m ; il ne dispose pas du PA40 ni du PA60.",
+      "answers": [
+        "A",
+        "B"
+      ],
+      "revision": 2
+    },
+    {
+      "id": 5,
+      "min_scope": 30,
+      "source": "N2P3",
+      "q": "Un N2 majeur est encadré par un guide de palanquée en exploration en milieu naturel. Quelles profondeurs proposées entrent dans ses prérogatives, sous réserve du DP ?",
+      "choices": [
+        "20 m",
+        "40 m",
+        "60 m",
+        "6 m"
+      ],
+      "answer": "B",
+      "why": "Le N2 possède les aptitudes PE40 : il peut être guidé à 6 m, 20 m ou 40 m, sous réserve du DP. Il ne dispose pas du PE60.",
+      "answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "revision": 2
+    },
+    {
+      "id": 6,
+      "min_scope": 30,
+      "source": "INIT3",
+      "q": "Jusqu'à quelle profondeur un initiateur E1 peut-il enseigner au titre de ses prérogatives E1 ?",
+      "choices": [
+        "12 m",
+        "6 m",
+        "20 m",
+        "40 m"
+      ],
+      "answer": "B",
+      "why": "L'enseignement E1 est limité à l'espace 0-6 m."
+    },
+    {
+      "id": 7,
+      "min_scope": 30,
+      "source": "INIT3",
+      "q": "Jusqu'à quelle profondeur un E2 peut-il enseigner au sein d'un club, sous la direction d'un E3 minimum licencié ?",
+      "choices": [
+        "6 m",
+        "12 m",
+        "40 m",
+        "20 m"
+      ],
+      "answer": "D",
+      "why": "Le MFT Initiateur prévoit l'enseignement E2 dans l'espace 0-20 m."
+    },
+    {
+      "id": 8,
+      "min_scope": 30,
+      "source": "INIT3",
+      "q": "Quel acte de validation relève expressément des prérogatives de l'initiateur E1 selon le MFT Initiateur ?",
+      "choices": [
+        "Valider les compétences du N1 en milieu artificiel",
+        "Délivrer seul le N2",
+        "Valider toutes les compétences du N2 en mer",
+        "Délivrer seul le diplôme d'initiateur"
+      ],
+      "answer": "A",
+      "why": "L'E1 valide les compétences du N1 en milieu artificiel ; la délivrance du N1 relève de l'autorité prévue par le MFT."
+    },
+    {
+      "id": 9,
+      "min_scope": 30,
+      "source": "CDS98",
+      "q": "Un E1 majeur peut-il être DP d'une séance dans une piscine dont la profondeur maximale est exactement 6 m ?",
+      "choices": [
+        "Non, il faut un E2",
+        "Non, la limite est strictement inférieure à 6 m",
+        "Oui, le seuil inclut 6 m",
+        "Seulement pour des N2"
+      ],
+      "answer": "C",
+      "why": "L'article A.322-98 vise les piscines ou fosses dont la profondeur n'excède pas 6 m."
+    },
+    {
+      "id": 10,
+      "min_scope": 30,
+      "source": "MFTINTRO",
+      "q": "Quelle association est correcte ?",
+      "choices": [
+        "Le MFT remplace le Code du sport",
+        "Le Code du sport fixe le cadre réglementaire ; le MFT définit les cursus et certifications fédéraux",
+        "Le président du club peut écarter le Code du sport",
+        "Le MFT concerne seulement les moniteurs professionnels"
+      ],
+      "answer": "B",
+      "why": "Le MFT est le référentiel fédéral des brevets et qualifications, mis en œuvre dans le cadre réglementaire."
+    },
+    {
+      "id": 11,
+      "min_scope": 31,
+      "source": "N1P3",
+      "q": "Selon le MFT N1 décembre 2025, quel âge minimal est prévu pour l'entrée en formation et la délivrance du N1, avec autorisation légale pour un mineur ?",
+      "choices": [
+        "10 ans",
+        "12 ans",
+        "14 ans obligatoirement",
+        "16 ans"
+      ],
+      "answer": "B",
+      "why": "Le MFT N1 consulté indique 12 ans minimum."
+    },
+    {
+      "id": 12,
+      "min_scope": 31,
+      "source": "N2P3",
+      "q": "Quel âge minimal le MFT N2 prévoit-il pour entrer en formation N2 et obtenir le brevet, sans préjuger du droit d'exercer l'autonomie ?",
+      "choices": [
+        "14 ans",
+        "16 ans",
+        "18 ans",
+        "15 ans"
+      ],
+      "answer": "D",
+      "why": "Le N2 peut être préparé et délivré à partir de 15 ans ; l'autonomie commence à 16 ans."
+    },
+    {
+      "id": 101,
+      "min_scope": 31,
+      "source": "INIT3",
+      "topic": "e1",
+      "q": "Un E1 prépare une séance à 5 m. Quelles organisations respectent ses prérogatives ?",
+      "choices": [
+        "Enseignement en milieu naturel sous un DP E3 minimum",
+        "Enseignement en milieu naturel sous un DP E1 sans autre qualification",
+        "Enseignement à 20 m au seul titre de son brevet E1",
+        "Enseignement en piscine de profondeur maximale 6 m sous un DP E1 majeur"
+      ],
+      "answer": "A",
+      "answers": [
+        "A",
+        "D"
+      ],
+      "why": "L’E1 enseigne dans 0–6 m en milieu artificiel comme naturel. En naturel, la direction de l’enseignement exige E3 minimum."
+    },
+    {
+      "id": 13,
+      "min_scope": 32,
+      "source": "N2P3",
+      "q": "À partir de quel âge les prérogatives PA20 du N2 peuvent-elles s'exercer, avec décision du DP et conditions propres aux mineurs ?",
+      "choices": [
+        "16 ans",
+        "15 ans",
+        "14 ans",
+        "18 ans dans tous les cas"
+      ],
+      "answer": "A",
+      "why": "L'exercice de l'autonomie PA20 commence à 16 ans."
+    },
+    {
+      "id": 14,
+      "min_scope": 32,
+      "source": "N2P3",
+      "q": "Pour autoriser un PA20 de 16 ans à plonger en autonomie, quelle formalité relative au responsable légal le MFT prévoit-il ?",
+      "choices": [
+        "Aucune puisqu'il est breveté",
+        "Une autorisation éclairée du responsable légal pour cette pratique en autonomie",
+        "La présence obligatoire du parent sous l'eau",
+        "Un simple accord d'un autre plongeur"
+      ],
+      "answer": "B",
+      "why": "Le MFT exige l'autorisation éclairée du responsable légal pour l'autonomie du mineur."
+    },
+    {
+      "id": 102,
+      "min_scope": 32,
+      "source": "CDS98",
+      "topic": "e1",
+      "q": "Un E1 majeur sans autre qualification de DP veut diriger une séance. Quelles installations relèvent de la dérogation piscine/fosse ?",
+      "choices": [
+        "Fosse de profondeur maximale 6 m",
+        "Fosse de profondeur maximale 12 m, avec séance limitée à 4 m",
+        "Piscine de profondeur maximale 2 m",
+        "Piscine de profondeur maximale 4 m"
+      ],
+      "answer": "A",
+      "answers": [
+        "A",
+        "C",
+        "D"
+      ],
+      "why": "Le critère est la profondeur maximale de l’installation : elle ne doit pas dépasser 6 m, quelle que soit la profondeur choisie pour la séance."
+    },
+    {
+      "id": 15,
+      "min_scope": 33,
+      "source": "N2P3",
+      "q": "Avant une plongée autonome avec un PA20 mineur autorisé, quelle information doit être donnée aux membres de la palanquée ?",
+      "choices": [
+        "Le détail de son dossier médical",
+        "Le montant de sa cotisation",
+        "La présence d'un mineur dans la palanquée",
+        "Aucune information particulière"
+      ],
+      "answer": "C",
+      "why": "Les membres de la palanquée doivent être informés de la présence d'un mineur."
+    },
+    {
+      "id": 16,
+      "min_scope": 33,
+      "source": "N2P3",
+      "q": "Quel est l'âge minimal prévu par le MFT pour l'entrée en formation et la délivrance de la qualification PE40 ?",
+      "choices": [
+        "12 ans",
+        "15 ans",
+        "16 ans",
+        "14 ans"
+      ],
+      "answer": "D",
+      "why": "Le MFT N2 indique 14 ans minimum pour le PE40."
+    },
+    {
+      "id": 103,
+      "min_scope": 33,
+      "source": "INIT3",
+      "topic": "e1",
+      "q": "Quels actes font partie des prérogatives fédérales de l’initiateur E1 ?",
+      "choices": [
+        "Enseigner au débutant en milieu naturel dans 0–6 m sous DP E3 minimum",
+        "Enseigner à un élève préparant le N2 dans l’espace 0–6 m",
+        "Valider les compétences N1 en milieu artificiel",
+        "Valider seul toutes les compétences du N2 en mer"
+      ],
+      "answer": "A",
+      "answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "why": "L’E1 enseigne du débutant au N2 dans 0–6 m et valide les compétences N1 en artificiel. Enseignement et validation N2 sont deux droits distincts."
+    },
+    {
+      "id": 17,
+      "min_scope": 34,
+      "source": "N2P3",
+      "q": "Pour un PE40 âgé de moins de 16 ans, quelle règle fédérale s'applique aux paliers lors d'une exploration ?",
+      "choices": [
+        "Pas de palier obligatoire avec le moyen de désaturation utilisé",
+        "Paliers obligatoires permis jusqu'à 3 minutes",
+        "Aucune restriction liée aux paliers",
+        "Paliers permis si le GP est E3"
+      ],
+      "answer": "A",
+      "why": "Les plongées doivent rester sans palier obligatoire selon le moyen de désaturation utilisé."
+    },
+    {
+      "id": 18,
+      "min_scope": 34,
+      "source": "N2P3",
+      "q": "Quel maximum de plongées par jour est prévu pour un PE40 de moins de 16 ans ?",
+      "choices": [
+        "Une",
+        "Trois",
+        "Deux",
+        "Quatre"
+      ],
+      "answer": "C",
+      "why": "Le MFT limite à deux plongées par jour."
+    },
+    {
+      "id": 104,
+      "min_scope": 34,
+      "source": "INIT5",
+      "topic": "e1",
+      "q": "Quelles affirmations concernent l’accès au stage initial Initiateur ?",
+      "choices": [
+        "Le candidat peut avoir 15 ans révolus",
+        "PA20 minimum ou titre équivalent est requis",
+        "Le seul N1 suffit toujours",
+        "Le candidat doit déjà être GP-N4"
+      ],
+      "answer": "A",
+      "answers": [
+        "A",
+        "B"
+      ],
+      "why": "L’accès au stage initial est possible dès 15 ans avec PA20 minimum ou équivalent, sous les autres conditions du cursus."
+    },
+    {
+      "id": 19,
+      "min_scope": 35,
+      "source": "N2P3",
+      "q": "Quel intervalle minimal est prévu entre les deux plongées d'un PE40 de moins de 16 ans ?",
+      "choices": [
+        "Une heure",
+        "Trois heures",
+        "Deux heures",
+        "Trente minutes"
+      ],
+      "answer": "B",
+      "why": "L'intervalle minimal entre les deux plongées est de trois heures."
+    },
+    {
+      "id": 20,
+      "min_scope": 35,
+      "source": "N2P3",
+      "q": "Un PE40 de 15 ans a plongé à 35 m le matin. À quelle profondeur maximale sa seconde plongée est-elle limitée selon le MFT ?",
+      "choices": [
+        "40 m",
+        "30 m",
+        "12 m",
+        "20 m"
+      ],
+      "answer": "D",
+      "why": "Si la première plongée a dépassé 30 m, la seconde est limitée à 20 m."
+    },
+    {
+      "id": 21,
+      "min_scope": 36,
+      "source": "N1P3",
+      "q": "Après un N1 délivré en milieu artificiel, quelle expérience doit être réalisée au plus tard dans les douze mois suivants ?",
+      "choices": [
+        "Quatre plongées attestées en milieu naturel",
+        "Une plongée à 40 m",
+        "Dix séances supplémentaires en piscine",
+        "Un examen écrit"
+      ],
+      "answer": "A",
+      "why": "Le MFT N1 exige au moins quatre plongées en milieu naturel attestées sur le carnet."
+    },
+    {
+      "id": 22,
+      "min_scope": 36,
+      "source": "N1P3",
+      "q": "Dans quel délai l'ensemble des compétences N1 doit-il être acquis, à partir de la délivrance de la première compétence ?",
+      "choices": [
+        "6 mois",
+        "12 mois",
+        "15 mois",
+        "24 mois"
+      ],
+      "answer": "C",
+      "why": "Le MFT prévoit un délai de quinze mois à partir de la première compétence."
+    },
+    {
+      "id": 105,
+      "min_scope": 36,
+      "source": "INIT18",
+      "topic": "e1",
+      "q": "Pour l’expérience préalable à l’examen Initiateur, quelles affirmations sont exactes ?",
+      "choices": [
+        "L’autonomie accompagnée avant 16 ans peut être comptabilisée",
+        "Les N3, GP-N4 et N5 sont dispensés de cette condition de 12 plongées",
+        "Les plongées antérieures au PA20 remplissent systématiquement cette condition",
+        "Le chapitre prévoit 12 plongées après l’obtention du PA20"
+      ],
+      "answer": "A",
+      "answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "why": "Les 12 plongées sont postérieures au PA20. L’autonomie accompagnée avant 16 ans compte ; N3, GP et N5 bénéficient de la dispense prévue."
+    },
+    {
+      "id": 23,
+      "min_scope": 37,
+      "source": "N2P3",
+      "q": "En plus du N1 ou d'aptitudes jugées équivalentes, quelle expérience minimale est requise pour débuter une formation N2 ?",
+      "choices": [
+        "Aucune plongée en milieu naturel",
+        "Quatre plongées attestées en milieu naturel",
+        "Vingt plongées à plus de 20 m",
+        "Dix plongées en fosse"
+      ],
+      "answer": "B",
+      "why": "Il faut avoir réalisé au moins quatre plongées attestées en milieu naturel."
+    },
+    {
+      "id": 24,
+      "min_scope": 37,
+      "source": "N2P4",
+      "q": "Où les compétences N2 doivent-elles être obtenues selon le MFT ?",
+      "choices": [
+        "En piscine exclusivement",
+        "Dans toute fosse de plus de 6 m",
+        "Indifféremment en piscine ou en mer",
+        "En milieu naturel, à l'exclusion des piscines et fosses quelle que soit leur profondeur"
+      ],
+      "answer": "D",
+      "why": "Le MFT N2 exige l'obtention des compétences en milieu naturel."
+    },
+    {
+      "id": 106,
+      "min_scope": 37,
+      "source": "N2P3",
+      "topic": "n1_n2",
+      "q": "Quels éléments sont communs à l’entrée en formation PE40, PA20 et N2 ?",
+      "choices": [
+        "RIFAP déjà obtenu dans tous les cas",
+        "GP-N4 déjà obtenu",
+        "N1 ou certification aux aptitudes jugées équivalentes",
+        "Quatre plongées attestées en milieu naturel"
+      ],
+      "answer": "C",
+      "answers": [
+        "C",
+        "D"
+      ],
+      "why": "Le MFT N2 impose N1 ou équivalent et quatre plongées attestées en naturel, en plus des conditions communes de licence et de contrôle médical."
+    },
+    {
+      "id": 25,
+      "min_scope": 38,
+      "source": "N2P4",
+      "q": "Quel niveau minimal d'encadrant licencié le MFT N2 prévoit-il pour enseigner et valider ses compétences dans l'espace 0-20 m ?",
+      "choices": [
+        "E2",
+        "E1",
+        "GP-N4 seul",
+        "N2 expérimenté"
+      ],
+      "answer": "A",
+      "why": "Enseignement et validation des compétences N2 dans l'espace 0-20 m : E2 minimum."
+    },
+    {
+      "id": 26,
+      "min_scope": 38,
+      "source": "N2P4",
+      "q": "Qui peut délivrer un N2, sous la responsabilité du président du club ou du responsable de SCA ?",
+      "choices": [
+        "Tout E1",
+        "Un GP-N4 sans qualification d'enseignant",
+        "Un encadrant licencié E3 FFESSM ou associé au minimum, ou BEES1, ou DEJEPS",
+        "Le candidat lui-même après ses validations"
+      ],
+      "answer": "C",
+      "why": "Le MFT distingue l'encadrant qui valide les compétences de celui habilité à délivrer le brevet."
+    },
+    {
+      "id": 107,
+      "min_scope": 38,
+      "source": "N2P3",
+      "topic": "n1_n2",
+      "q": "Un plongeur entre dans le cursus PA20/N2. Quelles différences d’âge faut-il retenir ?",
+      "choices": [
+        "Autonomie en naturel autorisée dès la délivrance à 15 ans",
+        "Entrée en formation possible à 15 ans",
+        "Délivrance possible à 15 ans",
+        "Exercice de l’autonomie à 20 m à partir de 16 ans"
+      ],
+      "answer": "B",
+      "answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "why": "Formation et délivrance PA20/N2 : 15 ans. L’exercice de l’autonomie à 20 m attend 16 ans et les conditions applicables au mineur."
+    },
+    {
+      "id": 27,
+      "min_scope": 39,
+      "source": "N2P4",
+      "q": "Un plongeur possède déjà le PE40 FFESSM et obtient ensuite le PA20 FFESSM. Quelle certification résulte de l'acquisition des deux qualifications ?",
+      "choices": [
+        "Niveau 3",
+        "Niveau 2",
+        "Guide de palanquée",
+        "Initiateur"
+      ],
+      "answer": "B",
+      "why": "L'acquisition des deux qualifications PA20 et PE40 entraîne la délivrance du N2."
+    },
+    {
+      "id": 28,
+      "min_scope": 39,
+      "source": "N1P3",
+      "q": "Un débutant en formation technique vers le N1 évolue à 15 m. Quel est le niveau minimal de son enseignant ?",
+      "choices": [
+        "E1",
+        "GP-N4 sans qualification d'enseignant",
+        "N2",
+        "E2"
+      ],
+      "answer": "D",
+      "why": "En formation technique dans l'espace 0-20 m : E2 minimum ; l'E1 reste limité à 6 m."
+    },
+    {
+      "id": 29,
+      "min_scope": 40,
+      "source": "N2P4",
+      "q": "Un plongeur en formation technique N2 évolue à 30 m. Quel est le niveau minimal de l'enseignant qui l'encadre ?",
+      "choices": [
+        "E3",
+        "E2",
+        "E1",
+        "GP-N4 sans qualification d'enseignant"
+      ],
+      "answer": "A",
+      "why": "Une formation technique dans l'espace 0-40 m requiert E3 minimum."
+    },
+    {
+      "id": 30,
+      "min_scope": 40,
+      "source": "N2P3",
+      "q": "Quelle certification préalable, ou aptitudes jugées équivalentes, permet d'accéder à la formation N2 ?",
+      "choices": [
+        "Un baptême seulement",
+        "Le RIFAP seul",
+        "Le N1",
+        "La qualification TIV seule"
+      ],
+      "answer": "C",
+      "why": "Le MFT demande le N1 FFESSM ou une certification dont les aptitudes sont jugées équivalentes."
+    },
+    {
+      "id": 108,
+      "min_scope": 40,
+      "source": "N2P4",
+      "topic": "n1_n2",
+      "q": "Pour valider les compétences du N2, quelles conditions figurent dans le MFT ?",
+      "choices": [
+        "Compétences obtenues en milieu naturel",
+        "Enseignement et validation dans 0–20 m par E2 licencié minimum",
+        "Acquisition de l’ensemble des compétences dans un délai de 15 mois",
+        "Une fosse de 40 m remplace le milieu naturel pour ces validations"
+      ],
+      "answer": "A",
+      "answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "why": "Le MFT exige le milieu naturel à l’exclusion des piscines et fosses, E2 minimum dans 0–20 m, et un délai global de 15 mois."
+    },
+    {
+      "id": 31,
+      "min_scope": 41,
+      "source": "INIT5",
+      "q": "Quel est l'âge minimal pour débuter le stage initial Initiateur selon le MFT décembre 2025 ?",
+      "choices": [
+        "18 ans",
+        "15 ans révolus",
+        "16 ans",
+        "14 ans"
+      ],
+      "answer": "B",
+      "why": "L'accès au stage initial est possible à 15 ans révolus ; cela ne signifie pas être habilité à exercer toutes les fonctions dès cet âge."
+    },
+    {
+      "id": 32,
+      "min_scope": 41,
+      "source": "INIT5",
+      "q": "Quelle certification minimale est requise à l'entrée du stage initial Initiateur, ou titre/diplôme équivalent ?",
+      "choices": [
+        "N3",
+        "N4",
+        "N1",
+        "PA20"
+      ],
+      "answer": "D",
+      "why": "Le MFT prévoit PA20 minimum ou un titre ou diplôme équivalent."
+    },
+    {
+      "id": 33,
+      "min_scope": 42,
+      "source": "INIT5",
+      "q": "Quel est le volume horaire du stage initial Initiateur ?",
+      "choices": [
+        "14 heures",
+        "7 heures",
+        "21 heures",
+        "35 heures"
+      ],
+      "answer": "A",
+      "why": "Le stage initial a un volume horaire de quatorze heures."
+    },
+    {
+      "id": 34,
+      "min_scope": 42,
+      "source": "INIT5",
+      "q": "Dans quel délai maximal le stage initial Initiateur doit-il se dérouler ?",
+      "choices": [
+        "Une semaine",
+        "Trois mois",
+        "Un mois",
+        "Un an"
+      ],
+      "answer": "C",
+      "why": "Les quatorze heures du stage doivent se dérouler dans un délai d'un mois maximum."
+    },
+    {
+      "id": 109,
+      "min_scope": 42,
+      "source": "N2P4",
+      "topic": "n1_n2",
+      "q": "Quelles situations entraînent la délivrance du N2 selon l’articulation PA20/PE40 du MFT ?",
+      "choices": [
+        "Un titulaire PA20 FFESSM obtient ensuite PE40 FFESSM",
+        "Un titulaire PE40 possède uniquement cette qualification",
+        "Un titulaire PA20 possède uniquement cette qualification",
+        "Un titulaire PE40 FFESSM obtient ensuite PA20 FFESSM"
+      ],
+      "answer": "A",
+      "answers": [
+        "A",
+        "D"
+      ],
+      "why": "Les deux qualifications FFESSM PA20 et PE40 réunies conduisent au N2 ; aucune des deux, prise seule, ne suffit."
+    },
+    {
+      "id": 35,
+      "min_scope": 43,
+      "source": "INIT5",
+      "q": "Le stage initial Initiateur peut-il être effectué en visioconférence selon le MFT décembre 2025 ?",
+      "choices": [
+        "Oui intégralement",
+        "Non, il doit être intégralement présentiel",
+        "Oui pour la moitié des heures",
+        "Oui sur simple accord du candidat"
+      ],
+      "answer": "B",
+      "why": "L'utilisation de la visioconférence n'est pas autorisée pour ce stage."
+    },
+    {
+      "id": 36,
+      "min_scope": 43,
+      "source": "INIT5",
+      "q": "Quel délai maximal à compter de la fin du stage initial s'applique à l'ensemble des stages Initiateur et à la présentation à l'examen ?",
+      "choices": [
+        "Un an",
+        "Deux ans",
+        "Cinq ans",
+        "Trois ans"
+      ],
+      "answer": "D",
+      "why": "Le MFT prévoit trois ans maximum à compter de la fin du stage initial."
+    },
+    {
+      "id": 37,
+      "min_scope": 44,
+      "source": "INIT5",
+      "q": "Parmi ces titulaires licenciés FFESSM, qui peut assurer la direction d'un stage initial Initiateur ?",
+      "choices": [
+        "Un MF2",
+        "Un E1",
+        "Un E2",
+        "Un GP-N4 seul"
+      ],
+      "answer": "A",
+      "why": "Le directeur peut être notamment MF2 ou MF2 associé, BEES2 ou DESJEPS, licencié et présent durant tout le stage."
+    },
+    {
+      "id": 38,
+      "min_scope": 44,
+      "source": "INIT5",
+      "q": "Quel statut de licence est requis pour accéder au stage initial Initiateur ?",
+      "choices": [
+        "Une ancienne licence suffit",
+        "Aucune licence n'est demandée",
+        "Une licence FFESSM en cours de validité",
+        "Une licence d'une autre activité uniquement"
+      ],
+      "answer": "C",
+      "why": "Le MFT exige une licence FFESSM en cours de validité."
+    },
+    {
+      "id": 110,
+      "min_scope": 44,
+      "source": "N2P3",
+      "topic": "n1_n2",
+      "q": "Un PE40 de 15 ans organise sa journée de plongée. Quelles règles doit respecter le DP ?",
+      "choices": [
+        "Intervalle d’au moins trois heures entre les deux plongées",
+        "Seconde plongée possible à 40 m même si la première a dépassé 30 m",
+        "Pas de palier obligatoire avec le moyen de désaturation utilisé",
+        "Deux plongées au maximum dans la journée"
+      ],
+      "answer": "A",
+      "answers": [
+        "A",
+        "C",
+        "D"
+      ],
+      "why": "Avant 16 ans : sans palier obligatoire, deux plongées/jour maximum, intervalle de trois heures minimum, et seconde limitée à 20 m si la première dépasse 30 m."
+    },
+    {
+      "id": 39,
+      "min_scope": 45,
+      "source": "INIT3",
+      "q": "Le seul titre d'initiateur E1 permet-il de valider les compétences du N2 ?",
+      "choices": [
+        "Oui, toutes en piscine",
+        "Non ; la validation N2 exige au minimum E2 dans le cadre prévu par le MFT",
+        "Oui, avec l'accord oral d'un N2",
+        "Oui, dès que l'E1 est majeur"
+      ],
+      "answer": "B",
+      "why": "L'E1 peut enseigner jusqu'au N2 à 6 m, mais ne dispose pas de la validation des compétences N2 ; distinguer enseignement et validation."
+    },
+    {
+      "id": 40,
+      "min_scope": 45,
+      "source": "N2P3",
+      "q": "En exploration autonome PA20, combien de plongeurs composent la palanquée prévue par le MFT ?",
+      "choices": [
+        "Un seul",
+        "Quatre à six",
+        "Toujours quatre",
+        "Deux ou trois ayant au minimum les mêmes compétences"
+      ],
+      "answer": "D",
+      "why": "Le PA20 évolue avec un ou deux équipiers ayant au minimum les mêmes compétences."
+    },
+    {
+      "id": 111,
+      "min_scope": 45,
+      "source": "N2P3",
+      "topic": "n1_n2",
+      "q": "Un PE40 de 15 ans effectue deux plongées sans palier obligatoire. Quels programmes respectent les limites du MFT, sous réserve du DP ?",
+      "choices": [
+        "Première 35 m, seconde 20 m, intervalle 2 h",
+        "Première 35 m, seconde 20 m, intervalle 3 h",
+        "Première 35 m, seconde 25 m, intervalle 3 h",
+        "Première 28 m, seconde 25 m, intervalle 3 h"
+      ],
+      "answer": "B",
+      "answers": [
+        "B",
+        "D"
+      ],
+      "why": "Une première plongée au-delà de 30 m impose une seconde à 20 m maximum. L’intervalle minimal reste trois heures ; le DP peut toujours restreindre davantage."
+    },
+    {
+      "id": 41,
+      "min_scope": 46,
+      "source": "N3P3",
+      "topic": "n3",
+      "levels": [
+        "N3"
+      ],
+      "q": "Quelle aptitude désigne l'autonomie jusqu'à 40 m sous l'organisation d'un DP ?",
+      "choices": [
+        "PE40",
+        "PA40",
+        "PE60",
+        "PA12"
+      ],
+      "answer": "B",
+      "why": "PA désigne une aptitude à évoluer en autonomie ; PA40 vise l'espace 0-40 m."
+    },
+    {
+      "id": 42,
+      "min_scope": 46,
+      "source": "N3P3",
+      "topic": "n3",
+      "levels": [
+        "N3"
+      ],
+      "q": "À partir de quel âge les prérogatives PA40 peuvent-elles s'exercer, sur décision du DP et avec les conditions fédérales prévues pour les mineurs ?",
+      "choices": [
+        "15 ans",
+        "16 ans",
+        "17 ans",
+        "18 ans obligatoirement"
+      ],
+      "answer": "C",
+      "why": "Le MFT N3 prévoit l'exercice du PA40 dès 17 ans, sous conditions pour les mineurs."
+    },
+    {
+      "id": 112,
+      "min_scope": 46,
+      "source": "N2P3",
+      "topic": "n1_n2",
+      "q": "Pour un PA20 de 16 ans en autonomie en naturel, quels éléments sont nécessaires ?",
+      "choices": [
+        "Décision du directeur de plongée",
+        "Autorisation éclairée du responsable légal",
+        "Information de la palanquée sur la présence du mineur",
+        "Simple accord d’un équipier majeur à la place du responsable légal"
+      ],
+      "answer": "A",
+      "answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "why": "Le DP autorise l’autonomie du mineur dans les conditions prévues : accord éclairé du représentant légal et information de la palanquée."
+    },
+    {
+      "id": 43,
+      "min_scope": 47,
+      "source": "N3P3",
+      "topic": "n3",
+      "levels": [
+        "N3"
+      ],
+      "q": "Quel âge minimal le MFT N3 prévoit-il pour l'entrée en formation et la délivrance de la qualification PA40 ?",
+      "choices": [
+        "16 ans",
+        "17 ans",
+        "18 ans",
+        "14 ans"
+      ],
+      "answer": "A",
+      "why": "La qualification PA40 est accessible dès 16 ans ; son exercice autonome commence à 17 ans."
+    },
+    {
+      "id": 44,
+      "min_scope": 47,
+      "source": "N3P3",
+      "topic": "n3",
+      "levels": [
+        "N3"
+      ],
+      "q": "À partir de quel âge le N3 peut-il exercer ses prérogatives d'autonomie au-delà de 40 m ?",
+      "choices": [
+        "16 ans",
+        "17 ans",
+        "18 ans",
+        "21 ans"
+      ],
+      "answer": "C",
+      "why": "Le MFT réserve l'exercice de l'autonomie au-delà de 40 m aux plongeurs de 18 ans au moins."
+    },
+    {
+      "id": 113,
+      "min_scope": 47,
+      "source": "CDS73",
+      "topic": "n1_n2",
+      "q": "Une palanquée d’exploration réunit un N1 et un N2, sans qualification supplémentaire, avec un GP. Quelles affirmations sont exactes ?",
+      "choices": [
+        "La palanquée reste une palanquée encadrée",
+        "La présence du N2 autorise le N1 à évoluer à 40 m",
+        "Le N2 rend automatiquement le N1 autonome",
+        "Les aptitudes du N1 limitent la profondeur à 20 m au plus"
+      ],
+      "answer": "A",
+      "answers": [
+        "A",
+        "D"
+      ],
+      "why": "La palanquée respecte les aptitudes les plus restrictives. Le N1 PE20 ne gagne ni PE40 ni autonomie par la présence d’un N2."
+    },
+    {
+      "id": 45,
+      "min_scope": 48,
+      "source": "N3P3",
+      "topic": "n3",
+      "levels": [
+        "N3"
+      ],
+      "q": "Un N3 majeur dispose-t-il d'une prérogative d'autonomie à 60 m en l'absence de DP ?",
+      "choices": [
+        "Oui, sans autre condition",
+        "Non : l'absence de DP ne permet pas de dépasser 40 m dans le cadre prévu",
+        "Oui, avec un équipier N2",
+        "Oui, si sa dernière plongée était à 60 m"
+      ],
+      "answer": "B",
+      "why": "La prérogative du N3 sans DP se limite à 40 m dans le cadre prévu ; 60 m nécessite un DP."
+    },
+    {
+      "id": 46,
+      "min_scope": 48,
+      "source": "N3P3",
+      "topic": "n3",
+      "levels": [
+        "N3"
+      ],
+      "q": "En exploration encadrée entre 40 et 60 m, quel niveau minimal doit avoir l'encadrant d'un PE60 ?",
+      "choices": [
+        "GP-N4",
+        "E2",
+        "E3",
+        "E4"
+      ],
+      "answer": "D",
+      "why": "L'encadrement des PE60 entre 40 et 60 m relève d'un E4 minimum."
+    },
+    {
+      "id": 47,
+      "min_scope": 49,
+      "source": "N3P3",
+      "topic": "n3",
+      "levels": [
+        "N3"
+      ],
+      "q": "Le brevet N3 seul confère-t-il la fonction de guide de palanquée pour encadrer des N1 ?",
+      "choices": [
+        "Non",
+        "Oui à 20 m",
+        "Oui dès 18 ans",
+        "Oui après dix plongées"
+      ],
+      "answer": "A",
+      "why": "Le N3 est un brevet de plongeur autonome, distinct de la qualification de guide de palanquée."
+    },
+    {
+      "id": 48,
+      "min_scope": 49,
+      "source": "N3P3",
+      "topic": "n3",
+      "levels": [
+        "N3"
+      ],
+      "q": "Quelle qualification de secours est exigée au moment de la certification N3 ?",
+      "choices": [
+        "TIV",
+        "Permis bateau",
+        "RIFA Plongée",
+        "Nitrox confirmé"
+      ],
+      "answer": "C",
+      "why": "Le RIFA Plongée fait partie des conditions de certification du N3."
+    },
+    {
+      "id": 49,
+      "min_scope": 50,
+      "source": "N3P4",
+      "topic": "n3",
+      "levels": [
+        "N3",
+        "E3"
+      ],
+      "q": "Quel est le niveau minimal d'enseignant pour enseigner et valider les compétences N3 dans l'espace 0-40 m ?",
+      "choices": [
+        "E1",
+        "E2",
+        "E3",
+        "GP-N4 seul"
+      ],
+      "answer": "C",
+      "why": "Le MFT N3 prévoit un enseignant E3 minimum dans l'espace 0-40 m."
+    },
+    {
+      "id": 50,
+      "min_scope": 50,
+      "source": "N3P4",
+      "topic": "n3",
+      "levels": [
+        "N3",
+        "E3"
+      ],
+      "q": "Dans quel milieu les compétences N3 doivent-elles être obtenues ?",
+      "choices": [
+        "En milieu naturel, hors piscines et fosses",
+        "Dans une fosse de plus de 20 m seulement",
+        "En piscine exclusivement",
+        "Indifféremment en piscine ou en mer"
+      ],
+      "answer": "A",
+      "why": "Le MFT N3 exclut les piscines et fosses, quelle que soit leur profondeur."
+    },
+    {
+      "id": 114,
+      "min_scope": 50,
+      "source": "N3P3",
+      "topic": "n3",
+      "q": "Un N3 majeur prépare une exploration à l’air. Quelles possibilités relèvent de ses prérogatives réglementaires ?",
+      "choices": [
+        "Évoluer à 60 m sans DP grâce au seul N3",
+        "Guider automatiquement des N2 à 40 m au titre du seul N3",
+        "Évoluer à 40 m au plus sans DP dans les conditions d’organisation requises",
+        "Évoluer jusqu’à 60 m avec DP, sous réserve de son autorisation"
+      ],
+      "answer": "C",
+      "answers": [
+        "C",
+        "D"
+      ],
+      "why": "Le N3 majeur est autonome jusqu’à 60 m avec DP ; sans DP, le plafond est 40 m. Le N3 seul n’est pas une qualification de guide."
+    },
+    {
+      "id": 51,
+      "min_scope": 51,
+      "source": "N4P3",
+      "topic": "n4",
+      "levels": [
+        "N4"
+      ],
+      "q": "Quelle est la mission principale attestée par le brevet GP-N4 ?",
+      "choices": [
+        "Former seul tous les N3",
+        "Guider une palanquée en exploration",
+        "Assurer toute direction de plongée sans qualification complémentaire",
+        "Former les moniteurs"
+      ],
+      "answer": "B",
+      "why": "Le brevet GP-N4 atteste la fonction de guide de palanquée en exploration."
+    },
+    {
+      "id": 52,
+      "min_scope": 51,
+      "source": "N4P3",
+      "topic": "n4",
+      "levels": [
+        "N4",
+        "E2"
+      ],
+      "q": "Quelle qualification supplémentaire permet au GP-N4 d'exercer la fonction E2 selon le MFT GP-N4 ?",
+      "choices": [
+        "Le brevet N2",
+        "La qualification TIV",
+        "Le diplôme d'initiateur",
+        "Le seul RIFAP"
+      ],
+      "answer": "C",
+      "why": "Le MFT associe le GP-N4 au diplôme d'initiateur pour exercer la fonction E2."
+    },
+    {
+      "id": 53,
+      "min_scope": 52,
+      "source": "N4P3",
+      "topic": "n4",
+      "levels": [
+        "N4"
+      ],
+      "q": "Quelle qualification complémentaire permet au GP-N4 d'exercer la direction de plongée en exploration ?",
+      "choices": [
+        "PA20",
+        "Nitrox simple",
+        "TIV",
+        "DP-N5"
+      ],
+      "answer": "D",
+      "why": "Le MFT prévoit la qualification de directeur de plongée en exploration DP-N5."
+    },
+    {
+      "id": 54,
+      "min_scope": 52,
+      "source": "N4P3",
+      "topic": "n4",
+      "levels": [
+        "N4"
+      ],
+      "q": "Un GP-N4 peut-il signer les plongées d'exploration qu'il a encadrées ?",
+      "choices": [
+        "Oui",
+        "Non, seul un E4 le peut",
+        "Seulement si elles ne dépassent pas 6 m",
+        "Seulement si tous les plongeurs sont N3"
+      ],
+      "answer": "A",
+      "why": "Le MFT GP-N4 prévoit la signature des explorations encadrées."
+    },
+    {
+      "id": 115,
+      "min_scope": 52,
+      "source": "N3P3",
+      "topic": "n3",
+      "q": "Pour la qualification PA40 seule, quelles affirmations sont exactes ?",
+      "choices": [
+        "Le RIFAP est obligatoirement exigé pour cette seule qualification",
+        "N2 ou certification aux aptitudes équivalentes est un préalable",
+        "L’entrée en formation et la délivrance sont possibles à 16 ans",
+        "L’exercice de l’autonomie à 40 m attend 17 ans"
+      ],
+      "answer": "B",
+      "answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "why": "Le PA40 est accessible et délivrable dès 16 ans avec N2 ou équivalent ; autonomie à 17 ans. Le RIFAP n’est pas obligatoire pour PA40 seul."
+    },
+    {
+      "id": 55,
+      "min_scope": 53,
+      "source": "N4P3",
+      "topic": "n4",
+      "levels": [
+        "N4"
+      ],
+      "q": "Les explorations signées uniquement par un GP-N4 peuvent-elles servir de prérequis d'entrée en formation aux diplômes d'État selon le MFT ?",
+      "choices": [
+        "Oui dans tous les cas",
+        "Non, ces plongées doivent être validées par un E3 minimum",
+        "Oui avec un tampon de club seul",
+        "Seulement en eau douce"
+      ],
+      "answer": "B",
+      "why": "Le MFT distingue la signature du GP-N4 et la validation E3 requise pour ces prérequis."
+    },
+    {
+      "id": 56,
+      "min_scope": 53,
+      "source": "N4P3",
+      "topic": "n4",
+      "levels": [
+        "N4"
+      ],
+      "q": "Selon le MFT GP-N4 mai 2026, à quel âge minimal les prérogatives d'encadrement du brevet s'exercent-elles ?",
+      "choices": [
+        "15 ans",
+        "16 ans",
+        "17 ans",
+        "18 ans"
+      ],
+      "answer": "D",
+      "why": "La version consultée conditionne les prérogatives d'encadrement à 18 ans au moins ; cet item est à revérifier lors d'une évolution annoncée."
+    },
+    {
+      "id": 57,
+      "min_scope": 54,
+      "source": "N3P3",
+      "topic": "n4",
+      "levels": [
+        "N3",
+        "N4"
+      ],
+      "q": "Quel est le niveau de plongeur minimal requis par le MFT N3 pour accéder au brevet GP-N4 ?",
+      "choices": [
+        "N1",
+        "N2",
+        "N3",
+        "PE20 seul"
+      ],
+      "answer": "C",
+      "why": "Le MFT N3 présente le N3 comme le niveau de plongeur minimum pour l'accès au GP-N4."
+    },
+    {
+      "id": 58,
+      "min_scope": 54,
+      "source": "N4P3",
+      "topic": "n4",
+      "levels": [
+        "N4",
+        "E2"
+      ],
+      "q": "Le GP-N4 seul est-il automatiquement un enseignant E2 ?",
+      "choices": [
+        "Non, il faut le complément prévu par le cursus",
+        "Oui, le brevet est identique à l'E2",
+        "Oui dès sa première exploration encadrée",
+        "Oui avec l'accord d'un N2"
+      ],
+      "answer": "A",
+      "why": "Le MFT distingue la fonction GP de la fonction E2 acquise avec le complément requis."
+    },
+    {
+      "id": 116,
+      "min_scope": 54,
+      "source": "N3P3",
+      "topic": "n3",
+      "q": "Un candidat prépare le N3. Quels repères sont exacts ?",
+      "choices": [
+        "Le brevet peut être délivré à 17 ans",
+        "Le RIFAP est requis au moment de la certification",
+        "L’autonomie au-delà de 40 m s’exerce à partir de 18 ans",
+        "À 17 ans, la seule carte N3 autorise l’autonomie à 60 m"
+      ],
+      "answer": "A",
+      "answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "why": "Le N3 peut être obtenu à 17 ans avec les préalables du cursus, dont le RIFAP à la certification ; l’autonomie au-delà de 40 m reste réservée aux majeurs."
+    },
+    {
+      "id": 59,
+      "min_scope": 55,
+      "source": "MF1P3",
+      "topic": "e3",
+      "levels": [
+        "E3"
+      ],
+      "q": "À quel niveau d'enseignement correspond le brevet MF1 ?",
+      "choices": [
+        "E1",
+        "E2",
+        "E3",
+        "E4"
+      ],
+      "answer": "C",
+      "why": "Le MF1 atteste les compétences de la fonction d'enseignant E3."
+    },
+    {
+      "id": 60,
+      "min_scope": 55,
+      "source": "MF1P3",
+      "topic": "e3",
+      "levels": [
+        "E3"
+      ],
+      "q": "Le MF1 peut-il assurer les fonctions de directeur de plongée dans le cadre de ses prérogatives ?",
+      "choices": [
+        "Non",
+        "Oui",
+        "Seulement en piscine de 2 m",
+        "Seulement après avoir obtenu le N5"
+      ],
+      "answer": "B",
+      "why": "La direction de plongée figure dans les prérogatives MF1 du MFT."
+    },
+    {
+      "id": 61,
+      "min_scope": 56,
+      "source": "MF1P3",
+      "topic": "e3",
+      "levels": [
+        "E3"
+      ],
+      "q": "Quelle série de brevets de plongeur le MF1 peut-il valider selon le MFT ?",
+      "choices": [
+        "N1 uniquement",
+        "N1 et N2 uniquement",
+        "N4 et MF2",
+        "N1 à N3"
+      ],
+      "answer": "D",
+      "why": "Le MF1 peut valider les compétences des diplômes de plongeurs N1 à N3."
+    },
+    {
+      "id": 62,
+      "min_scope": 56,
+      "source": "MF1P3",
+      "topic": "e3",
+      "levels": [
+        "E3"
+      ],
+      "q": "Un MF1 peut-il signer les attestations d'aptitude des candidats au GP-N4 ?",
+      "choices": [
+        "Oui",
+        "Non, uniquement un E4",
+        "Non, uniquement le président",
+        "Seulement après dix ans d'ancienneté"
+      ],
+      "answer": "A",
+      "why": "Cette signature figure dans les prérogatives du MF1."
+    },
+    {
+      "id": 117,
+      "min_scope": 56,
+      "source": "N3P3",
+      "topic": "n3",
+      "q": "Une exploration de plongeurs PE60 est prévue entre 40 et 60 m. Quelles affirmations sont exactes ?",
+      "choices": [
+        "L’encadrant de la palanquée doit être E4 minimum",
+        "Un GP-N4 seul suffit pour guider à 60 m",
+        "Un MF1/E3 seul peut remplacer l’E4 comme encadrant immergé à 60 m",
+        "La plongée se déroule sous la responsabilité d’un DP"
+      ],
+      "answer": "A",
+      "answers": [
+        "A",
+        "D"
+      ],
+      "why": "Le MFT PE60 impose un DP et un E4 minimum pour l’encadrement entre 40 et 60 m ; ne pas confondre fonction de DP et encadrant immergé."
+    },
+    {
+      "id": 63,
+      "min_scope": 57,
+      "source": "MF1P3",
+      "topic": "e3",
+      "levels": [
+        "E3"
+      ],
+      "q": "Le MF1 peut-il valider la qualification DP-N5 ?",
+      "choices": [
+        "Non",
+        "Oui",
+        "Seulement en mer chaude",
+        "Uniquement pour un autre MF1"
+      ],
+      "answer": "B",
+      "why": "Le MFT MF1 prévoit la validation de la qualification de directeur de plongée en exploration N5."
+    },
+    {
+      "id": 64,
+      "min_scope": 57,
+      "source": "MF1P3",
+      "topic": "e3",
+      "levels": [
+        "E3"
+      ],
+      "q": "Le MF1 peut-il signer les carnets de plongée ?",
+      "choices": [
+        "Non",
+        "Uniquement en piscine",
+        "Oui",
+        "Uniquement pour les N1"
+      ],
+      "answer": "C",
+      "why": "La signature des carnets de plongée figure dans ses prérogatives."
+    },
+    {
+      "id": 65,
+      "min_scope": 58,
+      "source": "N3P4",
+      "topic": "e3",
+      "levels": [
+        "E3"
+      ],
+      "q": "Le statut E3 suffit-il pour encadrer une formation technique N3 à 50 m ?",
+      "choices": [
+        "Oui sans condition",
+        "Oui avec un GP-N4 supplémentaire",
+        "Oui si tous les élèves sont majeurs",
+        "Non, dans l'espace 0-60 m il faut un E4"
+      ],
+      "answer": "D",
+      "why": "L'enseignement technique au-delà de 40 m requiert un E4."
+    },
+    {
+      "id": 66,
+      "min_scope": 58,
+      "source": "MF1P3",
+      "topic": "e3",
+      "levels": [
+        "E3",
+        "E1"
+      ],
+      "q": "Le MFT prévoit-il qu'un MF1 puisse devenir tuteur de stage en situation dans le cursus Initiateur ?",
+      "choices": [
+        "Oui",
+        "Non",
+        "Seulement s'il devient N5",
+        "Uniquement pour la théorie N1"
+      ],
+      "answer": "A",
+      "why": "Le MFT liste cette possibilité ; les conditions du tutorat restent celles du cursus Initiateur."
+    },
+    {
+      "id": 118,
+      "min_scope": 58,
+      "source": "N4P8",
+      "topic": "n4",
+      "q": "Pour un jeune candidat GP-N4, quelles affirmations sont exactes ?",
+      "choices": [
+        "Le RIFAP figure parmi les conditions de candidature",
+        "La réussite au GP-N4 donne à elle seule la fonction d’enseignant E2",
+        "L’examen est accessible à partir de 17 ans",
+        "La fonction de guide attend 18 ans"
+      ],
+      "answer": "A",
+      "answers": [
+        "A",
+        "C",
+        "D"
+      ],
+      "why": "Le GP-N4 peut être présenté à 17 ans avec les préalables du MFT ; les fonctions d’encadrement s’exercent à 18 ans. Le GP seul n’est pas E2."
+    },
+    {
+      "id": 67,
+      "min_scope": 59,
+      "source": "JPP3",
+      "topic": "jeunes",
+      "levels": [
+        "jeunes"
+      ],
+      "q": "Quel est l'âge minimal fédéral pour pratiquer la plongée en immersion avec scaphandre dans le cursus jeunes ?",
+      "choices": [
+        "6 ans",
+        "8 ans",
+        "10 ans",
+        "12 ans"
+      ],
+      "answer": "B",
+      "why": "Le cursus jeunes prévoit le scaphandre à partir de 8 ans."
+    },
+    {
+      "id": 68,
+      "min_scope": 59,
+      "source": "JPP3",
+      "topic": "jeunes",
+      "levels": [
+        "jeunes"
+      ],
+      "q": "Le cursus étoiles de mer en plongée libre comporte-t-il un âge minimal fixé par ce MFT ?",
+      "choices": [
+        "Oui 8 ans",
+        "Oui 6 ans",
+        "Oui 4 ans",
+        "Non"
+      ],
+      "answer": "D",
+      "why": "Le MFT Jeunes précise qu'il peut se pratiquer sans âge minimum."
+    },
+    {
+      "id": 69,
+      "min_scope": 60,
+      "source": "JPP3",
+      "topic": "jeunes",
+      "levels": [
+        "jeunes"
+      ],
+      "q": "À partir de quel âge le plongeur d'or est-il accessible ?",
+      "choices": [
+        "8 ans",
+        "9 ans",
+        "10 ans",
+        "12 ans"
+      ],
+      "answer": "C",
+      "why": "Le MFT indique 10 ans pour le plongeur d'or."
+    },
+    {
+      "id": 70,
+      "min_scope": 60,
+      "source": "JPP3",
+      "topic": "jeunes",
+      "levels": [
+        "jeunes"
+      ],
+      "q": "Est-il obligatoire de posséder le niveau inférieur pour recevoir un brevet des cursus jeunes bulles ou jeunes plongeurs ?",
+      "choices": [
+        "Non",
+        "Oui toujours",
+        "Oui sauf en mer",
+        "Oui uniquement en piscine"
+      ],
+      "answer": "A",
+      "why": "Le MFT n'impose pas de détenir le niveau inférieur."
+    },
+    {
+      "id": 119,
+      "min_scope": 60,
+      "source": "N4P3",
+      "topic": "n4",
+      "q": "Un GP-N4 majeur ne possède ni Initiateur ni N5. Quelles possibilités possède-t-il ?",
+      "choices": [
+        "Enseigner à 20 m au seul titre du GP-N4",
+        "Guider l’exploration jusqu’à 40 m selon les aptitudes des encadrés et le DP",
+        "Évoluer en autonomie jusqu’à 60 m avec DP dans les conditions réglementaires",
+        "Diriger automatiquement l’enseignement en milieu naturel"
+      ],
+      "answer": "B",
+      "answers": [
+        "B",
+        "C"
+      ],
+      "why": "Le GP-N4 est guide jusqu’à 40 m et conserve ses aptitudes d’autonomie. L’enseignement et la direction de plongée exigent les qualifications correspondantes."
+    },
+    {
+      "id": 71,
+      "min_scope": 61,
+      "source": "JPP3",
+      "topic": "jeunes",
+      "levels": [
+        "jeunes"
+      ],
+      "q": "Les qualifications complémentaires du parcours jeunes sont-elles obligatoires pour tous les jeunes ?",
+      "choices": [
+        "Oui toutes",
+        "Non, leur application est volontaire",
+        "Oui pour avoir un N1",
+        "Oui pour tout baptême"
+      ],
+      "answer": "B",
+      "why": "Le MFT décrit ces qualifications comme complémentaires, volontaires et non obligatoires."
+    },
+    {
+      "id": 72,
+      "min_scope": 61,
+      "source": "JPP3",
+      "topic": "jeunes",
+      "levels": [
+        "jeunes"
+      ],
+      "q": "Dans les tranches d'âge du MFT jeunes, à quoi se rapportent les âges mentionnés ?",
+      "choices": [
+        "À l'année civile",
+        "À la classe scolaire",
+        "Aux dates anniversaires",
+        "À la saison sportive"
+      ],
+      "answer": "C",
+      "why": "Les bornes d'âge se lisent d'anniversaire à anniversaire."
+    },
+    {
+      "id": 73,
+      "min_scope": 62,
+      "source": "JPP4",
+      "topic": "jeunes",
+      "levels": [
+        "jeunes",
+        "E1"
+      ],
+      "q": "Quel niveau minimal côté filière technique peut valider et signer les compétences du cursus jeunes bulles ?",
+      "choices": [
+        "GP-N4 seul",
+        "E3 uniquement",
+        "N2",
+        "E1"
+      ],
+      "answer": "D",
+      "why": "Le MFT prévoit E1 minimum ou IE1 apnée minimum pour jeunes bulles."
+    },
+    {
+      "id": 74,
+      "min_scope": 62,
+      "source": "JPP4",
+      "topic": "jeunes",
+      "levels": [
+        "jeunes",
+        "E2"
+      ],
+      "q": "Quel niveau minimal côté filière technique valide et signe les compétences du cursus jeunes plongeurs avec scaphandre ?",
+      "choices": [
+        "E2",
+        "E1",
+        "N2",
+        "GP-N4 sans initiateur"
+      ],
+      "answer": "A",
+      "why": "Le MFT Jeunes juin 2026 prévoit E2 minimum pour la validation des compétences jeunes plongeurs."
+    },
+    {
+      "id": 120,
+      "min_scope": 62,
+      "source": "INIT3",
+      "topic": "e2",
+      "q": "Un GP-N4 titulaire de l’Initiateur exerce comme E2. Quels actes relèvent de ses prérogatives ?",
+      "choices": [
+        "Enseigner dans 0–20 m sous DP E3 minimum",
+        "Valider les compétences N1 et N2 dans les conditions prévues au MFT",
+        "Diriger à lui seul une séance d’enseignement en milieu naturel",
+        "Enseigner dans 0–40 m au seul titre de son E2"
+      ],
+      "answer": "A",
+      "answers": [
+        "A",
+        "B"
+      ],
+      "why": "L’E2 GP + Initiateur enseigne dans 0–20 m sous DP E3 et valide les compétences N1/N2 selon le cursus ; il n’est pas DP d’enseignement en naturel au seul titre E2."
+    },
+    {
+      "id": 75,
+      "min_scope": 63,
+      "source": "JPP3",
+      "topic": "jeunes",
+      "levels": [
+        "jeunes",
+        "E3"
+      ],
+      "q": "Par quel niveau minimal les brevets et qualifications jeunes sont-ils délivrés, sous la responsabilité du président ou du responsable de structure ?",
+      "choices": [
+        "E1",
+        "E3 licencié",
+        "N2",
+        "GP-N4 seul"
+      ],
+      "answer": "B",
+      "why": "Le MFT distingue cette délivrance E3 minimum de la validation des compétences."
+    },
+    {
+      "id": 76,
+      "min_scope": 63,
+      "source": "JPP3",
+      "topic": "jeunes",
+      "levels": [
+        "jeunes"
+      ],
+      "q": "À partir de quel âge la qualification aide moniteur est-elle accessible ?",
+      "choices": [
+        "8 ans",
+        "12 ans",
+        "10 ans",
+        "14 ans"
+      ],
+      "answer": "C",
+      "why": "Le MFT Jeunes prévoit aide moniteur à partir de 10 ans."
+    },
+    {
+      "id": 77,
+      "min_scope": 64,
+      "source": "JPP3",
+      "topic": "jeunes",
+      "levels": [
+        "jeunes"
+      ],
+      "q": "À partir de quel âge la qualification assistant moniteur est-elle accessible ?",
+      "choices": [
+        "10 ans",
+        "11 ans",
+        "14 ans",
+        "12 ans"
+      ],
+      "answer": "D",
+      "why": "Le MFT Jeunes prévoit assistant moniteur à partir de 12 ans."
+    },
+    {
+      "id": 78,
+      "min_scope": 64,
+      "source": "JPP5",
+      "topic": "jeunes",
+      "levels": [
+        "jeunes",
+        "E1"
+      ],
+      "q": "Quelle profondeur maximale est prévue pour le baptême d'un enfant de 9 ans ?",
+      "choices": [
+        "2 m",
+        "3 m",
+        "6 m",
+        "12 m"
+      ],
+      "answer": "A",
+      "why": "Dans la tranche 8-10 ans, le baptême se déroule dans l'espace 0-2 m."
+    },
+    {
+      "id": 121,
+      "min_scope": 64,
+      "source": "MF1STAGE",
+      "topic": "e3",
+      "q": "Un stagiaire MF1 exerce comme E2 avec son livret pédagogique en cours de validité. Quelles affirmations sont exactes ?",
+      "choices": [
+        "Il doit respecter les conditions du statut de stagiaire et du livret",
+        "Son seul statut lui permet de valider les compétences N2",
+        "Son seul statut lui permet d’être DP, même en piscine",
+        "Il peut enseigner dans 0–20 m sous DP E3 minimum"
+      ],
+      "answer": "A",
+      "answers": [
+        "A",
+        "D"
+      ],
+      "why": "Le statut E2 du stagiaire MF1 permet d’enseigner sous les conditions du cursus, mais ne donne pas les droits de validation ni de DP du GP titulaire de l’Initiateur."
+    },
+    {
+      "id": 79,
+      "min_scope": 65,
+      "source": "JPP5",
+      "topic": "jeunes",
+      "levels": [
+        "jeunes",
+        "E1"
+      ],
+      "q": "Quelle profondeur maximale est prévue pour le baptême d'un enfant de 11 ans ?",
+      "choices": [
+        "2 m",
+        "3 m",
+        "6 m",
+        "12 m"
+      ],
+      "answer": "B",
+      "why": "Dans la tranche 10-12 ans, le baptême se déroule dans l'espace 0-3 m."
+    },
+    {
+      "id": 80,
+      "min_scope": 65,
+      "source": "JPP5",
+      "topic": "jeunes",
+      "levels": [
+        "jeunes",
+        "E1"
+      ],
+      "q": "Quel effectif maximal de baptisés par E1 le tableau jeunes prévoit-il pour un baptême scaphandre ?",
+      "choices": [
+        "Trois",
+        "Deux",
+        "Un",
+        "Quatre"
+      ],
+      "answer": "C",
+      "why": "Le tableau des conditions d'évolution prévoit un seul baptisé, encadrant non compris."
+    },
+    {
+      "id": 81,
+      "min_scope": 66,
+      "source": "INIT3",
+      "topic": "e1",
+      "levels": [
+        "E1"
+      ],
+      "q": "Quelle proposition décrit complètement les limites d'enseignement d'un E1 ?",
+      "choices": [
+        "Jusqu'à 6 m en milieu artificiel et naturel, avec un DP E3 minimum en milieu naturel",
+        "Jusqu'à 6 m, uniquement en milieu artificiel",
+        "Jusqu'à 20 m dans les deux milieux",
+        "Jusqu'à 40 m en milieu naturel"
+      ],
+      "answer": "A",
+      "why": "L'E1 enseigne dans 0-6 m en milieu artificiel comme naturel. En milieu naturel, le DP est E3 minimum. La bonne profondeur associée à la restriction erronée au seul milieu artificiel vaut un demi-point et ne valide pas cette question.",
+      "choice_scores": [
+        1,
+        0.5,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 82,
+      "min_scope": 66,
+      "source": "CDS72",
+      "topic": "security_equipment",
+      "levels": [
+        "E1",
+        "E2",
+        "E3",
+        "N4"
+      ],
+      "q": "Lorsqu'un DP est requis, où doit-il être présent pendant l'activité ?",
+      "choices": [
+        "Uniquement au siège du club",
+        "N'importe où s'il est joignable au téléphone",
+        "Sur le lieu de mise à l'eau ou d'immersion de la palanquée",
+        "Obligatoirement dans chaque palanquée"
+      ],
+      "answer": "C",
+      "why": "Le DP est présent sur le lieu de mise à l'eau ou d'immersion."
+    },
+    {
+      "id": 122,
+      "min_scope": 66,
+      "source": "CDS15A",
+      "topic": "e3",
+      "q": "Une formation à l’air est organisée entre 40 et 60 m. Quelles affirmations sont exactes ?",
+      "choices": [
+        "La fonction de DP autorise le MF1 à enseigner lui-même à 60 m au titre E3",
+        "Tout enseignement à l’air dirigé par un E3 est plafonné à 40 m",
+        "Un MF1/E3 peut en assurer la direction de plongée",
+        "L’enseignement immergé entre 40 et 60 m exige E4 minimum"
+      ],
+      "answer": "C",
+      "answers": [
+        "C",
+        "D"
+      ],
+      "why": "L’annexe III-15 a admet le MF1 comme DP d’enseignement à l’air ; l’annexe III-16 a exige E4 pour l’enseignement immergé au-delà de 40 m."
+    },
+    {
+      "id": 83,
+      "min_scope": 67,
+      "source": "CDS72",
+      "topic": "security_equipment",
+      "levels": [
+        "E1",
+        "E2",
+        "E3",
+        "N4"
+      ],
+      "q": "Qui fixe les caractéristiques de la plongée dans l'organisation placée sous un DP ?",
+      "choices": [
+        "Le directeur de plongée",
+        "Le plongeur le plus ancien uniquement",
+        "Le président du club, même absent du site",
+        "Chaque élève indépendamment"
+      ],
+      "answer": "A",
+      "why": "Le DP fixe les caractéristiques de la plongée dans le cadre réglementaire."
+    },
+    {
+      "id": 84,
+      "min_scope": 67,
+      "source": "CDS72",
+      "topic": "security_equipment",
+      "levels": [
+        "E1",
+        "E2",
+        "E3",
+        "N4"
+      ],
+      "q": "Combien de temps l'établissement doit-il conserver la fiche de sécurité lorsqu'elle est obligatoire ?",
+      "choices": [
+        "Un mois",
+        "Trois mois",
+        "Cinq ans",
+        "Une année"
+      ],
+      "answer": "D",
+      "why": "La fiche de sécurité doit être conservée une année, par tout moyen."
+    },
+    {
+      "id": 85,
+      "min_scope": 68,
+      "source": "CDS98",
+      "topic": "security_equipment",
+      "levels": [
+        "E1",
+        "E2",
+        "E3",
+        "N4"
+      ],
+      "q": "En piscine ou fosse dont la profondeur maximale n'excède pas 6 m, la fiche de sécurité prévue à l'article A.322-72 est-elle obligatoire ?",
+      "choices": [
+        "Oui dans tous les cas",
+        "Non, une dérogation est prévue",
+        "Oui, seulement pour les N1",
+        "Non, mais seulement si la piscine fait moins de 2 m"
+      ],
+      "answer": "B",
+      "why": "L'article A.322-98 dispense de cette fiche en piscine ou fosse dont la profondeur n'excède pas 6 m."
+    },
+    {
+      "id": 86,
+      "min_scope": 68,
+      "source": "CDS78",
+      "topic": "security_equipment",
+      "levels": [
+        "E1",
+        "E2",
+        "E3",
+        "N4"
+      ],
+      "q": "Quel énoncé décrit le plan de secours exigé sur le lieu de mise à l'eau ou d'immersion ?",
+      "choices": [
+        "Un simple numéro mémorisé par le DP",
+        "Un document national identique pour tous les sites",
+        "Un document écrit adapté au lieu et à la plongée, régulièrement mis à jour",
+        "Un document facultatif si un moniteur est présent"
+      ],
+      "answer": "C",
+      "why": "Le plan de secours est écrit, adapté au site et à l'activité, et régulièrement actualisé."
+    },
+    {
+      "id": 123,
+      "min_scope": 68,
+      "source": "MF1P3",
+      "topic": "e3",
+      "q": "Parmi ces validations de compétences, lesquelles sont ouvertes au MF1 dans le cadre fédéral ?",
+      "choices": [
+        "Délivrance du GP-N4 sans examen ni jury",
+        "Compétences du N1",
+        "Compétences du N3",
+        "Délivrance du MF2 par sa seule signature"
+      ],
+      "answer": "B",
+      "answers": [
+        "B",
+        "C"
+      ],
+      "why": "Le MF1 valide les compétences des plongeurs N1 à N3 selon le MFT. Les examens GP-N4 et MF2 obéissent à leurs propres règles et jurys."
+    },
+    {
+      "id": 87,
+      "min_scope": 69,
+      "source": "CDS78",
+      "topic": "security_equipment",
+      "levels": [
+        "E1",
+        "E2",
+        "E3",
+        "N4"
+      ],
+      "q": "Quel moyen de communication est nécessaire pour une plongée en mer au départ d'une embarcation support ?",
+      "choices": [
+        "Une VHF",
+        "Un téléphone seul dans tous les cas",
+        "Un sifflet uniquement",
+        "Aucun si le rivage reste visible"
+      ],
+      "answer": "A",
+      "why": "Une VHF est nécessaire dans cette configuration."
+    },
+    {
+      "id": 88,
+      "min_scope": 69,
+      "source": "CDS78",
+      "topic": "security_equipment",
+      "levels": [
+        "E1",
+        "E2",
+        "E3",
+        "N4"
+      ],
+      "q": "La capacité de l'ensemble d'oxygénothérapie doit permettre quelle prise en charge ?",
+      "choices": [
+        "Exactement cinq minutes",
+        "Une seule inspiration par plongeur",
+        "Uniquement le trajet jusqu'au port",
+        "Une prise en charge adaptée jusqu'à l'arrivée des secours médicaux"
+      ],
+      "answer": "D",
+      "why": "La réserve doit être dimensionnée pour une prise en charge adaptée jusqu'aux secours médicaux."
+    },
+    {
+      "id": 89,
+      "min_scope": 70,
+      "source": "CDS78",
+      "topic": "security_equipment",
+      "levels": [
+        "E1",
+        "E2",
+        "E3",
+        "N4"
+      ],
+      "q": "Combien de tailles de masque doivent accompagner le ballon auto-remplisseur à valve unidirectionnelle prévu dans le matériel de secours ?",
+      "choices": [
+        "Une taille unique",
+        "Trois : grand, moyen et petit",
+        "Deux : adulte et enfant",
+        "Aucun masque n'est requis"
+      ],
+      "answer": "B",
+      "why": "Le matériel prévu comprend trois masques : grand, moyen et petit."
+    },
+    {
+      "id": 90,
+      "min_scope": 70,
+      "source": "CDS78",
+      "topic": "security_equipment",
+      "levels": [
+        "E1",
+        "E2",
+        "E3",
+        "N4"
+      ],
+      "q": "Quelle eau doit être disponible dans le matériel prévu par l'article A.322-78 ?",
+      "choices": [
+        "De l'eau douce potable",
+        "De l'eau de mer uniquement",
+        "De l'eau distillée exclusivement",
+        "Aucune eau n'est mentionnée"
+      ],
+      "answer": "A",
+      "why": "De l'eau douce potable doit être à disposition."
+    },
+    {
+      "id": 124,
+      "min_scope": 70,
+      "source": "MF1INITIAL",
+      "topic": "e3",
+      "q": "Pour l’accès au stage initial MF1 par la voie classique, quels éléments sont exigés ?",
+      "choices": [
+        "Avoir au moins 18 ans",
+        "Posséder un GP-N4 ou titre admis dans le chapitre",
+        "Posséder le RIFAP",
+        "Avoir uniquement le N2, sans autre qualification"
+      ],
+      "answer": "A",
+      "answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "why": "Le stage initial MF1 de la voie classique exige 18 ans, le GP ou un titre admis et le RIFAP, ainsi que les autres conditions du chapitre."
+    },
+    {
+      "id": 91,
+      "min_scope": 71,
+      "source": "CDS78",
+      "topic": "security_equipment",
+      "levels": [
+        "E1",
+        "E2",
+        "E3",
+        "N4"
+      ],
+      "q": "Quelle obligation s'applique au matériel de secours ?",
+      "choices": [
+        "Le vérifier seulement après un accident",
+        "Le remplacer après chaque sortie",
+        "Le contrôler uniquement à l'achat",
+        "Le vérifier régulièrement et l'entretenir correctement"
+      ],
+      "answer": "D",
+      "why": "Le matériel de secours doit être régulièrement vérifié et correctement entretenu."
+    },
+    {
+      "id": 92,
+      "min_scope": 71,
+      "source": "CDS78",
+      "topic": "security_equipment",
+      "levels": [
+        "E1",
+        "E2",
+        "E3",
+        "N4"
+      ],
+      "q": "Dans quelle configuration un moyen de rappel des plongeurs immergés depuis la surface est-il prévu ?",
+      "choices": [
+        "Dans toute piscine de 2 m uniquement",
+        "Uniquement pendant les examens N4",
+        "En milieu naturel au départ d'une embarcation",
+        "Seulement pour les plongées sans DP"
+      ],
+      "answer": "C",
+      "why": "Le moyen de rappel est requis dans cette configuration en milieu naturel."
+    },
+    {
+      "id": 93,
+      "min_scope": 72,
+      "source": "CDS78",
+      "topic": "security_equipment",
+      "levels": [
+        "E1",
+        "E2",
+        "E3",
+        "N4"
+      ],
+      "q": "Dans quelle situation un jeu de tables de décompression fait-il partie du matériel d'assistance prévu par cet article ?",
+      "choices": [
+        "Dans toute piscine de moins de 2 m",
+        "En milieu naturel au-delà de 6 m",
+        "Seulement au-delà de 60 m",
+        "Jamais si tous les plongeurs ont un ordinateur"
+      ],
+      "answer": "B",
+      "why": "Un jeu de tables est prévu en milieu naturel au-delà de 6 m."
+    },
+    {
+      "id": 94,
+      "min_scope": 72,
+      "source": "CDS80",
+      "topic": "security_equipment",
+      "levels": [
+        "E1",
+        "E2",
+        "E3",
+        "N4"
+      ],
+      "q": "Quel équipement permet de connaître pendant la plongée la pression d'une bouteille ou d'un ensemble de bouteilles d'un même gaz ?",
+      "choices": [
+        "La couleur du bloc seule",
+        "Le lestage du plongeur",
+        "Une estimation faite avant le départ uniquement",
+        "Un manomètre ou un système équivalent"
+      ],
+      "answer": "D",
+      "why": "La pression doit pouvoir être indiquée pendant la plongée par manomètre ou dispositif équivalent."
+    },
+    {
+      "id": 125,
+      "min_scope": 72,
+      "source": "RIFAP7",
+      "topic": "n3",
+      "q": "Pour quelles certifications le tableau RIFAP du MFT rend-il le RIFAP obligatoire ?",
+      "choices": [
+        "GP-N4",
+        "Initiateur",
+        "PA40 pris isolément",
+        "N3"
+      ],
+      "answer": "A",
+      "answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "why": "Le tableau fédéral impose le RIFAP pour N3, GP et Initiateur ; il reste facultatif pour PA40 seul."
+    },
+    {
+      "id": 95,
+      "min_scope": 73,
+      "source": "CDS80",
+      "topic": "security_equipment",
+      "levels": [
+        "E1",
+        "E2",
+        "E3",
+        "N4"
+      ],
+      "q": "En milieu naturel, à quelle échelle le minimum d'un parachute de palier est-il imposé par cet article ?",
+      "choices": [
+        "Un par club",
+        "Un par bateau",
+        "Un par palanquée",
+        "Un par région"
+      ],
+      "answer": "C",
+      "why": "Chaque palanquée doit disposer d'un parachute de palier en milieu naturel."
+    },
+    {
+      "id": 96,
+      "min_scope": 73,
+      "source": "CDS80",
+      "topic": "security_equipment",
+      "levels": [
+        "E1",
+        "E2",
+        "E3",
+        "N4"
+      ],
+      "q": "Quel équipement respiratoire l'encadrant d'une palanquée doit-il avoir en milieu naturel ?",
+      "choices": [
+        "Deux sorties indépendantes et deux détendeurs complets",
+        "Une seule sortie et un tuba",
+        "Un octopus sur une unique sortie dans tous les cas",
+        "Aucun équipement différent de celui d'un baptisé"
+      ],
+      "answer": "A",
+      "why": "L'encadrant dispose de deux sorties indépendantes et de deux détendeurs complets."
+    },
+    {
+      "id": 97,
+      "min_scope": 74,
+      "source": "CDS80",
+      "topic": "security_equipment",
+      "levels": [
+        "E1",
+        "E2",
+        "E3",
+        "N4"
+      ],
+      "q": "En milieu naturel, un plongeur autonome doit pouvoir alimenter un équipier en gaz respirable de quelle façon ?",
+      "choices": [
+        "Uniquement en partageant son embout",
+        "Sans partage d'embout, grâce à un équipement adapté",
+        "En remontant seul chercher un bloc",
+        "Cette possibilité n'est pas imposée"
+      ],
+      "answer": "B",
+      "why": "L'équipement doit permettre d'alimenter un équipier sans partage d'embout."
+    },
+    {
+      "id": 98,
+      "min_scope": 74,
+      "source": "CDS80",
+      "topic": "security_equipment",
+      "levels": [
+        "E1",
+        "E2",
+        "E3",
+        "N4"
+      ],
+      "q": "Un plongeur encadré à 30 m en milieu naturel doit-il avoir des équipements permettant de contrôler les caractéristiques personnelles de sa plongée et de sa remontée ?",
+      "choices": [
+        "Non, seul le GP doit en avoir",
+        "Non, cette obligation commence à 60 m",
+        "Oui, car il évolue encadré au-delà de 20 m",
+        "Uniquement s'il est lui-même moniteur"
+      ],
+      "answer": "C",
+      "why": "L'obligation vise notamment les plongeurs encadrés au-delà de 20 m."
+    },
+    {
+      "id": 126,
+      "min_scope": 74,
+      "source": "JPP3",
+      "topic": "jeunes",
+      "q": "Concernant l’accès des enfants aux cursus de découverte, quelles affirmations sont exactes ?",
+      "choices": [
+        "Les trois étoiles de mer sont obligatoires avant tout baptême scaphandre",
+        "Le bronze impose obligatoirement d’avoir obtenu l’argent",
+        "Les étoiles de mer sans scaphandre n’ont pas d’âge minimal fédéral",
+        "L’immersion avec scaphandre dans ce cursus commence à 8 ans"
+      ],
+      "answer": "C",
+      "answers": [
+        "C",
+        "D"
+      ],
+      "why": "Le cursus sans scaphandre ne fixe pas d’âge minimal ; le scaphandre commence à 8 ans. Les étoiles et brevets précédents ne sont pas des préalables obligatoires."
+    },
+    {
+      "id": 99,
+      "min_scope": 75,
+      "source": "CDS80",
+      "topic": "security_equipment",
+      "levels": [
+        "E1",
+        "E2",
+        "E3",
+        "N4"
+      ],
+      "q": "En milieu naturel, de quoi doit disposer chaque plongeur équipé d'un appareil à circuit ouvert pour regagner la surface et s'y maintenir ?",
+      "choices": [
+        "D'un système gonflable au moyen de gaz comprimé",
+        "Uniquement d'un tuba",
+        "Uniquement d'un parachute de palier",
+        "D'une bouée située sur le bateau"
+      ],
+      "answer": "A",
+      "why": "Un système gonflable au moyen de gaz comprimé est prévu pour chaque plongeur en circuit ouvert."
+    },
+    {
+      "id": 100,
+      "min_scope": 75,
+      "source": "CDS78",
+      "topic": "security_equipment",
+      "levels": [
+        "E1",
+        "E2",
+        "E3",
+        "N4"
+      ],
+      "q": "À qui le plan de secours doit-il être porté à connaissance ?",
+      "choices": [
+        "Uniquement au président du club",
+        "Uniquement au pilote du bateau",
+        "Uniquement aux débutants",
+        "Au DP, aux encadrants des palanquées et aux plongeurs autonomes"
+      ],
+      "answer": "D",
+      "why": "Le plan doit être connu du DP, des personnes encadrantes et des plongeurs autonomes."
+    },
+    {
+      "id": 127,
+      "min_scope": 76,
+      "source": "JPP3",
+      "topic": "jeunes",
+      "q": "Quelles associations brevet/âge minimal sont exactes dans le cursus jeunes plongeurs ?",
+      "choices": [
+        "N1 : 10 ans",
+        "Bronze : 8 ans",
+        "Argent : 8 ans",
+        "Or : 10 ans"
+      ],
+      "answer": "B",
+      "answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "why": "Bronze et argent sont accessibles à 8 ans, or à 10 ans. Le N1 est accessible à 12 ans."
+    },
+    {
+      "id": 128,
+      "min_scope": 78,
+      "source": "JPP5",
+      "topic": "jeunes",
+      "q": "Quels couples âge/profondeur maximale de baptême respectent le tableau Jeunes du MFT ?",
+      "choices": [
+        "9 ans : 2 m",
+        "11 ans : 3 m",
+        "13 ans : 6 m",
+        "9 ans : 3 m"
+      ],
+      "answer": "A",
+      "answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "why": "Le MFT Jeunes distingue 8 à moins de 10 ans : 2 m ; 10 à moins de 12 ans : 3 m ; à partir de 12 ans : 6 m."
+    },
+    {
+      "id": 129,
+      "min_scope": 80,
+      "source": "JPP4",
+      "topic": "jeunes",
+      "q": "Pour un plongeur scaphandre de 11 ans, quelles conditions générales figurent dans le MFT Jeunes ?",
+      "choices": [
+        "Plongée sans palier obligatoire",
+        "Matériel adapté à sa morphologie",
+        "Deux plongées par jour sont toujours autorisées si l’intervalle atteint trois heures",
+        "Une plongée par jour au maximum"
+      ],
+      "answer": "A",
+      "answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "why": "Avant 12 ans : une plongée par jour ; les plongées doivent rester sans palier imposé et le matériel doit être adapté au jeune."
+    },
+    {
+      "id": 130,
+      "min_scope": 82,
+      "source": "JPP3",
+      "topic": "jeunes",
+      "q": "Concernant les compétences et la délivrance des brevets jeunes avec scaphandre, quelles affirmations sont exactes ?",
+      "choices": [
+        "Le seul GP-N4 sans Initiateur valide automatiquement toutes les compétences",
+        "Le seul niveau N2 permet de délivrer les brevets jeunes",
+        "La délivrance relève d’un E3 licencié minimum sous la responsabilité de la structure",
+        "Les compétences du cursus scaphandre sont validées et signées par E2 minimum"
+      ],
+      "answer": "C",
+      "answers": [
+        "C",
+        "D"
+      ],
+      "why": "Le MFT distingue validation des compétences scaphandre par E2 minimum et délivrance par E3 licencié minimum sous la responsabilité du président ou responsable de structure."
+    },
+    {
+      "id": 131,
+      "min_scope": 84,
+      "source": "JPP5",
+      "topic": "jeunes",
+      "q": "Quels exemples d’exploration encadrée respectent les plafonds du plongeur d’or ?",
+      "choices": [
+        "À 13 ans : autonomie à 20 m grâce au seul brevet d’or",
+        "À 11 ans : 12 m",
+        "À 13 ans : 20 m",
+        "À 11 ans : 20 m"
+      ],
+      "answer": "B",
+      "answers": [
+        "B",
+        "C"
+      ],
+      "why": "Le plongeur d’or évolue encadré jusqu’à 12 m avant 12 ans, puis jusqu’à 20 m de 12 à 14 ans. Ce brevet ne confère pas l’autonomie."
+    },
+    {
+      "id": 132,
+      "min_scope": 86,
+      "source": "JPP3",
+      "topic": "jeunes",
+      "q": "Quels engagements proposés aux jeunes figurent dans le parcours fédéral ?",
+      "choices": [
+        "Aide-moniteur à partir de 10 ans",
+        "Assistant moniteur à partir de 12 ans",
+        "Fonction de DP d’enseignement en milieu naturel à 14 ans",
+        "Obtention automatique de l’Initiateur en devenant assistant moniteur"
+      ],
+      "answer": "A",
+      "answers": [
+        "A",
+        "B"
+      ],
+      "why": "Les qualifications aide-moniteur et assistant moniteur accompagnent l’engagement des jeunes ; elles ne remplacent pas le diplôme d’Initiateur ni les qualifications de DP."
+    },
+    {
+      "id": 133,
+      "min_scope": 88,
+      "source": "JPP3",
+      "topic": "jeunes",
+      "q": "Quelles qualifications de profondeur accompagnée sont proposées dès 14 ans ?",
+      "choices": [
+        "30–40 m",
+        "Autonomie PA40 automatiquement accordée",
+        "Direction d’une plongée à 40 m sans DP",
+        "20–30 m"
+      ],
+      "answer": "A",
+      "answers": [
+        "A",
+        "D"
+      ],
+      "why": "Le parcours profondeur accompagnée propose les qualifications 20–30 m et 30–40 m dès 14 ans. Il ne confère ni PA40 automatique ni fonction de DP."
+    },
+    {
+      "id": 134,
+      "min_scope": 90,
+      "source": "CDS72",
+      "topic": "security_equipment",
+      "q": "Quelles missions relèvent du directeur de plongée présent sur le site ?",
+      "choices": [
+        "S’affranchir des aptitudes des plongeurs si le bateau est disponible",
+        "Transférer automatiquement toutes ses responsabilités au plus ancien plongeur",
+        "Fixer les caractéristiques de la plongée",
+        "Organiser les dispositions de sécurité et de secours"
+      ],
+      "answer": "C",
+      "answers": [
+        "C",
+        "D"
+      ],
+      "why": "Le DP organise l’activité, fixe les caractéristiques et assume les dispositions de sécurité et de secours ; il respecte les aptitudes et le cadre applicable."
+    },
+    {
+      "id": 135,
+      "min_scope": 91,
+      "source": "CDS72",
+      "topic": "security_equipment",
+      "q": "Quels renseignements figurent dans la fiche de sécurité réglementaire ?",
+      "choices": [
+        "La couleur obligatoire de chaque combinaison",
+        "Les noms et prénoms des plongeurs",
+        "Leurs aptitudes et fonctions dans la palanquée",
+        "Les paramètres prévus et réalisés de la plongée"
+      ],
+      "answer": "B",
+      "answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "why": "La fiche de sécurité comporte l’identité, les aptitudes, les fonctions et les paramètres prévus et réalisés, selon l’article A322-72 ; la couleur de combinaison n’est pas une rubrique imposée."
+    },
+    {
+      "id": 136,
+      "min_scope": 92,
+      "source": "CDS78",
+      "topic": "security_equipment",
+      "q": "Quels moyens doivent notamment être disponibles sur le lieu de mise à l’eau ou d’immersion dans le cadre réglementaire ?",
+      "choices": [
+        "Un moyen de communication permettant de prévenir les secours",
+        "Un plan de secours adapté au lieu et aux caractéristiques de la plongée",
+        "Un moyen permettant d’administrer de l’oxygène selon les exigences du Code",
+        "Une simple adresse courriel remplace toujours tout moyen d’alerte immédiate"
+      ],
+      "answer": "A",
+      "answers": [
+        "A",
+        "B",
+        "C"
+      ],
+      "why": "Le Code exige notamment moyens de communication et de secours, oxygénothérapie et plan de secours adapté ; un courriel ne remplace pas l’alerte opérationnelle."
+    },
+    {
+      "id": 137,
+      "min_scope": 93,
+      "source": "CDS78",
+      "topic": "security_equipment",
+      "q": "Quels éléments appartiennent au matériel d’oxygénothérapie prévu par le Code du sport ?",
+      "choices": [
+        "Un BAVU avec réservoir d’oxygène et les masques requis",
+        "Un masque à haute concentration",
+        "Une boîte d’aspirine remplace obligatoirement le BAVU",
+        "Une réserve d’oxygène de capacité suffisante"
+      ],
+      "answer": "A",
+      "answers": [
+        "A",
+        "B",
+        "D"
+      ],
+      "why": "Le matériel comprend notamment l’oxygène en quantité adaptée, le BAVU avec réservoir et masques adaptés, ainsi qu’un masque à haute concentration."
+    },
+    {
+      "id": 138,
+      "min_scope": 94,
+      "source": "CDS80",
+      "topic": "security_equipment",
+      "q": "En plongée à l’air en circuit ouvert, en milieu naturel, quelles affirmations d’équipement sont exactes ?",
+      "choices": [
+        "Un plongeur autonome possède l’équipement permettant d’alimenter un équipier sans partage d’embout",
+        "Un encadrant peut toujours se dispenser du second moyen de donner du gaz",
+        "La bouteille ou l’ensemble de bouteilles comporte un moyen d’indiquer la pression",
+        "Chaque plongeur est muni du système gonflable réglementaire permettant le retour et le maintien en surface"
+      ],
+      "answer": "A",
+      "answers": [
+        "A",
+        "C",
+        "D"
+      ],
+      "why": "Le Code précise l’information de pression, le système gonflable en naturel et l’équipement d’alimentation d’un équipier pour les autonomes et encadrants."
+    },
+    {
+      "id": 139,
+      "min_scope": 95,
+      "source": "CDS80",
+      "topic": "security_equipment",
+      "q": "Quels équipements concernent la palanquée autonome à l’air en milieu naturel ?",
+      "choices": [
+        "Le seul ordinateur du bateau remplace systématiquement tous les équipements individuels",
+        "Au moins un parachute de palier par palanquée",
+        "Pour chaque autonome, un moyen de contrôler les paramètres nécessaires à sa remontée et ses paliers",
+        "Pour chaque autonome, un équipement d’alimentation d’un équipier sans partage d’embout"
+      ],
+      "answer": "B",
+      "answers": [
+        "B",
+        "C",
+        "D"
+      ],
+      "why": "Les autonomes disposent individuellement des moyens réglementaires de contrôle et d’alimentation d’un équipier ; la palanquée dispose d’au moins un parachute."
+    },
+    {
+      "id": 140,
+      "min_scope": 96,
+      "source": "MFTINTRO",
+      "topic": "documents_responsibility",
+      "q": "En cas de doute sur une prérogative, quelles démarches correspondent aux rôles des textes ?",
+      "choices": [
+        "Vérifier le cadre réglementaire dans le Code du sport",
+        "Vérifier le cursus et les conditions fédérales dans le MFT",
+        "Appliquer un tableau de synthèse même s’il contredit les textes officiels",
+        "Considérer que la licence autorise à ignorer les conditions d’âge"
+      ],
+      "answer": "A",
+      "answers": [
+        "A",
+        "B"
+      ],
+      "why": "Le Code fixe le cadre réglementaire ; le MFT précise les cursus et conditions fédérales. Une synthèse sert d’aide-mémoire et ne remplace pas ces références."
+    }
+  ],
+  "target": {
+    "levels": [
+      "N1",
+      "N2",
+      "N3",
+      "N4",
+      "E1",
+      "E2",
+      "E3",
+      "jeunes"
+    ],
+    "scope_percent": 100,
+    "coverage_note": "Banque initiale et extension vérifiées ; ne constitue pas encore une couverture exhaustive du programme réglementaire complet."
+  },
+  "revisions": [
+    {
+      "question_id": 3,
+      "version": "1.5.0",
+      "from_fingerprint": "3d03e6a862e4e1e04e97f2a08105a87ccf76130b8dce1205877a0eee2e23189a",
+      "to_fingerprint": "28e42da0659431aa2cb59391248056cfb4d18355e7fed206f3b265cf6ab2954b",
+      "previous_question": {
+        "id": 3,
+        "min_scope": 30,
+        "source": "N1P3",
+        "q": "Un N1 majeur sans autre qualification plonge en exploration en milieu naturel. Prérogatives maximales sous réserve du DP ?",
+        "choices": [
+          "20 m en autonomie",
+          "20 m avec un GP",
+          "40 m avec un GP",
+          "6 m avec un GP"
+        ],
+        "answer": "B",
+        "why": "Le N1 correspond aux prérogatives PE20, en palanquée guidée."
+      },
+      "reason": "Reformulation explicite en choix multiples : distinguer une profondeur autorisée et un plafond maximal. Les notes historiques et présentations antérieures sont conservées."
+    },
+    {
+      "question_id": 4,
+      "version": "1.5.0",
+      "from_fingerprint": "02b0fa079b86c92ef61d0e27cbacea6dcf3401d9734c59ca60e0de92a4ef716d",
+      "to_fingerprint": "64f90637f968b4c0e2f5b57900bfb308b43057c9c22ffa61e32f99c4b2cc0ea9",
+      "previous_question": {
+        "id": 4,
+        "min_scope": 30,
+        "source": "N2P3",
+        "q": "Un N2 majeur plonge en exploration en milieu naturel, sous l'organisation d'un DP. Quelle profondeur maximale permet son aptitude à l'autonomie ?",
+        "choices": [
+          "20 m",
+          "12 m",
+          "40 m",
+          "60 m"
+        ],
+        "answer": "A",
+        "why": "Le N2 dispose des aptitudes PA20 : autonomie jusqu'à 20 m sur décision du DP."
+      },
+      "reason": "Reformulation explicite en choix multiples : distinguer une profondeur autorisée et un plafond maximal. Les notes historiques et présentations antérieures sont conservées."
+    },
+    {
+      "question_id": 5,
+      "version": "1.5.0",
+      "from_fingerprint": "7e8a3574d0b60217d3a19efa6071c6fbbcbc333c74326b5a8a9077f41d645d1e",
+      "to_fingerprint": "d6f8f7402c2b7131e77a5fa9319a298a36cf3f1bf9884f717e74bb90fda72455",
+      "previous_question": {
+        "id": 5,
+        "min_scope": 30,
+        "source": "N2P3",
+        "q": "Un N2 majeur est encadré par un guide de palanquée en exploration en milieu naturel. Quelle est sa profondeur maximale de prérogative, sous réserve du DP ?",
+        "choices": [
+          "20 m",
+          "40 m",
+          "60 m",
+          "6 m"
+        ],
+        "answer": "B",
+        "why": "L'aptitude PE40 du N2 permet l'exploration guidée jusqu'à 40 m."
+      },
+      "reason": "Reformulation explicite en choix multiples : distinguer une profondeur autorisée et un plafond maximal. Les notes historiques et présentations antérieures sont conservées."
+    }
+  ],
+  "numbering": {
+    "version": "1.6.0",
+    "method": "ordre croissant du périmètre puis identifiant stable",
+    "display_to_id": {
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "10": 10,
+      "11": 11,
+      "12": 12,
+      "13": 101,
+      "14": 13,
+      "15": 14,
+      "16": 102,
+      "17": 15,
+      "18": 16,
+      "19": 103,
+      "20": 17,
+      "21": 18,
+      "22": 104,
+      "23": 19,
+      "24": 20,
+      "25": 21,
+      "26": 22,
+      "27": 105,
+      "28": 23,
+      "29": 24,
+      "30": 106,
+      "31": 25,
+      "32": 26,
+      "33": 107,
+      "34": 27,
+      "35": 28,
+      "36": 29,
+      "37": 30,
+      "38": 108,
+      "39": 31,
+      "40": 32,
+      "41": 33,
+      "42": 34,
+      "43": 109,
+      "44": 35,
+      "45": 36,
+      "46": 37,
+      "47": 38,
+      "48": 110,
+      "49": 39,
+      "50": 40,
+      "51": 111,
+      "52": 41,
+      "53": 42,
+      "54": 112,
+      "55": 43,
+      "56": 44,
+      "57": 113,
+      "58": 45,
+      "59": 46,
+      "60": 47,
+      "61": 48,
+      "62": 49,
+      "63": 50,
+      "64": 114,
+      "65": 51,
+      "66": 52,
+      "67": 53,
+      "68": 54,
+      "69": 115,
+      "70": 55,
+      "71": 56,
+      "72": 57,
+      "73": 58,
+      "74": 116,
+      "75": 59,
+      "76": 60,
+      "77": 61,
+      "78": 62,
+      "79": 117,
+      "80": 63,
+      "81": 64,
+      "82": 65,
+      "83": 66,
+      "84": 118,
+      "85": 67,
+      "86": 68,
+      "87": 69,
+      "88": 70,
+      "89": 119,
+      "90": 71,
+      "91": 72,
+      "92": 73,
+      "93": 74,
+      "94": 120,
+      "95": 75,
+      "96": 76,
+      "97": 77,
+      "98": 78,
+      "99": 121,
+      "100": 79,
+      "101": 80,
+      "102": 81,
+      "103": 82,
+      "104": 122,
+      "105": 83,
+      "106": 84,
+      "107": 85,
+      "108": 86,
+      "109": 123,
+      "110": 87,
+      "111": 88,
+      "112": 89,
+      "113": 90,
+      "114": 124,
+      "115": 91,
+      "116": 92,
+      "117": 93,
+      "118": 94,
+      "119": 125,
+      "120": 95,
+      "121": 96,
+      "122": 97,
+      "123": 98,
+      "124": 126,
+      "125": 99,
+      "126": 100,
+      "127": 127,
+      "128": 128,
+      "129": 129,
+      "130": 130,
+      "131": 131,
+      "132": 132,
+      "133": 133,
+      "134": 134,
+      "135": 135,
+      "136": 136,
+      "137": 137,
+      "138": 138,
+      "139": 139,
+      "140": 140
+    }
+  }
+}

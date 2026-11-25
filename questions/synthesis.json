@@ -1,0 +1,145 @@
+{
+  "version": "1.4.0",
+  "checked_at": "2026-11-23",
+  "title": "FFESSM : repères de réglementation scaphandre à l’air, objectif E1 puis extension",
+  "introduction": "Le Code du sport fixe les conditions réglementaires de pratique ; le MFT fixe les cursus et règles fédérales. Le tableau fourni sert de document à comparer. Sa croix verte signifie une fonction autorisée sans plafond supplémentaire indiqué, sauf label ; elle ne signifie pas une profondeur physiquement illimitée. Les limites du Code et du MFT restent applicables. Les écarts documentaires non résolus figurent explicitement ci-dessous, sans réponse QCM imposée sur le point litigieux.",
+  "sections": [
+    {
+      "id": "jeunes",
+      "title": "1. Jeunes : âge, certification et exercice des prérogatives",
+      "columns": ["Parcours", "Âge / limite", "À retenir"],
+      "rows": [
+        ["Baptême scaphandre", "8 à moins de 10 ans : 2 m ; 10 à moins de 12 ans : 3 m", "À partir de 12 ans : plafond général de baptême de 6 m. Adapter aux conditions et au pratiquant."],
+        ["Bronze / Argent", "À partir de 8 ans ; 0–6 m", "Le brevet inférieur n’est pas un préalable obligatoire."],
+        ["Or", "À partir de 10 ans", "Exploration encadrée : 0–12 m avant 12 ans, puis 0–20 m de 12 à 14 ans."],
+        ["N1 / PE20", "Formation et délivrance : 12 ans", "Exploration encadrée jusqu’à 20 m."],
+        ["PE40", "Formation et délivrance : 14 ans", "Avant 16 ans : pas de palier obligatoire ; au plus 2 plongées/jour, intervalle ≥ 3 h ; seconde plongée ≤ 20 m si première > 30 m."],
+        ["PA20 / N2", "Formation et délivrance : 15 ans ; autonomie à 16 ans", "Le N2 ajoute PE40 au PA20. Autorisation éclairée du responsable légal et information de la palanquée pour le mineur autonome."],
+        ["PA40 / N3", "PA40 : formation/délivrance à 16 ans, autonomie à 17 ans ; N3 : formation/délivrance à 17 ans", "Autonomie au-delà de 40 m seulement à 18 ans. Décision du DP lorsqu’il est présent."],
+        ["PE60 : discordance documentaire", "16 ans annoncé dans Jeunes, juin 2026, p. 41 ; 17 ans dans N3, décembre 2025, p. 3", "L’abaissement est annoncé par le chapitre le plus récent, mais les chapitres restent discordants. Faire confirmer l’application par la CTN/CTR avant d’en faire une règle d’inscription ou une question notée."]
+      ],
+      "notes": ["L’âge d’obtention d’un brevet n’est pas nécessairement l’âge d’exercice de toutes ses prérogatives. Les aptitudes reconnues, les conditions et l’autorisation du DP peuvent restreindre la plongée."],
+      "sources": ["jeunes", "n1", "n2", "n3", "cds_73", "cds_16a"]
+    },
+    {
+      "id": "exploration",
+      "title": "2. Exploration : aptitudes, niveaux et rôles",
+      "columns": ["Qualification", "Aptitudes / rôle", "Conditions déterminantes"],
+      "rows": [
+        ["PE12 / PE20 / PE40 / PE60", "Évolution encadrée jusqu’au plafond correspondant", "Guide adapté ; entre 40 et 60 m, encadrant E4 minimum."],
+        ["PA12 / PA20 / PA40 / PA60", "Évolution autonome jusqu’au plafond correspondant", "Reconnaissance des aptitudes et conditions d’âge ; la palanquée respecte les aptitudes les plus restrictives."],
+        ["N1", "PE20", "Pas d’autonomie générale attachée au seul N1 ; dérogation spécifique PE12 en piscine/fosse ≤ 6 m sur autorisation du DP."],
+        ["N2", "PA20 + PE40", "Autonomie à 20 m seulement à partir de 16 ans."],
+        ["N3", "PA60", "Avec DP : jusqu’à 60 m, autonomie au-delà de 40 m à partir de 18 ans ; sans DP : plafond de 40 m et conditions réglementaires d’organisation."],
+        ["GP-N4", "Guide d’exploration jusqu’à 40 m", "Examen à partir de 17 ans ; fonction de guide à partir de 18 ans. Pas de statut d’enseignant par le seul GP."],
+        ["N5 / DPE", "Direction des plongées d’exploration à l’air ; au nitrox avec aptitude PN-C complémentaire", "N’ajoute pas une aptitude de profondeur. Ne permet pas de diriger une séance d’enseignement en milieu naturel."],
+        ["GP / N4 et baptême", "Autorisation possible du DP en piscine ou fosse dont la profondeur maximale ne dépasse pas 6 m", "La dérogation n’est pas générale à tout baptême effectué à moins de 6 m."]
+      ],
+      "notes": ["Une profondeur autorisée en exploration autonome ne donne pas le droit d’y enseigner ou d’y guider des plongeurs encadrés. Le N3 n’est pas un guide de palanquée en France."],
+      "sources": ["n1", "n2", "n3", "n4", "cds_72", "cds_73", "cds_15a", "cds_16b", "cds_98"]
+    },
+    {
+      "id": "enseignement",
+      "title": "3. Enseignement et direction de plongée : deux fonctions distinctes",
+      "columns": ["Qualification", "Enseignement en immersion", "Direction / validation"],
+      "rows": [
+        ["E1 / Initiateur", "0–6 m, milieu artificiel ou naturel ; débutant jusqu’au N2", "DP en piscine/fosse de profondeur maximale ≤ 6 m, si majeur. En naturel : sous DP E3 minimum. Validation des compétences N1 en milieu artificiel."],
+        ["E2 : GP-N4 + Initiateur", "0–20 m, sous DP E3 minimum", "Validation des compétences N1/N2 dans les conditions du cursus ; DP en piscine/fosse ≤ 6 m si majeur."],
+        ["Stagiaire MF1 reconnu E2", "0–20 m avec livret pédagogique valable, sous DP E3 minimum", "Ce statut ne donne pas les mêmes droits fédéraux que GP + Initiateur : pas de validation des compétences N1/N2, signature des carnets ou fonction de DP."],
+        ["E3 / MF1", "0–40 m", "DP en milieu naturel pour exploration ET enseignement à l’air. La limite personnelle d’enseignement à 40 m ne plafonne pas la direction de plongée à 40 m."],
+        ["E4 / MF2", "0–60 m ; formation de cadres selon le cursus", "Encadrement et enseignement entre 40 et 60 m. Qualifications de DP et conditions de mélange à distinguer."],
+        ["Exemple : formation à l’air entre 40 et 60 m", "Enseignant immergé E4 minimum", "Un MF1/E3 peut assurer la direction de cette plongée : c’est la lecture combinée des annexes III-15 a et III-16 a."],
+        ["Exploration autonome d’un enseignant", "Dépend de ses aptitudes de plongeur", "E1 avec N2 : PA20 ; E1 avec N3 : PA60 avec les conditions usuelles. La qualification E1 ne réduit pas le N3 à 20 m."]
+      ],
+      "notes": ["Piscine/fosse ≤ 6 m signifie la profondeur maximale de l’installation. Une fosse plus profonde relève des dispositions du milieu naturel, même si la séance reste à 6 m."],
+      "sources": ["initiateur", "mf1", "mf2", "n3", "cds_15a", "cds_16a", "cds_98"]
+    },
+    {
+      "id": "acces",
+      "title": "4. Accès à la formation et délivrance : principaux préalables",
+      "columns": ["Cursus", "Préalables spécifiques", "Âge / précision"],
+      "rows": [
+        ["N1", "Aucun brevet préalable", "12 ans à l’entrée et à la délivrance ; licence, CACI et accord parental selon le cursus."],
+        ["PA20 / PE40 / N2", "N1 ou équivalent + 4 plongées attestées en milieu naturel", "PE40 : 14 ans ; PA20/N2 : 15 ans à l’entrée et à la délivrance. Le N2 ne commence donc pas à 14 ans."],
+        ["PA40", "N2 ou certification aux aptitudes équivalentes", "16 ans à l’entrée et à la délivrance ; RIFAP non obligatoire pour cette seule qualification."],
+        ["PE60", "PE40 + 20 plongées attestées en naturel, dont 5 entre 35 et 40 m", "Âge discordant entre les chapitres : voir section 1."],
+        ["N3", "N2, PA40 ou équivalent ; RIFAP au moment de la certification", "17 ans à l’entrée et à la délivrance ; distinguer l’autonomie au-delà de 40 m, réservée aux majeurs."],
+        ["GP-N4", "N3 ou équivalent, RIFAP et attestations d’aptitude prévues au MFT", "Examen à 17 ans ; encadrement à 18 ans."],
+        ["Initiateur : stage initial", "PA20 minimum ou équivalent", "15 ans ; ne pas confondre avec les conditions d’examen."],
+        ["Initiateur : examen", "RIFAP, stages validés ; 12 plongées après PA20 sauf dispense N3/GP/N5", "16 ans. Plongées accompagnées avant 16 ans prises en compte. Discordance de préalable : PA20 minimum dans Initiateur p. 18, N2 pour le jeune dans Jeunes p. 18."],
+        ["MF1 : voie classique", "GP-N4 ou titre admis par le chapitre ; RIFAP", "Stage initial à 18 ans. Le module capacitaire est accessible à 17 ans : étape différente, pas une contradiction."],
+        ["MF2 : examen", "MF1 ou titre admis ; conditions de durée, expérience, stages et qualifications du chapitre MF2", "20 ans au 1er janvier de l’année de l’examen ; ce seuil ne doit pas être étendu indistinctement à chaque étape du cursus."],
+        ["N5", "Cursus et expérience de guide, compétences de direction de plongée à valider", "Les modalités détaillées d’admission ne sont pas reprises ici : la version nationale actuelle du chapitre N5 n’a pas été retrouvée lors de ce contrôle."]
+      ],
+      "notes": ["Ce tableau isole les principaux préalables techniques ; les conditions communes de licence, contrôle médical, autorisation parentale et formalités restent celles du chapitre concerné."],
+      "sources": ["n1", "n2", "n3", "n4", "initiateur", "jeunes", "mf1", "mf2", "rifap"]
+    },
+    {
+      "id": "validation",
+      "title": "5. Validation et examens : corriger les raccourcis",
+      "columns": ["Brevet", "Validation", "Point de vigilance"],
+      "rows": [
+        ["N1 à N3 et qualifications PE/PA", "Acquisition et validation des compétences selon le MFT ; pas d’épreuve nationale finale uniforme", "Conditions de milieu, d’encadrant et délais propres au cursus. Une évaluation interne ne crée pas un examen national."],
+        ["GP-N4", "Examen final : pratique, condition physique et théorie", "La liste fournie omet notamment la descente/stabilisation/vidage de masque à 40 m et la démonstration technique de maîtrise de remontée à 25 m."],
+        ["Initiateur", "Mannequin, pédagogie pratique, pédagogie organisationnelle, cadre réglementaire", "Ne pas confondre les validations du stage en situation et les épreuves finales."],
+        ["E2", "GP-N4 + Initiateur : voie usuelle", "D’autres statuts E2 existent, notamment le stagiaire MF1 ; leurs droits de validation et de DP diffèrent."],
+        ["MF1", "Examen : trois pédagogies + intervention sur plongeur en difficulté à 25 m", "L’IPD à 25 m est bien une épreuve finale. Le module capacitaire comporte, en amont, des évaluations théoriques dont le cadre réglementaire."],
+        ["MF2", "Examen national selon les groupes d’épreuves du MFT", "Pratique, théorie et pédagogie de cadres : la formulation générale du document joint ne remplace pas le détail des épreuves et barèmes."]
+      ],
+      "notes": ["La fiche pédagogique jointe fixe un objectif de stabilisation à ±50 cm pendant 30 secondes : c’est un choix pédagogique de séance, pas une exigence réglementaire générale. Le MFT N1 décrit une stabilisation répétée avec une variation de ±1 m."],
+      "sources": ["n1", "n2", "n3", "n4", "initiateur", "mf1", "mf2"]
+    },
+    {
+      "id": "discordances",
+      "title": "6. Discordances entre documents officiels à faire préciser",
+      "columns": ["Sujet", "Textes publiés", "Traitement dans cette synthèse"],
+      "rows": [
+        ["Âge du PE60", "N3, décembre 2025, p. 3 : 17 ans ; liste des modifications Jeunes, juin 2026, p. 41 : passage à 16 ans", "Abaissement annoncé plus récemment, mais ancien chapitre toujours publié : signalé, sans arbitrage implicite ni QCM noté imposant 16 ou 17."],
+        ["Préalable technique à l’examen initiateur pour un jeune", "Initiateur, décembre 2025, p. 18 : PA20 minimum ; Jeunes, juin 2026, p. 18 : N2 pour l’examen à 16 ans", "Âges du stage (15) et de l’examen (16) concordants. PA20 seul pour l’examen d’un mineur à faire préciser ; aucune question ne tranche ce cas litigieux."]
+      ],
+      "notes": ["Ce contrôle relève des divergences de rédaction entre versions publiées. Il ne met pas sur le même plan le tableau joint et les sources officielles. Le Code du sport reste la référence réglementaire ; le MFT ajoute les conditions fédérales."],
+      "sources": ["n3", "initiateur", "jeunes"]
+    }
+  ],
+  "sources": {
+    "n1": {"reference": "MFT — Plongeur niveau 1, conditions, validation et stabilisation", "version": "Décembre 2025", "url": "https://api.ffessm.fr/V1/Commissions/ManuelFormationList/Download/b3a9c9a2-63d1-455b-9ea1-e1f451cd639b"},
+    "n2": {"reference": "MFT — PA20, PE40, Niveau 2, notamment p. 3–4", "version": "Mai 2026", "url": "https://api.ffessm.fr/V1/Commissions/ManuelFormationList/Download/d7c761c8-79ed-42f2-a675-90e4c6095a56"},
+    "n3": {"reference": "MFT — PA40, PE60, Niveau 3, notamment p. 3–4", "version": "Décembre 2025", "url": "https://api.ffessm.fr/V1/Commissions/ManuelFormationList/Download/fcc5f7d1-a03f-483a-9acc-008db991e5ac"},
+    "n4": {"reference": "MFT — Guide de palanquée N4, prérogatives, candidature, épreuves", "version": "Mai 2026", "url": "https://api.ffessm.fr/V1/Commissions/ManuelFormationList/Download/5432cb26-a2db-46a3-90bc-1a227f4d6667"},
+    "jeunes": {"reference": "MFT — Jeunes plongeurs, notamment p. 3–5, 18 et 41", "version": "Juin 2026", "url": "https://api.ffessm.fr/V1/Commissions/ManuelFormationList/Download/aa99d111-8e97-4550-8c5f-440b1d43bdac"},
+    "initiateur": {"reference": "MFT — Initiateur, notamment p. 3, 5 et 18", "version": "Décembre 2025", "url": "https://api.ffessm.fr/V1/Commissions/ManuelFormationList/Download/c73522e4-acb2-4b56-9691-3a807334ab39"},
+    "mf1": {"reference": "MFT — MF1, prérogatives, cursus, statut E2 stagiaire et examen", "version": "Juillet 2026", "url": "https://api.ffessm.fr/V1/Commissions/ManuelFormationList/Download/3312723d-c95f-4fc2-bf8b-4c48430afb21"},
+    "mf2": {"reference": "MFT — MF2, accès, stages, examen et prérogatives", "version": "Mai 2026", "url": "https://api.ffessm.fr/V1/Commissions/ManuelFormationList/Download/3f1152a1-8127-43ef-812b-51c7ad994a0b"},
+    "rifap": {"reference": "MFT — RIFA Plongée, tableau des obligations par cursus", "version": "Mai 2026", "url": "https://api.ffessm.fr/V1/Commissions/ManuelFormationList/Download/f65d4fd1-beec-4dff-a803-b36101f71f88"},
+    "cds_72": {"reference": "Code du sport — A322-72, direction de plongée et aptitudes aux mélanges", "version": "Version en vigueur consultée le 23/11/2026", "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025393876/2026-10-10"},
+    "cds_73": {"reference": "Code du sport — A322-73, palanquée et autonomie des mineurs", "version": "En vigueur depuis le 31/10/2025", "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025393874"},
+    "cds_15a": {"reference": "Code du sport — annexe III-15 a, qualification du DP", "version": "En vigueur depuis le 17/01/2026", "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053377104"},
+    "cds_16a": {"reference": "Code du sport — annexe III-16 a, enseignement à l’air", "version": "Version en vigueur consultée le 23/11/2026", "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025705128"},
+    "cds_16b": {"reference": "Code du sport — annexe III-16 b, exploration à l’air", "version": "En vigueur depuis le 18/04/2012", "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025705126/2026-10-07"},
+    "cds_98": {"reference": "Code du sport — A322-98, piscine et fosse", "version": "En vigueur depuis le 18/04/2012", "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025705107"}
+  },
+  "audit": [
+    {"item": "Légende des croix vertes", "supplied": "Croix verte seule, ou accompagnée d’un label", "verified": "Selon l’auteur : autorisé sans limite supplémentaire indiquée, sauf label. Une croix seule n’est donc pas une erreur de plafond ; aucune erreur N3 n’est retenue sur cette base. Les limites réglementaires restent applicables.", "status": "confirmed", "source_ids": []},
+    {"item": "Baptême à partir de 10 ans", "supplied": "10 ans et + : 3 m maximum", "verified": "Distinguer 10 à moins de 12 ans (3 m) et, dès 12 ans, le plafond général de 6 m.", "status": "corrected", "source_ids": ["jeunes", "cds_16a"]},
+    {"item": "PE40 : préalable", "supplied": "Aucun niveau préalable imposé", "verified": "Conditions communes du chapitre N2 : N1 ou équivalent et 4 plongées attestées en milieu naturel.", "status": "corrected", "source_ids": ["n2"]},
+    {"item": "PA40 : RIFAP", "supplied": "N2 + RIFAP à la certification", "verified": "Le RIFAP n’est pas obligatoire pour la qualification PA40 seule ; il l’est pour le N3.", "status": "corrected", "source_ids": ["n3", "rifap"]},
+    {"item": "N3 : autonomie dans le tableau croisé", "supplied": "Autonome ≤ 60 m", "verified": "Correct sous les conditions indiquées dans le document : DP présent et autonomie au-delà de 40 m à partir de 18 ans ; sans DP, 40 m.", "status": "confirmed", "source_ids": ["n3"]},
+    {"item": "N3 : âge dans le tableau d’accès", "supplied": "18 ans", "verified": "Si cette colonne désigne l’accès ou la délivrance du brevet : 17 ans. 18 ans concerne l’exercice de l’autonomie au-delà de 40 m.", "status": "qualified", "source_ids": ["n3", "jeunes"]},
+    {"item": "GP-N4 : examen et fonction", "supplied": "Âge minimal : 18 ans", "verified": "Examen possible à 17 ans ; exercice de l’encadrement à 18 ans.", "status": "qualified", "source_ids": ["n4", "jeunes"]},
+    {"item": "E1 titulaire du N3 : autonomie", "supplied": "E1 - N2/3 : autonome ≤ 20 m", "verified": "Distinguer le brevet de plongeur : E1-N2 reste PA20 ; E1-N3 conserve PA60 dans les conditions du N3.", "status": "corrected", "source_ids": ["n2", "n3", "initiateur"]},
+    {"item": "E3 : DP enseignement", "supplied": "Tableau croisé : DP enseignement ≤ 40 m", "verified": "La limite de 40 m concerne l’E3 enseignant immergé. Le MF1 peut diriger une formation à l’air entre 40 et 60 m assurée dans l’eau par un E4 ; déduction des annexes III-15 a et III-16 a.", "status": "corrected", "source_ids": ["cds_15a", "cds_16a"]},
+    {"item": "N4 et baptême", "supplied": "Baptême ≤ 6 m, club, dérogation DP", "verified": "Préciser : piscine ou fosse dont la profondeur maximale n’excède pas 6 m ; autorisation du DP. Une immersion à 6 m dans une fosse plus profonde ne suffit pas.", "status": "qualified", "source_ids": ["cds_98"]},
+    {"item": "N1 sans autonomie", "supplied": "Croix rouge, sauf qualification autonome complémentaire", "verified": "Règle générale correcte, à compléter par la dérogation de l’A322-98 pour les aptitudes PE12 en piscine/fosse ≤ 6 m sur autorisation du DP.", "status": "qualified", "source_ids": ["cds_98"]},
+    {"item": "Initiateur : étapes et expérience", "supplied": "16 ans ; N2 minimum ; 12 plongées en autonomie", "verified": "Stage initial dès 15 ans avec PA20 ; examen dès 16 ans. Douze plongées après PA20, avec prise en compte de l’autonomie accompagnée avant 16 ans et dispenses N3/GP/N5. Le préalable d’examen pour les jeunes reste discordant entre chapitres.", "status": "qualified", "source_ids": ["initiateur", "jeunes"]},
+    {"item": "PE60 : âge", "supplied": "18 ans", "verified": "Le seuil de 18 ans ne correspond ni au chapitre N3 publié (17 ans) ni à l’abaissement annoncé dans Jeunes, juin 2026 (16 ans). Divergence officielle signalée séparément.", "status": "unresolved", "source_ids": ["n3", "jeunes"]},
+    {"item": "MF2 : seuil d’âge", "supplied": "20 ans pour le cursus", "verified": "L’examen exige 20 ans au 1er janvier de l’année concernée ; distinguer les conditions de chaque stage.", "status": "qualified", "source_ids": ["mf2"]},
+    {"item": "N4 : liste des épreuves", "supplied": "Liste abrégée sans DTMR25 ni descente/stabilisation/VDM40", "verified": "Compléter ces deux épreuves si la liste est présentée comme exhaustive.", "status": "qualified", "source_ids": ["n4"]},
+    {"item": "MF1 : sauvetage à l’examen", "supplied": "Aptitudes pratiques et sauvetage validés dans le cursus", "verified": "L’examen final comprend aussi l’intervention sur plongeur en difficulté à 25 m, en plus des trois pédagogies. La réglementation est évaluée en amont dans le module capacitaire.", "status": "corrected", "source_ids": ["mf1"]},
+    {"item": "E2 : voie d’obtention", "supplied": "Cumul GP-N4 et Initiateur", "verified": "Voie usuelle exacte, mais non exhaustive : le statut E2 du stagiaire MF1 n’emporte pas les mêmes droits fédéraux.", "status": "qualified", "source_ids": ["initiateur", "mf1"]},
+    {"item": "Fiche pédagogique : stabilisation", "supplied": "±50 cm pendant 30 secondes", "verified": "Critère pédagogique choisi pour une séance ; ne pas l’ériger en règle fédérale. Le MFT N1 décrit une variation répétée de ±1 m.", "status": "qualified", "source_ids": ["n1"]}
+  ],
+  "attachments": [
+    {"name": "Prerogatives_FFESSM_4_tableaux_A4.pdf", "library_file_id": "libfile_11644c5c0f5081919b2e0f1ff6afda72", "role": "Document comparé, non normatif ; légende précisée par l’auteur : croix verte sans plafond supplémentaire, sauf label."},
+    {"name": "FICHE_PEDA 4", "library_file_id": "libfile_54aea686a9388191910afc95b64d8ba2", "role": "Support pédagogique de stabilisation ; ne constitue pas une source réglementaire."}
+  ]
+}

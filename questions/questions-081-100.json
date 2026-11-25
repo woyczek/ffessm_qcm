@@ -1,0 +1,445 @@
+{
+  "version": 3,
+  "sources": {
+    "CDS72": {
+      "reference": "Code du sport, article A.322-72",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025393876/2026-10-10",
+      "checked": "2026-11-23"
+    },
+    "CDS78": {
+      "reference": "Code du sport, article A.322-78",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025393863/2026-10-29",
+      "checked": "2026-11-23"
+    },
+    "CDS80": {
+      "reference": "Code du sport, article A.322-80",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025393859/2026-10-23",
+      "checked": "2026-11-23"
+    }
+  },
+  "questions": [
+    {
+      "id": 81,
+      "min_scope": 66,
+      "source": "INIT3",
+      "topic": "e1",
+      "levels": [
+        "E1"
+      ],
+      "q": "Quelle proposition décrit complètement les limites d'enseignement d'un E1 ?",
+      "choices": [
+        "Jusqu'à 6 m en milieu artificiel et naturel, avec un DP E3 minimum en milieu naturel",
+        "Jusqu'à 6 m, uniquement en milieu artificiel",
+        "Jusqu'à 20 m dans les deux milieux",
+        "Jusqu'à 40 m en milieu naturel"
+      ],
+      "answer": "A",
+      "why": "L'E1 enseigne dans 0-6 m en milieu artificiel comme naturel. En milieu naturel, le DP est E3 minimum. La bonne profondeur associée à la restriction erronée au seul milieu artificiel vaut un demi-point et ne valide pas cette question.",
+      "choice_scores": [
+        1,
+        0.5,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 82,
+      "min_scope": 66,
+      "source": "CDS72",
+      "topic": "security_equipment",
+      "levels": [
+        "E1",
+        "E2",
+        "E3",
+        "N4"
+      ],
+      "q": "Lorsqu'un DP est requis, où doit-il être présent pendant l'activité ?",
+      "choices": [
+        "Uniquement au siège du club",
+        "N'importe où s'il est joignable au téléphone",
+        "Sur le lieu de mise à l'eau ou d'immersion de la palanquée",
+        "Obligatoirement dans chaque palanquée"
+      ],
+      "answer": "C",
+      "why": "Le DP est présent sur le lieu de mise à l'eau ou d'immersion."
+    },
+    {
+      "id": 83,
+      "min_scope": 67,
+      "source": "CDS72",
+      "topic": "security_equipment",
+      "levels": [
+        "E1",
+        "E2",
+        "E3",
+        "N4"
+      ],
+      "q": "Qui fixe les caractéristiques de la plongée dans l'organisation placée sous un DP ?",
+      "choices": [
+        "Le directeur de plongée",
+        "Le plongeur le plus ancien uniquement",
+        "Le président du club, même absent du site",
+        "Chaque élève indépendamment"
+      ],
+      "answer": "A",
+      "why": "Le DP fixe les caractéristiques de la plongée dans le cadre réglementaire."
+    },
+    {
+      "id": 84,
+      "min_scope": 67,
+      "source": "CDS72",
+      "topic": "security_equipment",
+      "levels": [
+        "E1",
+        "E2",
+        "E3",
+        "N4"
+      ],
+      "q": "Combien de temps l'établissement doit-il conserver la fiche de sécurité lorsqu'elle est obligatoire ?",
+      "choices": [
+        "Un mois",
+        "Trois mois",
+        "Cinq ans",
+        "Une année"
+      ],
+      "answer": "D",
+      "why": "La fiche de sécurité doit être conservée une année, par tout moyen."
+    },
+    {
+      "id": 85,
+      "min_scope": 68,
+      "source": "CDS98",
+      "topic": "security_equipment",
+      "levels": [
+        "E1",
+        "E2",
+        "E3",
+        "N4"
+      ],
+      "q": "En piscine ou fosse dont la profondeur maximale n'excède pas 6 m, la fiche de sécurité prévue à l'article A.322-72 est-elle obligatoire ?",
+      "choices": [
+        "Oui dans tous les cas",
+        "Non, une dérogation est prévue",
+        "Oui, seulement pour les N1",
+        "Non, mais seulement si la piscine fait moins de 2 m"
+      ],
+      "answer": "B",
+      "why": "L'article A.322-98 dispense de cette fiche en piscine ou fosse dont la profondeur n'excède pas 6 m."
+    },
+    {
+      "id": 86,
+      "min_scope": 68,
+      "source": "CDS78",
+      "topic": "security_equipment",
+      "levels": [
+        "E1",
+        "E2",
+        "E3",
+        "N4"
+      ],
+      "q": "Quel énoncé décrit le plan de secours exigé sur le lieu de mise à l'eau ou d'immersion ?",
+      "choices": [
+        "Un simple numéro mémorisé par le DP",
+        "Un document national identique pour tous les sites",
+        "Un document écrit adapté au lieu et à la plongée, régulièrement mis à jour",
+        "Un document facultatif si un moniteur est présent"
+      ],
+      "answer": "C",
+      "why": "Le plan de secours est écrit, adapté au site et à l'activité, et régulièrement actualisé."
+    },
+    {
+      "id": 87,
+      "min_scope": 69,
+      "source": "CDS78",
+      "topic": "security_equipment",
+      "levels": [
+        "E1",
+        "E2",
+        "E3",
+        "N4"
+      ],
+      "q": "Quel moyen de communication est nécessaire pour une plongée en mer au départ d'une embarcation support ?",
+      "choices": [
+        "Une VHF",
+        "Un téléphone seul dans tous les cas",
+        "Un sifflet uniquement",
+        "Aucun si le rivage reste visible"
+      ],
+      "answer": "A",
+      "why": "Une VHF est nécessaire dans cette configuration."
+    },
+    {
+      "id": 88,
+      "min_scope": 69,
+      "source": "CDS78",
+      "topic": "security_equipment",
+      "levels": [
+        "E1",
+        "E2",
+        "E3",
+        "N4"
+      ],
+      "q": "La capacité de l'ensemble d'oxygénothérapie doit permettre quelle prise en charge ?",
+      "choices": [
+        "Exactement cinq minutes",
+        "Une seule inspiration par plongeur",
+        "Uniquement le trajet jusqu'au port",
+        "Une prise en charge adaptée jusqu'à l'arrivée des secours médicaux"
+      ],
+      "answer": "D",
+      "why": "La réserve doit être dimensionnée pour une prise en charge adaptée jusqu'aux secours médicaux."
+    },
+    {
+      "id": 89,
+      "min_scope": 70,
+      "source": "CDS78",
+      "topic": "security_equipment",
+      "levels": [
+        "E1",
+        "E2",
+        "E3",
+        "N4"
+      ],
+      "q": "Combien de tailles de masque doivent accompagner le ballon auto-remplisseur à valve unidirectionnelle prévu dans le matériel de secours ?",
+      "choices": [
+        "Une taille unique",
+        "Trois : grand, moyen et petit",
+        "Deux : adulte et enfant",
+        "Aucun masque n'est requis"
+      ],
+      "answer": "B",
+      "why": "Le matériel prévu comprend trois masques : grand, moyen et petit."
+    },
+    {
+      "id": 90,
+      "min_scope": 70,
+      "source": "CDS78",
+      "topic": "security_equipment",
+      "levels": [
+        "E1",
+        "E2",
+        "E3",
+        "N4"
+      ],
+      "q": "Quelle eau doit être disponible dans le matériel prévu par l'article A.322-78 ?",
+      "choices": [
+        "De l'eau douce potable",
+        "De l'eau de mer uniquement",
+        "De l'eau distillée exclusivement",
+        "Aucune eau n'est mentionnée"
+      ],
+      "answer": "A",
+      "why": "De l'eau douce potable doit être à disposition."
+    },
+    {
+      "id": 91,
+      "min_scope": 71,
+      "source": "CDS78",
+      "topic": "security_equipment",
+      "levels": [
+        "E1",
+        "E2",
+        "E3",
+        "N4"
+      ],
+      "q": "Quelle obligation s'applique au matériel de secours ?",
+      "choices": [
+        "Le vérifier seulement après un accident",
+        "Le remplacer après chaque sortie",
+        "Le contrôler uniquement à l'achat",
+        "Le vérifier régulièrement et l'entretenir correctement"
+      ],
+      "answer": "D",
+      "why": "Le matériel de secours doit être régulièrement vérifié et correctement entretenu."
+    },
+    {
+      "id": 92,
+      "min_scope": 71,
+      "source": "CDS78",
+      "topic": "security_equipment",
+      "levels": [
+        "E1",
+        "E2",
+        "E3",
+        "N4"
+      ],
+      "q": "Dans quelle configuration un moyen de rappel des plongeurs immergés depuis la surface est-il prévu ?",
+      "choices": [
+        "Dans toute piscine de 2 m uniquement",
+        "Uniquement pendant les examens N4",
+        "En milieu naturel au départ d'une embarcation",
+        "Seulement pour les plongées sans DP"
+      ],
+      "answer": "C",
+      "why": "Le moyen de rappel est requis dans cette configuration en milieu naturel."
+    },
+    {
+      "id": 93,
+      "min_scope": 72,
+      "source": "CDS78",
+      "topic": "security_equipment",
+      "levels": [
+        "E1",
+        "E2",
+        "E3",
+        "N4"
+      ],
+      "q": "Dans quelle situation un jeu de tables de décompression fait-il partie du matériel d'assistance prévu par cet article ?",
+      "choices": [
+        "Dans toute piscine de moins de 2 m",
+        "En milieu naturel au-delà de 6 m",
+        "Seulement au-delà de 60 m",
+        "Jamais si tous les plongeurs ont un ordinateur"
+      ],
+      "answer": "B",
+      "why": "Un jeu de tables est prévu en milieu naturel au-delà de 6 m."
+    },
+    {
+      "id": 94,
+      "min_scope": 72,
+      "source": "CDS80",
+      "topic": "security_equipment",
+      "levels": [
+        "E1",
+        "E2",
+        "E3",
+        "N4"
+      ],
+      "q": "Quel équipement permet de connaître pendant la plongée la pression d'une bouteille ou d'un ensemble de bouteilles d'un même gaz ?",
+      "choices": [
+        "La couleur du bloc seule",
+        "Le lestage du plongeur",
+        "Une estimation faite avant le départ uniquement",
+        "Un manomètre ou un système équivalent"
+      ],
+      "answer": "D",
+      "why": "La pression doit pouvoir être indiquée pendant la plongée par manomètre ou dispositif équivalent."
+    },
+    {
+      "id": 95,
+      "min_scope": 73,
+      "source": "CDS80",
+      "topic": "security_equipment",
+      "levels": [
+        "E1",
+        "E2",
+        "E3",
+        "N4"
+      ],
+      "q": "En milieu naturel, à quelle échelle le minimum d'un parachute de palier est-il imposé par cet article ?",
+      "choices": [
+        "Un par club",
+        "Un par bateau",
+        "Un par palanquée",
+        "Un par région"
+      ],
+      "answer": "C",
+      "why": "Chaque palanquée doit disposer d'un parachute de palier en milieu naturel."
+    },
+    {
+      "id": 96,
+      "min_scope": 73,
+      "source": "CDS80",
+      "topic": "security_equipment",
+      "levels": [
+        "E1",
+        "E2",
+        "E3",
+        "N4"
+      ],
+      "q": "Quel équipement respiratoire l'encadrant d'une palanquée doit-il avoir en milieu naturel ?",
+      "choices": [
+        "Deux sorties indépendantes et deux détendeurs complets",
+        "Une seule sortie et un tuba",
+        "Un octopus sur une unique sortie dans tous les cas",
+        "Aucun équipement différent de celui d'un baptisé"
+      ],
+      "answer": "A",
+      "why": "L'encadrant dispose de deux sorties indépendantes et de deux détendeurs complets."
+    },
+    {
+      "id": 97,
+      "min_scope": 74,
+      "source": "CDS80",
+      "topic": "security_equipment",
+      "levels": [
+        "E1",
+        "E2",
+        "E3",
+        "N4"
+      ],
+      "q": "En milieu naturel, un plongeur autonome doit pouvoir alimenter un équipier en gaz respirable de quelle façon ?",
+      "choices": [
+        "Uniquement en partageant son embout",
+        "Sans partage d'embout, grâce à un équipement adapté",
+        "En remontant seul chercher un bloc",
+        "Cette possibilité n'est pas imposée"
+      ],
+      "answer": "B",
+      "why": "L'équipement doit permettre d'alimenter un équipier sans partage d'embout."
+    },
+    {
+      "id": 98,
+      "min_scope": 74,
+      "source": "CDS80",
+      "topic": "security_equipment",
+      "levels": [
+        "E1",
+        "E2",
+        "E3",
+        "N4"
+      ],
+      "q": "Un plongeur encadré à 30 m en milieu naturel doit-il avoir des équipements permettant de contrôler les caractéristiques personnelles de sa plongée et de sa remontée ?",
+      "choices": [
+        "Non, seul le GP doit en avoir",
+        "Non, cette obligation commence à 60 m",
+        "Oui, car il évolue encadré au-delà de 20 m",
+        "Uniquement s'il est lui-même moniteur"
+      ],
+      "answer": "C",
+      "why": "L'obligation vise notamment les plongeurs encadrés au-delà de 20 m."
+    },
+    {
+      "id": 99,
+      "min_scope": 75,
+      "source": "CDS80",
+      "topic": "security_equipment",
+      "levels": [
+        "E1",
+        "E2",
+        "E3",
+        "N4"
+      ],
+      "q": "En milieu naturel, de quoi doit disposer chaque plongeur équipé d'un appareil à circuit ouvert pour regagner la surface et s'y maintenir ?",
+      "choices": [
+        "D'un système gonflable au moyen de gaz comprimé",
+        "Uniquement d'un tuba",
+        "Uniquement d'un parachute de palier",
+        "D'une bouée située sur le bateau"
+      ],
+      "answer": "A",
+      "why": "Un système gonflable au moyen de gaz comprimé est prévu pour chaque plongeur en circuit ouvert."
+    },
+    {
+      "id": 100,
+      "min_scope": 75,
+      "source": "CDS78",
+      "topic": "security_equipment",
+      "levels": [
+        "E1",
+        "E2",
+        "E3",
+        "N4"
+      ],
+      "q": "À qui le plan de secours doit-il être porté à connaissance ?",
+      "choices": [
+        "Uniquement au président du club",
+        "Uniquement au pilote du bateau",
+        "Uniquement aux débutants",
+        "Au DP, aux encadrants des palanquées et aux plongeurs autonomes"
+      ],
+      "answer": "D",
+      "why": "Le plan doit être connu du DP, des personnes encadrantes et des plongeurs autonomes."
+    }
+  ]
+}

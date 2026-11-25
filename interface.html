@@ -1,0 +1,184 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="icon" type="image/png" href="/assets/favicon.png">
+<link rel="apple-touch-icon" href="/assets/favicon.png">
+<title>QCM · Réglementation FFESSM</title>
+<style>
+:root{font-family:Segoe UI,system-ui,sans-serif;color:#172a35;background:#f1f5f5;font-synthesis:none;--ink:#123443;--muted:#526974;--line:#d6e1e4;--accent:#087c86}*{box-sizing:border-box}body{margin:0}button{font:inherit;cursor:pointer}button:disabled{cursor:default}header{background:var(--ink);color:white;padding:24px max(24px,calc((100vw - 1060px)/2))}header small{color:#8fced1;letter-spacing:.12em;text-transform:uppercase;font-weight:700}h1{font-size:clamp(24px,4vw,34px);margin:8px 0 4px;letter-spacing:-.025em}header p{margin:0;color:#c3d5dc}main{max-width:1060px;margin:28px auto;padding:0 22px 44px}.stats{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-bottom:24px}.stat{background:white;border:1px solid var(--line);border-radius:12px;padding:17px 20px}.stat strong{display:block;font-size:26px;letter-spacing:-.04em}.stat span{font-size:13px;color:var(--muted)}.toolbar{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-bottom:18px}.toolbar p{margin:0 auto 0 0;color:var(--muted);font-size:14px}.quiet{border:1px solid var(--line);background:white;padding:9px 14px;border-radius:8px;color:var(--ink)}.card{background:white;border:1px solid var(--line);box-shadow:0 8px 35px #17354209;border-radius:16px;padding:clamp(22px,4vw,40px)}.eyebrow{display:flex;gap:12px;align-items:center;color:var(--accent);font-size:13px;font-weight:750;letter-spacing:.06em;text-transform:uppercase}.tag{font-size:11px;letter-spacing:0;background:#eaf3f4;padding:5px 9px;border-radius:20px}h2{font-size:clamp(22px,3.2vw,30px);line-height:1.4;letter-spacing:-.025em;margin:18px 0 8px}.hint{color:var(--muted);font-size:14px;margin:0 0 24px}.answers{display:grid;gap:11px}#selection-reason{margin-bottom:8px}.option{text-align:left;background:white;border:1.5px solid var(--line);border-radius:11px;padding:15px 18px;display:flex;align-items:center;gap:15px;color:var(--ink);line-height:1.45}.option:hover:not(:disabled){border-color:var(--accent);background:#f4fbfb}.option[aria-pressed=true]{border-color:var(--accent);background:#e9f6f6}.key{width:32px;height:32px;display:grid;place-items:center;background:#eef3f4;border-radius:7px;font-weight:800;flex-shrink:0}.option[aria-pressed=true] .key{background:var(--accent);color:white}.actions{display:flex;align-items:center;gap:15px;flex-wrap:wrap;margin-top:24px}.primary{border:0;background:var(--accent);color:white;font-weight:700;border-radius:9px;padding:13px 22px}.primary:disabled{opacity:.4}.keyboard{font-size:13px;color:var(--muted)}#feedback{margin-top:24px;border-radius:11px;padding:20px;border:1px solid}#feedback h3{margin:0 0 9px;font-size:19px}#feedback p{margin:8px 0;line-height:1.55}#feedback a{color:inherit;font-size:13px}.correct{color:#155b33;background:#edf8ef;border-color:#85bc95!important}.wrong{color:#8f252a;background:#fff0f0;border-color:#d69b9e!important}.partial{color:#834300;background:#fff4e0;border-color:#d4a35c!important}#details{margin-top:22px}#details h3{margin-top:0}#details p,#details li{line-height:1.6}#details li{margin-bottom:12px}#error{background:#fff0f0;color:#8f252a;border:1px solid #d69b9e;border-radius:10px;padding:16px;margin-bottom:18px}footer{font-size:12px;color:var(--muted);margin-top:18px;line-height:1.65}.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0)}[hidden]{display:none!important}button:focus-visible,a:focus-visible{outline:3px solid #e5aa28;outline-offset:3px}@media(max-width:650px){.stats{grid-template-columns:repeat(2,1fr)}main{padding:0 14px}.stat{padding:13px 16px}.toolbar p{width:100%;margin-bottom:3px}.keyboard{display:none}.card{padding:22px 18px}.option{padding:13px 12px}}
+dialog{width:min(680px,94vw);border:1px solid var(--line);border-radius:16px;padding:28px;color:var(--ink)}dialog::backdrop{background:#102b3c88}dialog h2{margin-top:0}textarea{width:100%;font:inherit;border:1px solid var(--line);border-radius:8px;padding:12px;resize:vertical}dialog pre{white-space:pre-wrap;overflow-wrap:anywhere;max-height:220px;overflow:auto;background:#f1f5f5;padding:12px;border-radius:8px;font-size:12px}dialog .primary,dialog .quiet{text-decoration:none;display:inline-block}.report-button{margin-left:auto;letter-spacing:0;text-transform:none;font-size:13px}</style>
+<style>
+.summary-meta{font-size:13px;color:var(--muted)}.summary-section{margin-top:26px}.summary-section h4{font-size:18px;margin:0 0 12px}.summary-table{max-width:100%;border:1px solid var(--line);border-radius:9px;margin:10px 0 14px}.summary-table table{border-collapse:collapse;width:100%;table-layout:fixed;font-size:14px;line-height:1.5}.summary-table th,.summary-table td{padding:11px 13px;text-align:left;vertical-align:top;border-bottom:1px solid var(--line);white-space:pre-wrap;overflow-wrap:anywhere}.summary-table thead th{background:#eaf3f4}.summary-table tbody th{background:#f7fafa;font-weight:650}.summary-table tr:last-child th,.summary-table tr:last-child td{border-bottom:0}.summary-sources{font-size:12px;color:var(--muted)}.summary-sources a{color:var(--accent)}.summary-table:focus-visible{outline:3px solid #e5aa28;outline-offset:3px}.toolbar #phase{flex-basis:100%;margin:0 0 4px}.consultation-controls,.toolbar-actions{display:flex;gap:8px;align-items:center;flex-wrap:wrap}.toolbar-actions{margin-left:auto}.consultation-controls [aria-expanded=true]{border-color:var(--accent);background:#e9f6f6;color:#075e65}.action-export{background:#1266ac;border-color:#1266ac;color:white;font-weight:650}.action-reset{background:#b72c35;border-color:#b72c35;color:white;font-weight:650}.detail-panel+.detail-panel{margin-top:28px}.print-document{margin:0 0 20px}.print-document a{color:var(--accent);font-weight:650;text-decoration:none;display:inline-block}@media(max-width:650px){.toolbar-actions{width:100%;justify-content:flex-end}}.summary-table .summary-row-diver{color:#1d4028}.summary-table .summary-row-diver>*{background:#eaf4e9}.summary-table .summary-row-diver th{background:#d9ebd5}.summary-table .summary-row-instructor{color:#183c61}.summary-table .summary-row-instructor>*{background:#edf3fb}.summary-table .summary-row-instructor th{background:#dce9f8}.summary-table .summary-row-young{color:#493800}.summary-table .summary-row-young>*{background:#fff5ce}.summary-table .summary-row-young th{background:#f9e8a5}.summary-table .summary-head-diver th{background:#2f6b3c;color:#fff}.summary-table .summary-head-instructor th{background:#245c92;color:#fff}.summary-table .summary-head-young th{background:#f0d26b;color:#3b3007}.summary-table .summary-head-neutral th{background:#eaf0f2;color:#263b44}#points-date{display:block;font-size:11px;margin-top:8px;line-height:1.45}#answer-date{font-size:12px;opacity:.85}
+</style>
+</head>
+<body>
+<header><small>Ton entraînement quotidien</small><h1>Réglementation FFESSM</h1><p>N1 → N4 · E1 → E3 · Jeunes plongeurs</p></header>
+<main>
+<div class="stats" aria-label="Progression"><div class="stat"><strong id="acquired">—</strong><span>questions validées du lot</span></div><div class="stat"><strong id="points">—</strong><span>points sur les tentatives</span><span id="points-date">Dernier résultat : date inconnue</span></div><div class="stat"><strong id="scope">30 %</strong><span>périmètre ouvert</span></div><div class="stat"><strong id="retry">—</strong><span>réponses à reprendre</span></div></div>
+<nav class="toolbar" aria-label="Outils du QCM"><p id="phase">Chargement de ta progression…</p><div class="consultation-controls"><button class="quiet" id="session-menu">Reprise</button><button class="quiet" id="end-review" hidden>Terminer la révision</button><button class="quiet" id="summary" aria-controls="summary-panel" aria-expanded="false">Synthèse</button><button class="quiet" id="history" aria-controls="history-panel" aria-expanded="false">Résultats</button><button class="quiet" id="scope-details" aria-controls="scope-panel" aria-expanded="false">Périmètre</button><button class="quiet" id="sources" aria-controls="sources-panel" aria-expanded="false">Sources</button></div><div class="toolbar-actions"><button class="quiet action-export" id="export">Exporter la progression</button><button class="quiet action-reset" id="reset">Réinitialiser</button></div></nav>
+<div id="error" role="alert" hidden></div>
+<section class="card" id="session" hidden><div class="eyebrow">Ta session</div><h2>Où souhaites-tu reprendre ?</h2><p id="session-info" class="hint"></p><div class="actions"><button class="primary" id="resume">Continuer</button><button class="quiet" id="start-review" disabled>Session de révision</button><button class="quiet" id="priority" hidden>Revoir les réponses non validées</button><button class="quiet" id="restart">Recommencer à la question 1</button></div><p class="hint" style="margin-top:18px">Recommencer crée une nouvelle session. Ton ancien historique est conservé dans un fichier de sauvegarde.</p></section>
+<section class="card" id="quiz" aria-labelledby="question"><div class="eyebrow"><span id="number">Question</span><span class="tag" id="kind">Réponses</span><button class="quiet report-button" id="report">Signaler une erreur</button></div><h2 id="question">Chargement…</h2><p class="hint" id="selection-reason"></p><p class="hint" id="answer-instructions">Sélectionne les propositions exactes, puis valide.</p><div class="answers" id="answers" role="group" aria-label="Réponses possibles" aria-describedby="answer-instructions"></div><div class="actions"><button class="primary" id="validate" disabled>Valider mes réponses</button><span class="keyboard">A–D : sélectionner ou désélectionner · Entrée : valider</span></div><div id="feedback" role="status" aria-live="polite" hidden><h3 id="verdict"></h3><p id="explanation"></p><p id="answer-date" hidden></p><a id="source" target="_blank" rel="noopener"></a></div><div class="actions" id="continue" hidden><button class="primary" id="next">Question suivante →</button></div></section>
+<section class="card" id="details" hidden><div class="detail-panel" id="summary-panel" hidden></div><div class="detail-panel" id="history-panel" hidden></div><div class="detail-panel" id="scope-panel" hidden></div><div class="detail-panel" id="sources-panel" hidden></div></section>
+<footer>Réalisé par <a href="mailto:woyczek@gmail.com">Gaétan Ryckeboer</a>, 2026, sous licence double <a href="https://gitlab.com/woyczek/licences-connues/-/blob/main/DMDZZ.txt?ref_type=heads" target="_blank" rel="noopener">DMDZZ</a> et <a href="https://fr.wikipedia.org/wiki/WTFPL#Version_2" target="_blank" rel="noopener">WTFPL</a></footer>
+<dialog id="report-dialog" aria-labelledby="report-heading"><h2 id="report-heading">Signaler une erreur</h2><p class="hint" id="report-question"></p><label for="report-remarks">Remarques du stagiaire</label><textarea id="report-remarks" rows="5" maxlength="2000" placeholder="Que faudrait-il corriger ou préciser ?"></textarea><div class="actions"><button class="primary" id="report-prepare">Préparer le courriel</button><button class="quiet" id="report-cancel">Fermer</button></div><div id="report-ready" hidden><p>Rapport JSON prêt pour <strong>woyczek@gmail.com</strong>. Valide l’envoi dans ta messagerie.</p><pre id="report-json"></pre><div class="actions"><a class="primary" id="report-mail">Ouvrir le courriel</a><a class="quiet" id="report-download" download>Télécharger le JSON</a></div></div></dialog>
+</main>
+<script>
+const token='__QCM_TOKEN__';let current=null,selected=new Set(),graded=false,busy=false,advanceTimer=null,advanceInterval=null,queuedNext=false,sessionMode='normal';
+const $=id=>document.getElementById(id),num=v=>Number(v||0).toLocaleString('fr-FR');
+const resultDateFormatter=new Intl.DateTimeFormat('fr-FR',{timeZone:'Europe/Paris',year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit'});
+function resultDate(value){if(!value)return 'date inconnue';const date=new Date(value);return Number.isNaN(date.getTime())?'date inconnue':resultDateFormatter.format(date)+' (Paris)';}
+async function api(action,data={}){const r=await fetch('/api/'+action,{method:'POST',headers:{'Content-Type':'application/json','X-QCM-Token':token},body:JSON.stringify(data)});const v=await r.json();if(!r.ok||v.error)throw Error(v.error||'Action impossible.');return v;}
+function error(e){$('error').textContent=e.message||String(e);$('error').hidden=false;}
+function status(s,mode){
+  sessionMode=mode??s.session_mode??sessionMode;
+  $('acquired').textContent=s.initial_complete?num(s.validated_questions):s.initial_acquired+'/10';
+  $('points').textContent=num(s.points??s.correct_attempts)+' / '+s.attempts;
+  $('points-date').textContent='Dernier résultat : '+resultDate(s.last_answer_at);
+  $('scope').textContent=s.scope+' %';$('retry').textContent=num((s.counts.failed||0)+(s.counts.partial||0));
+  const progress=s.initial_complete?'Prochain élargissement : '+s.growth_correct+'/2 bonnes réponses':'Lot de départ : 10 questions · Les reprises passent en priorité';
+  $('phase').textContent=(sessionMode==='revision'?'Révision — ':'')+progress;
+  $('end-review').hidden=sessionMode!=='revision';
+}
+function choose(letter){
+  if(graded||busy||!current?.choices||!Object.hasOwn(current.choices,letter))return;
+  if(selected.has(letter))selected.delete(letter);else selected.add(letter);
+  for(const option of $('answers').children)option.setAttribute('aria-pressed',String(selected.has(option.dataset.letter)));
+  $('validate').disabled=selected.size===0;
+}
+function show(q){
+  cancelAdvance();$('session').hidden=true;$('quiz').hidden=false;current=q;sessionMode=q.session_mode??q.status?.session_mode??sessionMode;selected.clear();graded=false;
+  $('feedback').hidden=true;$('continue').hidden=true;$('validate').hidden=false;$('validate').disabled=true;$('answers').replaceChildren();
+  if(!q.question){$('question').textContent=q.message||'Aucune question disponible.';status(q.status);return;}
+  $('number').textContent='Question n° '+(q.question_number??q.question_id);
+  $('kind').textContent=q.one_answer===false?'Plusieurs réponses':'1 réponse';
+  $('answer-instructions').textContent=q.one_answer===false?'Plusieurs réponses sont attendues. Sélectionne toutes les propositions exactes.':'1 réponse est attendue. Sélectionne la proposition exacte.';
+  $('question').textContent=q.question;$('selection-reason').textContent=q.selection_reason||'';
+  for(const [letter,text]of Object.entries(q.choices)){
+    const option=document.createElement('button');option.type='button';option.className='option';option.dataset.letter=letter;option.setAttribute('aria-pressed','false');
+    const key=document.createElement('span');key.className='key';key.textContent=letter;
+    const label=document.createElement('span');label.textContent=text;option.append(key,label);option.onclick=()=>choose(letter);$('answers').append(option);
+  }
+  status(q.status);
+}
+function feedback(r){
+  graded=true;for(const option of $('answers').children)option.disabled=true;
+  $('validate').hidden=true;const score=r.score??(r.correct?1:0);
+  $('feedback').className=score===1?'correct':score===.5?'partial':'wrong';
+  $('verdict').textContent=score===1?'Bonne réponse · 1 point':score===.5?'À compléter · ½ point · non validée':'Réponse incorrecte · 0 point';
+  const expected=Array.isArray(r.correct_letters)?r.correct_letters.join(', '):r.correct_letter;
+  const correctionTitle=(Array.isArray(r.correct_letters)?r.correct_letters.length:String(expected||'').split(',').length)===1?'Réponse attendue : ':'Réponses attendues : ';
+  $('explanation').textContent=r.explanation+(score<1&&expected?' '+correctionTitle+expected+'.':'');
+  $('answer-date').hidden=!r.answered_at;$('answer-date').textContent=r.answered_at?'Résultat du '+resultDate(r.answered_at):'';
+  $('source').textContent=r.source.reference;$('source').href=r.source.url;$('feedback').hidden=false;$('continue').hidden=false;status(r.status);$('next').focus();scheduleAdvance();
+}
+async function run(fn){if(busy)return;busy=true;$('error').hidden=true;try{await fn();}catch(e){error(e);}finally{busy=false;if(queuedNext){queuedNext=false;nextQuestion();}}}
+$('validate').onclick=()=>{if(graded||busy||!selected.size||!current)return;const letters=[...selected].sort().join(',');run(async()=>feedback(await api('answer',{letter:letters,question_id:current.question_id,presentation_id:current.presentation_id})));};
+$('next').onclick=nextQuestion;
+function summaryNode(tag,text,className){const node=document.createElement(tag);if(text!==undefined)node.textContent=text;if(className)node.className=className;return node;}
+function summarySource(source){const safe=typeof source?.url==='string'&&/^https?:\/\/[^\s]+$/i.test(source.url);const node=summaryNode(safe?'a':'span',(source?.reference||'Référence indisponible')+(source?.version?' · '+source.version:''));if(safe){node.href=source.url;node.target='_blank';node.rel='noopener';}return node;}
+function summarySources(parent,ids,sources){if(!ids?.length)return;const line=summaryNode('p','Sources : ','summary-sources');ids.forEach((id,index)=>{if(index)line.append(summaryNode('span',' ; '));line.append(summarySource(sources[id]));});parent.append(line);}
+function summaryRowCategory(sectionId,row){
+  if(sectionId==='jeunes')return 'young';
+  if(sectionId==='enseignement')return 'instructor';
+  const label=String(row[0]||'');
+  if(sectionId==='discordances')return /\bPE60\b/i.test(label)?'diver':/initiateur/i.test(label)?'instructor':'neutral';
+  if(['exploration','acces','validation'].includes(sectionId)){
+    if(/\b(?:GP|N4|N5|INITIATEUR|E[1-4]|MF[12])\b/i.test(label))return 'instructor';
+    if(/\b(?:N[123]|P[EA]-?\d+)\b/i.test(label))return 'diver';
+  }
+  return 'neutral';
+}
+function summarySectionCategory(section){
+  if(section.id==='jeunes')return 'young';
+  if(section.id==='enseignement')return 'instructor';
+  const categories=new Set(section.rows.map(row=>summaryRowCategory(section.id,row)));
+  return categories.size===1?[...categories][0]:'neutral';
+}
+function summaryTable(columns,rows,title,sectionId=''){
+  const region=summaryNode('div',undefined,'summary-table');region.setAttribute('role','region');region.setAttribute('aria-label',title);
+  const table=summaryNode('table');table.append(summaryNode('caption',title,'sr'));
+  const head=summaryNode('thead'),header=summaryNode('tr');
+  header.className='summary-head-'+summarySectionCategory({id:sectionId,rows});
+  for(const text of columns){const cell=summaryNode('th',text);cell.setAttribute('scope','col');header.append(cell);}head.append(header);table.append(head);
+  const body=summaryNode('tbody');
+  for(const row of rows){const tr=summaryNode('tr');tr.className='summary-row-'+summaryRowCategory(sectionId,row);row.forEach((text,index)=>{const cell=summaryNode(index===0?'th':'td',text);if(index===0)cell.setAttribute('scope','row');tr.append(cell);});body.append(tr);}
+  table.append(body);region.append(table);return region;
+}
+function summaryRules(parent,rules){const list=summaryNode('ul');for(const row of rules||[]){const li=summaryNode('li',row.rule+' — ');li.append(summarySource(row.source));list.append(li);}parent.append(list);}
+function renderSummary(v,box){
+  box.replaceChildren();
+  const printable=summaryNode('p',undefined,'print-document'),link=summaryNode('a','PDF à imprimer','quiet');
+  link.href='/documents/Prerogatives_FFESSM_impression.pdf';link.target='_blank';link.rel='noopener';printable.append(link);box.append(printable);
+  const reference=v.reference;
+  if(reference){
+    box.append(summaryNode('h3','Synthèse vérifiée — ensemble du programme'));
+    box.append(summaryNode('p',reference.title));
+    box.append(summaryNode('p','Vérifiée le '+reference.checked_at+' · version '+reference.version,'summary-meta'));
+    box.append(summaryNode('p',reference.introduction));
+    for(const section of reference.sections||[]){
+      const part=summaryNode('section',undefined,'summary-section summary-section-'+summarySectionCategory(section));part.append(summaryNode('h4',section.title));
+      part.append(summaryTable(section.columns,section.rows,section.title,section.id));
+      if(section.notes?.length){const notes=summaryNode('ul');for(const note of section.notes)notes.append(summaryNode('li',note));part.append(notes);}
+      box.append(part);
+    }
+  }else{
+    box.append(summaryNode('h3','Synthèse'));
+    box.append(summaryNode('p',"La synthèse de référence n'est pas disponible dans cette installation. Le bouton Périmètre donne accès aux règles actuellement travaillées."));
+  }
+}
+function renderScope(v,box){box.replaceChildren();box.append(summaryNode('h3','Rappel du périmètre courant — '+(v.status?.scope??'?')+' %'));summaryRules(box,v.rules);}
+function renderSources(v,box){
+  box.replaceChildren();box.append(summaryNode('h3','Sources'));const reference=v.reference,checked=reference?.checked_at||v.status?.sources_checked_at;
+  if(checked)box.append(summaryNode('p','Dernière vérification : '+checked,'summary-meta'));
+  const unique=new Map();for(const source of [...Object.values(reference?.sources||{}),...(v.rules||[]).map(row=>row.source)])if(source&&!unique.has(source.url||source.reference))unique.set(source.url||source.reference,source);
+  const list=summaryNode('ul');for(const source of unique.values()){const item=summaryNode('li');item.append(summarySource(source));list.append(item);}box.append(list);
+}
+function renderHistory(rows,box){
+  box.replaceChildren();box.append(summaryNode('h3','Tes réponses'));
+  for(const row of rows){const p=summaryNode('p'),score=row.score??(row.correct?1:0);p.className=score===1?'correct':score===.5?'partial':'wrong';p.style.padding='10px';p.style.borderRadius='7px';p.textContent='Question '+(row.question_number??row.question_id)+' · '+row.letter+' · '+num(score)+' point'+(score>1?'s':'')+' · '+resultDate(row.at);box.append(p);}
+}
+const detailViews={summary:{button:'summary',panel:'summary-panel',action:'summary',render:renderSummary},history:{button:'history',panel:'history-panel',action:'history',render:renderHistory},scope:{button:'scope-details',panel:'scope-panel',action:'summary',render:renderScope},sources:{button:'sources',panel:'sources-panel',action:'summary',render:renderSources}};
+function refreshDetailsContainer(){$('details').hidden=Object.values(detailViews).every(view=>$(view.panel).hidden);}
+function closeAllDetails(clear=false){for(const view of Object.values(detailViews)){$(view.panel).hidden=true;$(view.button).setAttribute('aria-expanded','false');if(clear)$(view.panel).replaceChildren();}refreshDetailsContainer();}
+function toggleDetails(name){
+  cancelAdvance();const view=detailViews[name],panel=$(view.panel);
+  if(!panel.hidden){panel.hidden=true;$(view.button).setAttribute('aria-expanded','false');refreshDetailsContainer();return;}
+  run(async()=>{view.render(await api(view.action),panel);panel.hidden=false;$(view.button).setAttribute('aria-expanded','true');refreshDetailsContainer();panel.scrollIntoView({behavior:'smooth'});});
+}
+for(const name of Object.keys(detailViews))$(detailViews[name].button).onclick=()=>toggleDetails(name);
+closeAllDetails();
+$('export').onclick=()=>run(async()=>{const v=await api('export');const url=URL.createObjectURL(new Blob([JSON.stringify(v,null,2)],{type:'application/json'}));const a=document.createElement('a');a.href=url;a.download='progress.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);});
+document.addEventListener('keydown',e=>{
+  if(e.ctrlKey||e.altKey||e.metaKey||e.repeat||e.target.closest('input,textarea,dialog'))return;
+  const key=e.key.toUpperCase();
+  if('ABCD'.includes(key)&&key.length===1&&!graded){e.preventDefault();choose(key);}
+  else if(e.key==='Enter'){if(e.target.closest('a,.toolbar,#session'))return;e.preventDefault();if(graded)$('next').click();else if(selected.size)$('validate').click();}
+});
+
+
+function cancelAdvance(){clearTimeout(advanceTimer);clearInterval(advanceInterval);advanceTimer=null;advanceInterval=null;$('next').textContent='Question suivante →';}
+function nextQuestion(){cancelAdvance();if(busy){queuedNext=true;return;}run(async()=>{show(await api('next'));$('question').scrollIntoView({behavior:'smooth',block:'center'});});}
+function scheduleAdvance(){cancelAdvance();const deadline=Date.now()+10000;const tick=()=>{$('next').textContent='Question suivante · '+Math.max(0,Math.ceil((deadline-Date.now())/1000))+' s';};tick();advanceInterval=setInterval(tick,250);advanceTimer=setTimeout(nextQuestion,10000);}
+$('reset').onclick=()=>{cancelAdvance();if(!confirm('Oublier les réponses et les scores de la session active et repartir à la question 1 ?'))return;run(async()=>{const r=await api('reset');closeAllDetails(true);sessionMode='normal';show(r.next);$('selection-reason').textContent=r.message;});};
+
+
+let reportQuestion=null,reportBlobUrl=null;
+$('report').onclick=()=>{if(!current||!current.question)return;cancelAdvance();reportQuestion={question_id:current.question_id,...(current.question_number!==undefined?{question_number:current.question_number}:{}),question_title:current.question,presentation_id:current.presentation_id};$('report-question').textContent='Question '+(reportQuestion.question_number??reportQuestion.question_id)+' · '+reportQuestion.question_title;$('report-remarks').value='';$('report-ready').hidden=true;$('report-dialog').showModal();$('report-remarks').focus();};
+$('report-cancel').onclick=()=>$('report-dialog').close();
+$('report-prepare').onclick=()=>{const remarks=$('report-remarks').value.trim();if(!remarks){$('report-remarks').focus();return;}const report={type:'ffessm_qcm_error',schema_version:1,...reportQuestion,remarks,reported_at:new Date().toISOString()};const json=JSON.stringify(report,null,2);$('report-json').textContent=json;$('report-mail').href='mailto:woyczek@gmail.com?subject='+encodeURIComponent('QCM FFESSM — erreur question '+(report.question_number??report.question_id))+'&body='+encodeURIComponent(json);if(reportBlobUrl)URL.revokeObjectURL(reportBlobUrl);reportBlobUrl=URL.createObjectURL(new Blob([json],{type:'application/json'}));$('report-download').href=reportBlobUrl;$('report-download').download='ffessm-erreur-Q'+(report.question_number??report.question_id)+'.json';$('report-ready').hidden=false;$('report-mail').focus();};
+$('report-dialog').addEventListener('close',()=>{if(graded&&$('details').hidden)scheduleAdvance();});
+
+async function openSession(){cancelAdvance();const s=await api('session');status(s.status,s.session_mode??s.status?.session_mode??sessionMode);$('start-review').disabled=!(s.review_available??((s.status?.attempts||0)>0));if(!s.has_history){show(await api('next'));return;}$('quiz').hidden=true;$('session').hidden=false;$('resume').textContent=s.resume_question_id?'Continuer à la question '+(s.resume_question_number??s.resume_question_id):'Continuer la progression';$('session-info').textContent=[s.migration_notice,s.priority_reason||'Ta progression et tes réponses précédentes sont conservées.'].filter(Boolean).join(' ');$('priority').hidden=!s.priority_question_id||s.priority_question_id===s.resume_question_id;$('priority').textContent=s.priority_question_id?'Revoir la question '+(s.priority_question_number??s.priority_question_id):'Revoir les réponses non validées';}
+function resumeNormalSession(){cancelAdvance();run(async()=>{const q=await api('resume-latest');sessionMode='normal';show(q);});}
+$('resume').onclick=resumeNormalSession;
+$('end-review').onclick=resumeNormalSession;
+$('start-review').onclick=()=>run(async()=>{const q=await api('start-review');sessionMode='revision';show(q);});
+$('priority').onclick=()=>run(async()=>show(await api('next')));
+$('restart').onclick=()=>{cancelAdvance();run(async()=>{const r=await api('restart');closeAllDetails(true);sessionMode='normal';show(r.next);$('selection-reason').textContent=r.message;});};
+$('session-menu').onclick=()=>run(openSession);
+
+if(location.protocol==='file:'){$('question').textContent='Ouvre le lanceur du QCM pour retrouver tes questions et ta progression.';$('phase').textContent="Ce fichier est l'interface du programme.";}else run(openSession);
+</script>
+</body></html>

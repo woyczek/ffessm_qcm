@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Signalement d'erreur QCM FFESSM",
+  "type": "object",
+  "required": ["type", "schema_version", "question_id", "question_title", "remarks", "reported_at"],
+  "properties": {
+    "type": {"const": "ffessm_qcm_error"},
+    "schema_version": {"const": 1},
+    "question_id": {"type": "integer", "minimum": 1},
+    "question_number": {"type": "integer", "minimum": 1},
+    "question_title": {"type": "string", "minLength": 1},
+    "presentation_id": {"type": "integer", "minimum": 1},
+    "remarks": {"type": "string", "minLength": 1, "maxLength": 2000},
+    "reported_at": {"type": "string", "format": "date-time"}
+  },
+  "additionalProperties": false
+}

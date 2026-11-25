@@ -1,0 +1,10 @@
+{
+  "layout_version": 1,
+  "updated_at": "2026-11-23T14:36:34.265769+00:00",
+  "moved": [
+    {
+      "from": "__pycache__",
+      "to": "app/legacy/__pycache__"
+    }
+  ]
+}

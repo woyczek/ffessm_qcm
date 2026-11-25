@@ -1,0 +1,4468 @@
+{
+  "schema_version": 1,
+  "scope": 77,
+  "initial_complete": true,
+  "growth_correct": 0,
+  "presentations": [
+    {
+      "id": 1,
+      "question_id": 1,
+      "at": "2026-11-23T13:30:24.376672+00:00",
+      "kind": "seed",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 2,
+      "question_id": 2,
+      "at": "2026-11-23T13:30:24.376765+00:00",
+      "kind": "seed",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 3,
+      "question_id": 3,
+      "at": "2026-11-23T13:30:24.376816+00:00",
+      "kind": "seed",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true,
+      "question_snapshot": {
+        "id": 3,
+        "min_scope": 30,
+        "source": "N1P3",
+        "q": "Un N1 majeur sans autre qualification plonge en exploration en milieu naturel. Prérogatives maximales sous réserve du DP ?",
+        "choices": [
+          "20 m en autonomie",
+          "20 m avec un GP",
+          "40 m avec un GP",
+          "6 m avec un GP"
+        ],
+        "answer": "B",
+        "why": "Le N1 correspond aux prérogatives PE20, en palanquée guidée."
+      }
+    },
+    {
+      "id": 4,
+      "question_id": 4,
+      "at": "2026-11-23T13:30:24.376861+00:00",
+      "kind": "seed",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true,
+      "question_snapshot": {
+        "id": 4,
+        "min_scope": 30,
+        "source": "N2P3",
+        "q": "Un N2 majeur plonge en exploration en milieu naturel, sous l'organisation d'un DP. Quelle profondeur maximale permet son aptitude à l'autonomie ?",
+        "choices": [
+          "20 m",
+          "12 m",
+          "40 m",
+          "60 m"
+        ],
+        "answer": "A",
+        "why": "Le N2 dispose des aptitudes PA20 : autonomie jusqu'à 20 m sur décision du DP."
+      }
+    },
+    {
+      "id": 5,
+      "question_id": 5,
+      "at": "2026-11-23T13:30:24.376892+00:00",
+      "kind": "seed",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true,
+      "question_snapshot": {
+        "id": 5,
+        "min_scope": 30,
+        "source": "N2P3",
+        "q": "Un N2 majeur est encadré par un guide de palanquée en exploration en milieu naturel. Quelle est sa profondeur maximale de prérogative, sous réserve du DP ?",
+        "choices": [
+          "20 m",
+          "40 m",
+          "60 m",
+          "6 m"
+        ],
+        "answer": "B",
+        "why": "L'aptitude PE40 du N2 permet l'exploration guidée jusqu'à 40 m."
+      }
+    },
+    {
+      "id": 6,
+      "question_id": 6,
+      "at": "2026-11-23T13:30:24.376922+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 7,
+      "question_id": 7,
+      "at": "2026-11-23T13:37:29.188669+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 8,
+      "question_id": 6,
+      "at": "2026-11-23T13:43:53.030427+00:00",
+      "kind": "retry",
+      "order": [
+        1,
+        2,
+        3,
+        0
+      ],
+      "answered": true
+    },
+    {
+      "id": 9,
+      "question_id": 7,
+      "at": "2026-11-23T13:56:04.068415+00:00",
+      "kind": "retry",
+      "order": [
+        1,
+        2,
+        3,
+        0
+      ],
+      "answered": true
+    },
+    {
+      "id": 10,
+      "question_id": 6,
+      "at": "2026-11-23T13:56:14.003561+00:00",
+      "kind": "review",
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answered": true
+    },
+    {
+      "id": 11,
+      "question_id": 8,
+      "at": "2026-11-23T13:57:19.467072+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 12,
+      "question_id": 7,
+      "at": "2026-11-23T13:57:26.426547+00:00",
+      "kind": "review",
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answered": true
+    },
+    {
+      "id": 13,
+      "question_id": 9,
+      "at": "2026-11-23T13:58:14.536060+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 14,
+      "question_id": 10,
+      "at": "2026-11-23T13:58:27.457893+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 15,
+      "question_id": 1,
+      "at": "2026-11-23T13:59:00.592991+00:00",
+      "kind": "review",
+      "order": [
+        1,
+        2,
+        3,
+        0
+      ],
+      "answered": true
+    },
+    {
+      "id": 16,
+      "question_id": 2,
+      "at": "2026-11-23T13:59:12.586342+00:00",
+      "kind": "review",
+      "order": [
+        1,
+        2,
+        3,
+        0
+      ],
+      "answered": true
+    },
+    {
+      "id": 17,
+      "question_id": 11,
+      "at": "2026-11-23T13:59:20.026729+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 18,
+      "question_id": 12,
+      "at": "2026-11-23T14:00:44.731631+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 19,
+      "question_id": 12,
+      "at": "2026-11-23T14:02:40.187446+00:00",
+      "kind": "retry",
+      "order": [
+        1,
+        2,
+        3,
+        0
+      ],
+      "answered": true
+    },
+    {
+      "id": 20,
+      "question_id": 13,
+      "at": "2026-11-23T14:02:53.061406+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 21,
+      "question_id": 13,
+      "at": "2026-11-23T14:03:47.620235+00:00",
+      "kind": "retry",
+      "order": [
+        1,
+        2,
+        3,
+        0
+      ],
+      "answered": true
+    },
+    {
+      "id": 22,
+      "question_id": 12,
+      "at": "2026-11-23T14:03:57.227008+00:00",
+      "kind": "review",
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answered": true
+    },
+    {
+      "id": 23,
+      "question_id": 14,
+      "at": "2026-11-23T14:19:27.165775+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 24,
+      "question_id": 13,
+      "at": "2026-11-23T14:19:55.197031+00:00",
+      "kind": "review",
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answered": true
+    },
+    {
+      "id": 25,
+      "question_id": 15,
+      "at": "2026-11-23T14:20:11.284294+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 26,
+      "question_id": 16,
+      "at": "2026-11-23T14:20:27.754896+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 27,
+      "question_id": 16,
+      "at": "2026-11-23T14:20:43.434537+00:00",
+      "kind": "retry",
+      "order": [
+        1,
+        2,
+        3,
+        0
+      ],
+      "answered": true
+    },
+    {
+      "id": 28,
+      "question_id": 17,
+      "at": "2026-11-23T15:25:57.470291+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 29,
+      "question_id": 18,
+      "at": "2026-11-23T15:26:15.358876+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 30,
+      "question_id": 18,
+      "at": "2026-11-23T15:26:24.053043+00:00",
+      "kind": "retry",
+      "order": [
+        1,
+        2,
+        3,
+        0
+      ],
+      "answered": true
+    },
+    {
+      "id": 31,
+      "question_id": 18,
+      "at": "2026-11-23T15:26:29.083817+00:00",
+      "kind": "retry",
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answered": true
+    },
+    {
+      "id": 32,
+      "question_id": 16,
+      "at": "2026-11-23T15:26:32.413665+00:00",
+      "kind": "review",
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answered": true
+    },
+    {
+      "id": 33,
+      "question_id": 19,
+      "at": "2026-11-23T15:26:40.822505+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 34,
+      "question_id": 19,
+      "at": "2026-11-23T15:26:49.387248+00:00",
+      "kind": "retry",
+      "order": [
+        1,
+        2,
+        3,
+        0
+      ],
+      "answered": true
+    },
+    {
+      "id": 35,
+      "question_id": 18,
+      "at": "2026-11-23T15:26:52.328424+00:00",
+      "kind": "review",
+      "order": [
+        3,
+        0,
+        1,
+        2
+      ],
+      "answered": true
+    },
+    {
+      "id": 36,
+      "question_id": 20,
+      "at": "2026-11-23T15:26:56.174460+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 37,
+      "question_id": 19,
+      "at": "2026-11-23T15:35:48.919145+00:00",
+      "kind": "review",
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answered": true
+    },
+    {
+      "id": 38,
+      "question_id": 21,
+      "at": "2026-11-23T15:35:57.343048+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 39,
+      "question_id": 22,
+      "at": "2026-11-23T15:36:16.258294+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 40,
+      "question_id": 22,
+      "at": "2026-11-23T15:36:32.212300+00:00",
+      "kind": "retry",
+      "order": [
+        1,
+        2,
+        3,
+        0
+      ],
+      "answered": true
+    },
+    {
+      "id": 41,
+      "question_id": 23,
+      "at": "2026-11-23T15:36:37.362932+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 42,
+      "question_id": 24,
+      "at": "2026-11-23T15:37:53.307859+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 43,
+      "question_id": 22,
+      "at": "2026-11-23T15:38:08.532352+00:00",
+      "kind": "review",
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answered": true
+    },
+    {
+      "id": 44,
+      "question_id": 25,
+      "at": "2026-11-23T15:38:15.596556+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 45,
+      "question_id": 26,
+      "at": "2026-11-23T15:40:56.763266+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 46,
+      "question_id": 27,
+      "at": "2026-11-23T15:41:13.581124+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 47,
+      "question_id": 3,
+      "at": "2026-11-23T15:41:33.861762+00:00",
+      "kind": "review",
+      "order": [
+        1,
+        2,
+        3,
+        0
+      ],
+      "answered": true,
+      "question_snapshot": {
+        "id": 3,
+        "min_scope": 30,
+        "source": "N1P3",
+        "q": "Un N1 majeur sans autre qualification plonge en exploration en milieu naturel. Prérogatives maximales sous réserve du DP ?",
+        "choices": [
+          "20 m en autonomie",
+          "20 m avec un GP",
+          "40 m avec un GP",
+          "6 m avec un GP"
+        ],
+        "answer": "B",
+        "why": "Le N1 correspond aux prérogatives PE20, en palanquée guidée."
+      }
+    },
+    {
+      "id": 48,
+      "question_id": 3,
+      "at": "2026-11-23T15:42:27.550677+00:00",
+      "kind": "retry",
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answered": true,
+      "question_snapshot": {
+        "id": 3,
+        "min_scope": 30,
+        "source": "N1P3",
+        "q": "Un N1 majeur sans autre qualification plonge en exploration en milieu naturel. Prérogatives maximales sous réserve du DP ?",
+        "choices": [
+          "20 m en autonomie",
+          "20 m avec un GP",
+          "40 m avec un GP",
+          "6 m avec un GP"
+        ],
+        "answer": "B",
+        "why": "Le N1 correspond aux prérogatives PE20, en palanquée guidée."
+      }
+    },
+    {
+      "id": 49,
+      "question_id": 28,
+      "at": "2026-11-23T15:42:32.385398+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 50,
+      "question_id": 29,
+      "at": "2026-11-23T15:46:38.683988+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 51,
+      "question_id": 3,
+      "at": "2026-11-23T15:46:46.686743+00:00",
+      "kind": "review",
+      "order": [
+        3,
+        0,
+        1,
+        2
+      ],
+      "answered": true,
+      "question_snapshot": {
+        "id": 3,
+        "min_scope": 30,
+        "source": "N1P3",
+        "q": "Un N1 majeur sans autre qualification plonge en exploration en milieu naturel. Prérogatives maximales sous réserve du DP ?",
+        "choices": [
+          "20 m en autonomie",
+          "20 m avec un GP",
+          "40 m avec un GP",
+          "6 m avec un GP"
+        ],
+        "answer": "B",
+        "why": "Le N1 correspond aux prérogatives PE20, en palanquée guidée."
+      }
+    },
+    {
+      "id": 52,
+      "question_id": 30,
+      "at": "2026-11-23T15:47:00.713159+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 53,
+      "question_id": 31,
+      "at": "2026-11-23T15:50:17.393678+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 54,
+      "question_id": 31,
+      "at": "2026-11-23T15:50:28.355770+00:00",
+      "kind": "retry",
+      "order": [
+        1,
+        2,
+        3,
+        0
+      ],
+      "answered": true
+    },
+    {
+      "id": 55,
+      "question_id": 32,
+      "at": "2026-11-23T15:50:33.261180+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 56,
+      "question_id": 33,
+      "at": "2026-11-23T15:51:00.202175+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 57,
+      "question_id": 33,
+      "at": "2026-11-23T15:51:11.924436+00:00",
+      "kind": "retry",
+      "order": [
+        1,
+        2,
+        3,
+        0
+      ],
+      "answered": true
+    },
+    {
+      "id": 58,
+      "question_id": 31,
+      "at": "2026-11-23T15:51:15.990379+00:00",
+      "kind": "review",
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answered": true
+    },
+    {
+      "id": 59,
+      "question_id": 34,
+      "at": "2026-11-23T15:51:22.592798+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 60,
+      "question_id": 34,
+      "at": "2026-11-23T15:51:41.198525+00:00",
+      "kind": "retry",
+      "order": [
+        1,
+        2,
+        3,
+        0
+      ],
+      "answered": true
+    },
+    {
+      "id": 61,
+      "question_id": 33,
+      "at": "2026-11-23T15:51:44.183158+00:00",
+      "kind": "review",
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answered": true
+    },
+    {
+      "id": 62,
+      "question_id": 35,
+      "at": "2026-11-23T15:51:48.377639+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 63,
+      "question_id": 34,
+      "at": "2026-11-23T15:51:57.391615+00:00",
+      "kind": "review",
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answered": true
+    },
+    {
+      "id": 64,
+      "question_id": 36,
+      "at": "2026-11-23T15:52:03.466675+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 65,
+      "question_id": 37,
+      "at": "2026-11-23T15:52:19.718404+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 66,
+      "question_id": 38,
+      "at": "2026-11-23T15:53:26.216419+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 67,
+      "question_id": 4,
+      "at": "2026-11-23T15:53:34.031615+00:00",
+      "kind": "review",
+      "order": [
+        1,
+        2,
+        3,
+        0
+      ],
+      "answered": true,
+      "question_snapshot": {
+        "id": 4,
+        "min_scope": 30,
+        "source": "N2P3",
+        "q": "Un N2 majeur plonge en exploration en milieu naturel, sous l'organisation d'un DP. Quelle profondeur maximale permet son aptitude à l'autonomie ?",
+        "choices": [
+          "20 m",
+          "12 m",
+          "40 m",
+          "60 m"
+        ],
+        "answer": "A",
+        "why": "Le N2 dispose des aptitudes PA20 : autonomie jusqu'à 20 m sur décision du DP."
+      }
+    },
+    {
+      "id": 68,
+      "question_id": 39,
+      "at": "2026-11-23T15:54:35.685131+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 69,
+      "question_id": 40,
+      "at": "2026-11-23T15:55:24.338123+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 70,
+      "question_id": 40,
+      "at": "2026-11-23T15:56:00.706652+00:00",
+      "kind": "retry",
+      "order": [
+        1,
+        2,
+        3,
+        0
+      ],
+      "answered": true
+    },
+    {
+      "id": 71,
+      "question_id": 41,
+      "at": "2026-11-23T15:56:05.185620+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 72,
+      "question_id": 42,
+      "at": "2026-11-23T16:03:03.294205+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 73,
+      "question_id": 40,
+      "at": "2026-11-23T16:04:40.524461+00:00",
+      "kind": "review",
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answered": true
+    },
+    {
+      "id": 74,
+      "question_id": 43,
+      "at": "2026-11-23T16:04:50.809716+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 75,
+      "question_id": 43,
+      "at": "2026-11-23T16:05:30.186571+00:00",
+      "kind": "retry",
+      "order": [
+        1,
+        2,
+        3,
+        0
+      ],
+      "answered": true
+    },
+    {
+      "id": 76,
+      "question_id": 43,
+      "at": "2026-11-23T16:05:37.753975+00:00",
+      "kind": "retry",
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answered": true
+    },
+    {
+      "id": 77,
+      "question_id": 44,
+      "at": "2026-11-23T16:05:43.605929+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 78,
+      "question_id": 44,
+      "at": "2026-11-23T16:05:58.371641+00:00",
+      "kind": "retry",
+      "order": [
+        1,
+        2,
+        3,
+        0
+      ],
+      "answered": true
+    },
+    {
+      "id": 79,
+      "question_id": 43,
+      "at": "2026-11-23T16:06:03.195893+00:00",
+      "kind": "review",
+      "order": [
+        3,
+        0,
+        1,
+        2
+      ],
+      "answered": true
+    },
+    {
+      "id": 80,
+      "question_id": 43,
+      "at": "2026-11-23T16:06:21.631074+00:00",
+      "kind": "retry",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 81,
+      "question_id": 44,
+      "at": "2026-11-23T16:06:39.931924+00:00",
+      "kind": "review",
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answered": true
+    },
+    {
+      "id": 82,
+      "question_id": 45,
+      "at": "2026-11-23T16:06:48.756903+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 83,
+      "question_id": 43,
+      "at": "2026-11-23T16:07:25.502553+00:00",
+      "kind": "review",
+      "order": [
+        1,
+        2,
+        3,
+        0
+      ],
+      "answered": true
+    },
+    {
+      "id": 84,
+      "question_id": 46,
+      "at": "2026-11-23T16:07:44.432396+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 85,
+      "question_id": 46,
+      "at": "2026-11-23T16:08:27.232494+00:00",
+      "kind": "retry",
+      "order": [
+        1,
+        2,
+        3,
+        0
+      ],
+      "answered": true
+    },
+    {
+      "id": 86,
+      "question_id": 47,
+      "at": "2026-11-23T16:08:42.639867+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 87,
+      "question_id": 48,
+      "at": "2026-11-23T16:08:53.432455+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 88,
+      "question_id": 46,
+      "at": "2026-11-23T16:08:59.898802+00:00",
+      "kind": "review",
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answered": true
+    },
+    {
+      "id": 89,
+      "question_id": 49,
+      "at": "2026-11-23T16:09:07.101631+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 90,
+      "question_id": 50,
+      "at": "2026-11-23T16:09:56.529709+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 91,
+      "question_id": 51,
+      "at": "2026-11-23T16:10:13.150191+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 92,
+      "question_id": 5,
+      "at": "2026-11-23T16:10:22.054321+00:00",
+      "kind": "review",
+      "order": [
+        1,
+        2,
+        3,
+        0
+      ],
+      "answered": true
+    },
+    {
+      "id": 93,
+      "question_id": 5,
+      "at": "2026-11-23T16:10:54.076254+00:00",
+      "kind": "retry",
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answered": true
+    },
+    {
+      "id": 94,
+      "question_id": 52,
+      "at": "2026-11-23T16:11:00.323389+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 95,
+      "question_id": 53,
+      "at": "2026-11-23T16:11:48.698467+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 96,
+      "question_id": 5,
+      "at": "2026-11-23T16:12:03.401030+00:00",
+      "kind": "review",
+      "order": [
+        3,
+        0,
+        1,
+        2
+      ],
+      "answered": true
+    },
+    {
+      "id": 97,
+      "question_id": 54,
+      "at": "2026-11-23T16:12:11.215547+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 98,
+      "question_id": 55,
+      "at": "2026-11-23T16:12:21.678117+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 99,
+      "question_id": 55,
+      "at": "2026-11-23T16:12:46.236307+00:00",
+      "kind": "retry",
+      "order": [
+        1,
+        2,
+        3,
+        0
+      ],
+      "answered": true
+    },
+    {
+      "id": 100,
+      "question_id": 56,
+      "at": "2026-11-23T16:13:00.139845+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 101,
+      "question_id": 57,
+      "at": "2026-11-23T16:13:51.620179+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 102,
+      "question_id": 55,
+      "at": "2026-11-23T16:14:14.946707+00:00",
+      "kind": "review",
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answered": true
+    },
+    {
+      "id": 103,
+      "question_id": 58,
+      "at": "2026-11-23T16:14:21.096636+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 104,
+      "question_id": 59,
+      "at": "2026-11-23T16:14:41.137954+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 105,
+      "question_id": 59,
+      "at": "2026-11-23T16:15:01.342690+00:00",
+      "kind": "retry",
+      "order": [
+        1,
+        2,
+        3,
+        0
+      ],
+      "answered": true
+    },
+    {
+      "id": 106,
+      "question_id": 60,
+      "at": "2026-11-23T16:15:05.672275+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 107,
+      "question_id": 61,
+      "at": "2026-11-23T16:15:47.117716+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 108,
+      "question_id": 59,
+      "at": "2026-11-23T16:16:08.689639+00:00",
+      "kind": "review",
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answered": true
+    },
+    {
+      "id": 109,
+      "question_id": 62,
+      "at": "2026-11-23T16:16:16.211915+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 110,
+      "question_id": 63,
+      "at": "2026-11-23T16:16:33.140204+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 111,
+      "question_id": 63,
+      "at": "2026-11-23T16:20:48.160009+00:00",
+      "kind": "retry",
+      "order": [
+        1,
+        2,
+        3,
+        0
+      ],
+      "answered": true
+    },
+    {
+      "id": 112,
+      "question_id": 64,
+      "at": "2026-11-23T16:20:51.626538+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 113,
+      "question_id": 65,
+      "at": "2026-11-23T16:20:56.968260+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 114,
+      "question_id": 63,
+      "at": "2026-11-23T16:21:23.515679+00:00",
+      "kind": "review",
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answered": true
+    },
+    {
+      "id": 115,
+      "question_id": 66,
+      "at": "2026-11-23T16:21:29.118463+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 116,
+      "question_id": 67,
+      "at": "2026-11-23T16:21:43.532963+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 117,
+      "question_id": 68,
+      "at": "2026-11-23T16:21:52.030932+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 118,
+      "question_id": 68,
+      "at": "2026-11-23T16:22:12.566780+00:00",
+      "kind": "retry",
+      "order": [
+        1,
+        2,
+        3,
+        0
+      ],
+      "answered": true
+    },
+    {
+      "id": 119,
+      "question_id": 69,
+      "at": "2026-11-23T16:22:18.521172+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 120,
+      "question_id": 69,
+      "at": "2026-11-23T16:22:30.680949+00:00",
+      "kind": "retry",
+      "order": [
+        1,
+        2,
+        3,
+        0
+      ],
+      "answered": true
+    },
+    {
+      "id": 121,
+      "question_id": 68,
+      "at": "2026-11-23T16:22:43.028298+00:00",
+      "kind": "review",
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answered": true
+    },
+    {
+      "id": 122,
+      "question_id": 101,
+      "at": "2026-11-23T16:26:18.698345+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 123,
+      "question_id": 69,
+      "at": "2026-11-23T16:26:49.493082+00:00",
+      "kind": "review",
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answered": true
+    },
+    {
+      "id": 124,
+      "question_id": 102,
+      "at": "2026-11-23T16:27:10.413738+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 125,
+      "question_id": 103,
+      "at": "2026-11-23T16:27:30.423280+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 126,
+      "question_id": 104,
+      "at": "2026-11-23T16:30:22.005583+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 127,
+      "question_id": 104,
+      "at": "2026-11-23T16:32:15.912268+00:00",
+      "kind": "retry",
+      "order": [
+        1,
+        2,
+        3,
+        0
+      ],
+      "answered": true
+    },
+    {
+      "id": 128,
+      "question_id": 105,
+      "at": "2026-11-23T16:32:22.944322+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 129,
+      "question_id": 105,
+      "at": "2026-11-23T16:33:37.069509+00:00",
+      "kind": "retry",
+      "order": [
+        1,
+        2,
+        3,
+        0
+      ],
+      "answered": true
+    },
+    {
+      "id": 130,
+      "question_id": 104,
+      "at": "2026-11-23T16:33:45.882019+00:00",
+      "kind": "review",
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answered": true
+    },
+    {
+      "id": 131,
+      "question_id": 6,
+      "at": "2026-11-23T16:39:41.551339+00:00",
+      "kind": "revision",
+      "order": [
+        3,
+        0,
+        1,
+        2
+      ],
+      "answered": false
+    },
+    {
+      "id": 132,
+      "question_id": 106,
+      "at": "2026-11-23T16:51:26.885560+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 133,
+      "question_id": 105,
+      "at": "2026-11-23T16:51:52.879417+00:00",
+      "kind": "review",
+      "order": [
+        2,
+        3,
+        0,
+        1
+      ],
+      "answered": true
+    },
+    {
+      "id": 134,
+      "question_id": 107,
+      "at": "2026-11-23T16:52:10.027017+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": true
+    },
+    {
+      "id": 135,
+      "question_id": 107,
+      "at": "2026-11-23T16:58:51.469333+00:00",
+      "kind": "retry",
+      "order": [
+        1,
+        2,
+        3,
+        0
+      ],
+      "answered": true
+    },
+    {
+      "id": 136,
+      "question_id": 108,
+      "at": "2026-11-23T16:59:01.669646+00:00",
+      "kind": "new",
+      "order": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "answered": false
+    }
+  ],
+  "attempts": [
+    {
+      "presentation_id": 1,
+      "question_id": 1,
+      "at": null,
+      "letter": "C",
+      "canonical_letter": "C",
+      "correct": true,
+      "kind": "seed",
+      "imported_at": "2026-11-23T13:30:24.376672+00:00",
+      "date_unknown": true
+    },
+    {
+      "presentation_id": 2,
+      "question_id": 2,
+      "at": null,
+      "letter": "D",
+      "canonical_letter": "D",
+      "correct": true,
+      "kind": "seed",
+      "imported_at": "2026-11-23T13:30:24.376765+00:00",
+      "date_unknown": true
+    },
+    {
+      "presentation_id": 3,
+      "question_id": 3,
+      "at": null,
+      "letter": "B",
+      "canonical_letter": "B",
+      "correct": true,
+      "kind": "seed",
+      "imported_at": "2026-11-23T13:30:24.376816+00:00",
+      "date_unknown": true
+    },
+    {
+      "presentation_id": 4,
+      "question_id": 4,
+      "at": null,
+      "letter": "A",
+      "canonical_letter": "A",
+      "correct": true,
+      "kind": "seed",
+      "imported_at": "2026-11-23T13:30:24.376861+00:00",
+      "date_unknown": true
+    },
+    {
+      "presentation_id": 5,
+      "question_id": 5,
+      "at": null,
+      "letter": "B",
+      "canonical_letter": "B",
+      "correct": true,
+      "kind": "seed",
+      "imported_at": "2026-11-23T13:30:24.376892+00:00",
+      "date_unknown": true
+    },
+    {
+      "presentation_id": 6,
+      "question_id": 6,
+      "at": "2026-11-23T13:37:29.167067+00:00",
+      "letter": "B",
+      "canonical_letter": "B",
+      "correct": false,
+      "kind": "new",
+      "user_text": "B, uniquement en milieu artificiel",
+      "clarification": "La lettre B est correcte. E1 enseigne aussi en milieu naturel dans 0-6 m, avec DP E3 minimum.",
+      "original_score": 1,
+      "original_correct": true,
+      "score": 0.5
+    },
+    {
+      "presentation_id": 8,
+      "question_id": 6,
+      "at": "2026-11-23T13:53:45.909542+00:00",
+      "letter": "A",
+      "canonical_letter": "B",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "retry"
+    },
+    {
+      "presentation_id": 7,
+      "question_id": 7,
+      "at": "2026-11-23T13:55:55.028732+00:00",
+      "letter": "C",
+      "canonical_letter": "C",
+      "correct": false,
+      "score": 0,
+      "original_score": 0,
+      "original_correct": false,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 9,
+      "question_id": 7,
+      "at": "2026-11-23T13:56:11.357678+00:00",
+      "letter": "C",
+      "canonical_letter": "D",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "retry"
+    },
+    {
+      "presentation_id": 10,
+      "question_id": 6,
+      "at": "2026-11-23T13:57:16.070260+00:00",
+      "letter": "D",
+      "canonical_letter": "B",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "review"
+    },
+    {
+      "presentation_id": 11,
+      "question_id": 8,
+      "at": "2026-11-23T13:57:25.580032+00:00",
+      "letter": "A",
+      "canonical_letter": "A",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 12,
+      "question_id": 7,
+      "at": "2026-11-23T13:58:13.016507+00:00",
+      "letter": "B",
+      "canonical_letter": "D",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "review"
+    },
+    {
+      "presentation_id": 13,
+      "question_id": 9,
+      "at": "2026-11-23T13:58:25.913579+00:00",
+      "letter": "C",
+      "canonical_letter": "C",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 14,
+      "question_id": 10,
+      "at": "2026-11-23T13:58:59.693425+00:00",
+      "letter": "B",
+      "canonical_letter": "B",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 15,
+      "question_id": 1,
+      "at": "2026-11-23T13:59:11.170011+00:00",
+      "letter": "B",
+      "canonical_letter": "C",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "review"
+    },
+    {
+      "presentation_id": 16,
+      "question_id": 2,
+      "at": "2026-11-23T13:59:19.171666+00:00",
+      "letter": "C",
+      "canonical_letter": "D",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "review"
+    },
+    {
+      "presentation_id": 17,
+      "question_id": 11,
+      "at": "2026-11-23T14:00:42.843576+00:00",
+      "letter": "B",
+      "canonical_letter": "B",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 18,
+      "question_id": 12,
+      "at": "2026-11-23T14:00:54.231823+00:00",
+      "letter": "A",
+      "canonical_letter": "A",
+      "correct": false,
+      "score": 0,
+      "original_score": 0,
+      "original_correct": false,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 19,
+      "question_id": 12,
+      "at": "2026-11-23T14:02:51.606416+00:00",
+      "letter": "C",
+      "canonical_letter": "D",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "retry"
+    },
+    {
+      "presentation_id": 20,
+      "question_id": 13,
+      "at": "2026-11-23T14:03:09.514145+00:00",
+      "letter": "D",
+      "canonical_letter": "D",
+      "correct": false,
+      "score": 0,
+      "original_score": 0,
+      "original_correct": false,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 21,
+      "question_id": 13,
+      "at": "2026-11-23T14:03:56.066770+00:00",
+      "letter": "D",
+      "canonical_letter": "A",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "retry"
+    },
+    {
+      "presentation_id": 22,
+      "question_id": 12,
+      "at": "2026-11-23T14:19:26.065565+00:00",
+      "letter": "B",
+      "canonical_letter": "D",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "review"
+    },
+    {
+      "presentation_id": 23,
+      "question_id": 14,
+      "at": "2026-11-23T14:19:36.853429+00:00",
+      "letter": "B",
+      "canonical_letter": "B",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 24,
+      "question_id": 13,
+      "at": "2026-11-23T14:20:10.534358+00:00",
+      "letter": "C",
+      "canonical_letter": "A",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "review"
+    },
+    {
+      "presentation_id": 25,
+      "question_id": 15,
+      "at": "2026-11-23T14:20:26.907269+00:00",
+      "letter": "C",
+      "canonical_letter": "C",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 26,
+      "question_id": 16,
+      "at": "2026-11-23T14:20:39.623814+00:00",
+      "letter": "B",
+      "canonical_letter": "B",
+      "correct": false,
+      "score": 0,
+      "original_score": 0,
+      "original_correct": false,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 27,
+      "question_id": 16,
+      "at": "2026-11-23T15:25:47.435161+00:00",
+      "letter": "C",
+      "canonical_letter": "D",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "retry"
+    },
+    {
+      "presentation_id": 28,
+      "question_id": 17,
+      "at": "2026-11-23T15:26:11.159120+00:00",
+      "letter": "A",
+      "canonical_letter": "A",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 29,
+      "question_id": 18,
+      "at": "2026-11-23T15:26:20.068983+00:00",
+      "letter": "A",
+      "canonical_letter": "A",
+      "correct": false,
+      "score": 0,
+      "original_score": 0,
+      "original_correct": false,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 30,
+      "question_id": 18,
+      "at": "2026-11-23T15:26:26.990298+00:00",
+      "letter": "D",
+      "canonical_letter": "A",
+      "correct": false,
+      "score": 0,
+      "original_score": 0,
+      "original_correct": false,
+      "kind": "retry"
+    },
+    {
+      "presentation_id": 31,
+      "question_id": 18,
+      "at": "2026-11-23T15:26:31.484917+00:00",
+      "letter": "A",
+      "canonical_letter": "C",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "retry"
+    },
+    {
+      "presentation_id": 32,
+      "question_id": 16,
+      "at": "2026-11-23T15:26:39.688989+00:00",
+      "letter": "B",
+      "canonical_letter": "D",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "review"
+    },
+    {
+      "presentation_id": 33,
+      "question_id": 19,
+      "at": "2026-11-23T15:26:47.016887+00:00",
+      "letter": "C",
+      "canonical_letter": "C",
+      "correct": false,
+      "score": 0,
+      "original_score": 0,
+      "original_correct": false,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 34,
+      "question_id": 19,
+      "at": "2026-11-23T15:26:51.142555+00:00",
+      "letter": "A",
+      "canonical_letter": "B",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "retry"
+    },
+    {
+      "presentation_id": 35,
+      "question_id": 18,
+      "at": "2026-11-23T15:26:54.967130+00:00",
+      "letter": "D",
+      "canonical_letter": "C",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "review"
+    },
+    {
+      "presentation_id": 36,
+      "question_id": 20,
+      "at": "2026-11-23T15:35:42.715489+00:00",
+      "letter": "D",
+      "canonical_letter": "D",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 37,
+      "question_id": 19,
+      "at": "2026-11-23T15:35:55.593444+00:00",
+      "letter": "D",
+      "canonical_letter": "B",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "review"
+    },
+    {
+      "presentation_id": 38,
+      "question_id": 21,
+      "at": "2026-11-23T15:36:12.592627+00:00",
+      "letter": "A",
+      "canonical_letter": "A",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 39,
+      "question_id": 22,
+      "at": "2026-11-23T15:36:23.480159+00:00",
+      "letter": "B",
+      "canonical_letter": "B",
+      "correct": false,
+      "score": 0,
+      "original_score": 0,
+      "original_correct": false,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 40,
+      "question_id": 22,
+      "at": "2026-11-23T15:36:36.019102+00:00",
+      "letter": "B",
+      "canonical_letter": "C",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "retry"
+    },
+    {
+      "presentation_id": 41,
+      "question_id": 23,
+      "at": "2026-11-23T15:37:52.401140+00:00",
+      "letter": "B",
+      "canonical_letter": "B",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 42,
+      "question_id": 24,
+      "at": "2026-11-23T15:38:07.233960+00:00",
+      "letter": "D",
+      "canonical_letter": "D",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 43,
+      "question_id": 22,
+      "at": "2026-11-23T15:38:13.751385+00:00",
+      "letter": "A",
+      "canonical_letter": "C",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "review"
+    },
+    {
+      "presentation_id": 44,
+      "question_id": 25,
+      "at": "2026-11-23T15:40:55.286473+00:00",
+      "letter": "A",
+      "canonical_letter": "A",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 45,
+      "question_id": 26,
+      "at": "2026-11-23T15:41:09.493840+00:00",
+      "letter": "C",
+      "canonical_letter": "C",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 46,
+      "question_id": 27,
+      "at": "2026-11-23T15:41:32.715907+00:00",
+      "letter": "B",
+      "canonical_letter": "B",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 47,
+      "question_id": 3,
+      "at": "2026-11-23T15:42:18.690452+00:00",
+      "letter": "B",
+      "canonical_letter": "C",
+      "correct": false,
+      "score": 0,
+      "original_score": 0,
+      "original_correct": false,
+      "kind": "review"
+    },
+    {
+      "presentation_id": 48,
+      "question_id": 3,
+      "at": "2026-11-23T15:42:31.445712+00:00",
+      "letter": "D",
+      "canonical_letter": "B",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "retry"
+    },
+    {
+      "presentation_id": 49,
+      "question_id": 28,
+      "at": "2026-11-23T15:46:37.889569+00:00",
+      "letter": "D",
+      "canonical_letter": "D",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 50,
+      "question_id": 29,
+      "at": "2026-11-23T15:46:45.895259+00:00",
+      "letter": "A",
+      "canonical_letter": "A",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 51,
+      "question_id": 3,
+      "at": "2026-11-23T15:46:59.956114+00:00",
+      "letter": "C",
+      "canonical_letter": "B",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "review"
+    },
+    {
+      "presentation_id": 52,
+      "question_id": 30,
+      "at": "2026-11-23T15:50:16.445485+00:00",
+      "letter": "C",
+      "canonical_letter": "C",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 53,
+      "question_id": 31,
+      "at": "2026-11-23T15:50:23.113616+00:00",
+      "letter": "D",
+      "canonical_letter": "D",
+      "correct": false,
+      "score": 0,
+      "original_score": 0,
+      "original_correct": false,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 54,
+      "question_id": 31,
+      "at": "2026-11-23T15:50:31.085522+00:00",
+      "letter": "A",
+      "canonical_letter": "B",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "retry"
+    },
+    {
+      "presentation_id": 55,
+      "question_id": 32,
+      "at": "2026-11-23T15:50:54.532351+00:00",
+      "letter": "D",
+      "canonical_letter": "D",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 56,
+      "question_id": 33,
+      "at": "2026-11-23T15:51:08.489996+00:00",
+      "letter": "C",
+      "canonical_letter": "C",
+      "correct": false,
+      "score": 0,
+      "original_score": 0,
+      "original_correct": false,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 57,
+      "question_id": 33,
+      "at": "2026-11-23T15:51:14.297062+00:00",
+      "letter": "D",
+      "canonical_letter": "A",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "retry"
+    },
+    {
+      "presentation_id": 58,
+      "question_id": 31,
+      "at": "2026-11-23T15:51:21.571660+00:00",
+      "letter": "D",
+      "canonical_letter": "B",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "review"
+    },
+    {
+      "presentation_id": 59,
+      "question_id": 34,
+      "at": "2026-11-23T15:51:36.325654+00:00",
+      "letter": "B",
+      "canonical_letter": "B",
+      "correct": false,
+      "score": 0,
+      "original_score": 0,
+      "original_correct": false,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 60,
+      "question_id": 34,
+      "at": "2026-11-23T15:51:43.223289+00:00",
+      "letter": "B",
+      "canonical_letter": "C",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "retry"
+    },
+    {
+      "presentation_id": 61,
+      "question_id": 33,
+      "at": "2026-11-23T15:51:47.289432+00:00",
+      "letter": "C",
+      "canonical_letter": "A",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "review"
+    },
+    {
+      "presentation_id": 62,
+      "question_id": 35,
+      "at": "2026-11-23T15:51:56.109573+00:00",
+      "letter": "B",
+      "canonical_letter": "B",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 63,
+      "question_id": 34,
+      "at": "2026-11-23T15:52:02.664883+00:00",
+      "letter": "A",
+      "canonical_letter": "C",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "review"
+    },
+    {
+      "presentation_id": 64,
+      "question_id": 36,
+      "at": "2026-11-23T15:52:19.051382+00:00",
+      "letter": "D",
+      "canonical_letter": "D",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 65,
+      "question_id": 37,
+      "at": "2026-11-23T15:53:23.734032+00:00",
+      "letter": "A",
+      "canonical_letter": "A",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 66,
+      "question_id": 38,
+      "at": "2026-11-23T15:53:33.095202+00:00",
+      "letter": "C",
+      "canonical_letter": "C",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 67,
+      "question_id": 4,
+      "at": "2026-11-23T15:54:34.574232+00:00",
+      "letter": "D",
+      "canonical_letter": "A",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "review"
+    },
+    {
+      "presentation_id": 68,
+      "question_id": 39,
+      "at": "2026-11-23T15:55:23.572653+00:00",
+      "letter": "B",
+      "canonical_letter": "B",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 69,
+      "question_id": 40,
+      "at": "2026-11-23T15:55:50.670775+00:00",
+      "letter": "B",
+      "canonical_letter": "B",
+      "correct": false,
+      "score": 0,
+      "original_score": 0,
+      "original_correct": false,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 70,
+      "question_id": 40,
+      "at": "2026-11-23T15:56:03.647375+00:00",
+      "letter": "C",
+      "canonical_letter": "D",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "retry"
+    },
+    {
+      "presentation_id": 71,
+      "question_id": 41,
+      "at": "2026-11-23T16:03:02.289551+00:00",
+      "letter": "B",
+      "canonical_letter": "B",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 72,
+      "question_id": 42,
+      "at": "2026-11-23T16:04:38.754445+00:00",
+      "letter": "C",
+      "canonical_letter": "C",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 73,
+      "question_id": 40,
+      "at": "2026-11-23T16:04:49.674662+00:00",
+      "letter": "B",
+      "canonical_letter": "D",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "review"
+    },
+    {
+      "presentation_id": 74,
+      "question_id": 43,
+      "at": "2026-11-23T16:05:23.525236+00:00",
+      "letter": "A,B,D",
+      "canonical_letter": "A,B,D",
+      "correct": false,
+      "score": 0,
+      "original_score": 0,
+      "original_correct": false,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 75,
+      "question_id": 43,
+      "at": "2026-11-23T16:05:35.316429+00:00",
+      "letter": "A",
+      "canonical_letter": "B",
+      "correct": false,
+      "score": 0,
+      "original_score": 0,
+      "original_correct": false,
+      "kind": "retry"
+    },
+    {
+      "presentation_id": 76,
+      "question_id": 43,
+      "at": "2026-11-23T16:05:39.425377+00:00",
+      "letter": "C",
+      "canonical_letter": "A",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "retry"
+    },
+    {
+      "presentation_id": 77,
+      "question_id": 44,
+      "at": "2026-11-23T16:05:53.781498+00:00",
+      "letter": "B",
+      "canonical_letter": "B",
+      "correct": false,
+      "score": 0,
+      "original_score": 0,
+      "original_correct": false,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 78,
+      "question_id": 44,
+      "at": "2026-11-23T16:06:00.871617+00:00",
+      "letter": "B",
+      "canonical_letter": "C",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "retry"
+    },
+    {
+      "presentation_id": 79,
+      "question_id": 43,
+      "at": "2026-11-23T16:06:10.754624+00:00",
+      "letter": "C",
+      "canonical_letter": "B",
+      "correct": false,
+      "score": 0,
+      "original_score": 0,
+      "original_correct": false,
+      "kind": "review"
+    },
+    {
+      "presentation_id": 80,
+      "question_id": 43,
+      "at": "2026-11-23T16:06:38.385318+00:00",
+      "letter": "A",
+      "canonical_letter": "A",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "retry"
+    },
+    {
+      "presentation_id": 81,
+      "question_id": 44,
+      "at": "2026-11-23T16:06:47.774544+00:00",
+      "letter": "A",
+      "canonical_letter": "C",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "review"
+    },
+    {
+      "presentation_id": 82,
+      "question_id": 45,
+      "at": "2026-11-23T16:07:15.458237+00:00",
+      "letter": "B",
+      "canonical_letter": "B",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 83,
+      "question_id": 43,
+      "at": "2026-11-23T16:07:34.406000+00:00",
+      "letter": "D",
+      "canonical_letter": "A",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "review"
+    },
+    {
+      "presentation_id": 84,
+      "question_id": 46,
+      "at": "2026-11-23T16:08:17.201331+00:00",
+      "letter": "A",
+      "canonical_letter": "A",
+      "correct": false,
+      "score": 0,
+      "original_score": 0,
+      "original_correct": false,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 85,
+      "question_id": 46,
+      "at": "2026-11-23T16:08:33.446434+00:00",
+      "letter": "C",
+      "canonical_letter": "D",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "retry"
+    },
+    {
+      "presentation_id": 86,
+      "question_id": 47,
+      "at": "2026-11-23T16:08:52.532030+00:00",
+      "letter": "A",
+      "canonical_letter": "A",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 87,
+      "question_id": 48,
+      "at": "2026-11-23T16:08:59.202753+00:00",
+      "letter": "C",
+      "canonical_letter": "C",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 88,
+      "question_id": 46,
+      "at": "2026-11-23T16:09:06.277696+00:00",
+      "letter": "B",
+      "canonical_letter": "D",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "review"
+    },
+    {
+      "presentation_id": 89,
+      "question_id": 49,
+      "at": "2026-11-23T16:09:53.534087+00:00",
+      "letter": "C",
+      "canonical_letter": "C",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 90,
+      "question_id": 50,
+      "at": "2026-11-23T16:10:12.352650+00:00",
+      "letter": "A",
+      "canonical_letter": "A",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 91,
+      "question_id": 51,
+      "at": "2026-11-23T16:10:21.279350+00:00",
+      "letter": "B",
+      "canonical_letter": "B",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 92,
+      "question_id": 5,
+      "at": "2026-11-23T16:10:47.433393+00:00",
+      "letter": "A",
+      "canonical_letter": "B",
+      "correct": false,
+      "score": 0.5,
+      "original_score": 0.5,
+      "original_correct": false,
+      "kind": "review"
+    },
+    {
+      "presentation_id": 93,
+      "question_id": 5,
+      "at": "2026-11-23T16:10:59.228893+00:00",
+      "letter": "B,C,D",
+      "canonical_letter": "A,B,D",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "retry"
+    },
+    {
+      "presentation_id": 94,
+      "question_id": 52,
+      "at": "2026-11-23T16:11:47.521857+00:00",
+      "letter": "C",
+      "canonical_letter": "C",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 95,
+      "question_id": 53,
+      "at": "2026-11-23T16:12:02.603800+00:00",
+      "letter": "D",
+      "canonical_letter": "D",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 96,
+      "question_id": 5,
+      "at": "2026-11-23T16:12:10.449918+00:00",
+      "letter": "A,B,C",
+      "canonical_letter": "A,B,D",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "review"
+    },
+    {
+      "presentation_id": 97,
+      "question_id": 54,
+      "at": "2026-11-23T16:12:19.961190+00:00",
+      "letter": "A",
+      "canonical_letter": "A",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 98,
+      "question_id": 55,
+      "at": "2026-11-23T16:12:36.213015+00:00",
+      "letter": "A",
+      "canonical_letter": "A",
+      "correct": false,
+      "score": 0,
+      "original_score": 0,
+      "original_correct": false,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 99,
+      "question_id": 55,
+      "at": "2026-11-23T16:12:58.519997+00:00",
+      "letter": "A",
+      "canonical_letter": "B",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "retry"
+    },
+    {
+      "presentation_id": 100,
+      "question_id": 56,
+      "at": "2026-11-23T16:13:50.685208+00:00",
+      "letter": "D",
+      "canonical_letter": "D",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 101,
+      "question_id": 57,
+      "at": "2026-11-23T16:14:13.603993+00:00",
+      "letter": "C",
+      "canonical_letter": "C",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 102,
+      "question_id": 55,
+      "at": "2026-11-23T16:14:20.077161+00:00",
+      "letter": "D",
+      "canonical_letter": "B",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "review"
+    },
+    {
+      "presentation_id": 103,
+      "question_id": 58,
+      "at": "2026-11-23T16:14:40.108994+00:00",
+      "letter": "A",
+      "canonical_letter": "A",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 104,
+      "question_id": 59,
+      "at": "2026-11-23T16:14:57.324406+00:00",
+      "letter": "B",
+      "canonical_letter": "B",
+      "correct": false,
+      "score": 0,
+      "original_score": 0,
+      "original_correct": false,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 105,
+      "question_id": 59,
+      "at": "2026-11-23T16:15:03.391016+00:00",
+      "letter": "B",
+      "canonical_letter": "C",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "retry"
+    },
+    {
+      "presentation_id": 106,
+      "question_id": 60,
+      "at": "2026-11-23T16:15:42.844133+00:00",
+      "letter": "B",
+      "canonical_letter": "B",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 107,
+      "question_id": 61,
+      "at": "2026-11-23T16:16:05.951056+00:00",
+      "letter": "D",
+      "canonical_letter": "D",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 108,
+      "question_id": 59,
+      "at": "2026-11-23T16:16:14.230990+00:00",
+      "letter": "A",
+      "canonical_letter": "C",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "review"
+    },
+    {
+      "presentation_id": 109,
+      "question_id": 62,
+      "at": "2026-11-23T16:16:30.597825+00:00",
+      "letter": "A",
+      "canonical_letter": "A",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 110,
+      "question_id": 63,
+      "at": "2026-11-23T16:20:43.584269+00:00",
+      "letter": "A",
+      "canonical_letter": "A",
+      "correct": false,
+      "score": 0,
+      "original_score": 0,
+      "original_correct": false,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 111,
+      "question_id": 63,
+      "at": "2026-11-23T16:20:50.583095+00:00",
+      "letter": "A",
+      "canonical_letter": "B",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "retry"
+    },
+    {
+      "presentation_id": 112,
+      "question_id": 64,
+      "at": "2026-11-23T16:20:56.186946+00:00",
+      "letter": "C",
+      "canonical_letter": "C",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 113,
+      "question_id": 65,
+      "at": "2026-11-23T16:21:19.055139+00:00",
+      "letter": "D",
+      "canonical_letter": "D",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 114,
+      "question_id": 63,
+      "at": "2026-11-23T16:21:27.373257+00:00",
+      "letter": "D",
+      "canonical_letter": "B",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "review"
+    },
+    {
+      "presentation_id": 115,
+      "question_id": 66,
+      "at": "2026-11-23T16:21:41.861426+00:00",
+      "letter": "A",
+      "canonical_letter": "A",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 116,
+      "question_id": 67,
+      "at": "2026-11-23T16:21:50.987398+00:00",
+      "letter": "B",
+      "canonical_letter": "B",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 117,
+      "question_id": 68,
+      "at": "2026-11-23T16:22:07.572717+00:00",
+      "letter": "B",
+      "canonical_letter": "B",
+      "correct": false,
+      "score": 0,
+      "original_score": 0,
+      "original_correct": false,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 118,
+      "question_id": 68,
+      "at": "2026-11-23T16:22:15.498388+00:00",
+      "letter": "C",
+      "canonical_letter": "D",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "retry"
+    },
+    {
+      "presentation_id": 119,
+      "question_id": 69,
+      "at": "2026-11-23T16:22:27.245119+00:00",
+      "letter": "D",
+      "canonical_letter": "D",
+      "correct": false,
+      "score": 0,
+      "original_score": 0,
+      "original_correct": false,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 120,
+      "question_id": 69,
+      "at": "2026-11-23T16:22:33.004681+00:00",
+      "letter": "B",
+      "canonical_letter": "C",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "retry"
+    },
+    {
+      "presentation_id": 121,
+      "question_id": 68,
+      "at": "2026-11-23T16:26:17.699965+00:00",
+      "letter": "B",
+      "canonical_letter": "D",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "review"
+    },
+    {
+      "presentation_id": 122,
+      "question_id": 101,
+      "at": "2026-11-23T16:26:48.309249+00:00",
+      "letter": "A,D",
+      "canonical_letter": "A,D",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 123,
+      "question_id": 69,
+      "at": "2026-11-23T16:27:09.038081+00:00",
+      "letter": "A",
+      "canonical_letter": "C",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "review"
+    },
+    {
+      "presentation_id": 124,
+      "question_id": 102,
+      "at": "2026-11-23T16:27:29.596060+00:00",
+      "letter": "A,C,D",
+      "canonical_letter": "A,C,D",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 125,
+      "question_id": 103,
+      "at": "2026-11-23T16:30:21.248565+00:00",
+      "letter": "A,B,C",
+      "canonical_letter": "A,B,C",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 126,
+      "question_id": 104,
+      "at": "2026-11-23T16:32:11.014074+00:00",
+      "letter": "A,B,C",
+      "canonical_letter": "A,B,C",
+      "correct": false,
+      "score": 0,
+      "original_score": 0,
+      "original_correct": false,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 127,
+      "question_id": 104,
+      "at": "2026-11-23T16:32:21.762676+00:00",
+      "letter": "A,D",
+      "canonical_letter": "A,B",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "retry"
+    },
+    {
+      "presentation_id": 128,
+      "question_id": 105,
+      "at": "2026-11-23T16:33:31.052280+00:00",
+      "letter": "A,D",
+      "canonical_letter": "A,D",
+      "correct": false,
+      "score": 0.5,
+      "original_score": 0.5,
+      "original_correct": false,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 129,
+      "question_id": 105,
+      "at": "2026-11-23T16:33:45.124671+00:00",
+      "letter": "A,C,D",
+      "canonical_letter": "A,B,D",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "retry"
+    },
+    {
+      "presentation_id": 130,
+      "question_id": 104,
+      "at": "2026-11-23T16:51:26.056906+00:00",
+      "letter": "C,D",
+      "canonical_letter": "A,B",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "review"
+    },
+    {
+      "presentation_id": 132,
+      "question_id": 106,
+      "at": "2026-11-23T16:51:51.810261+00:00",
+      "letter": "C,D",
+      "canonical_letter": "C,D",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 133,
+      "question_id": 105,
+      "at": "2026-11-23T16:52:09.066384+00:00",
+      "letter": "B,C,D",
+      "canonical_letter": "A,B,D",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "review"
+    },
+    {
+      "presentation_id": 134,
+      "question_id": 107,
+      "at": "2026-11-23T16:58:41.433401+00:00",
+      "letter": "B,D",
+      "canonical_letter": "B,D",
+      "correct": false,
+      "score": 0.5,
+      "original_score": 0.5,
+      "original_correct": false,
+      "kind": "new"
+    },
+    {
+      "presentation_id": 135,
+      "question_id": 107,
+      "at": "2026-11-23T16:59:00.594701+00:00",
+      "letter": "A,B,C",
+      "canonical_letter": "B,C,D",
+      "correct": true,
+      "score": 1,
+      "original_score": 1,
+      "original_correct": true,
+      "kind": "retry"
+    }
+  ],
+  "records": {
+    "1": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 2,
+      "due_dates": [
+        "2026-11-30T13:30:24.376672+00:00",
+        "2026-12-14T13:30:24.376672+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "2": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 2,
+      "due_dates": [
+        "2026-11-30T13:30:24.376765+00:00",
+        "2026-12-14T13:30:24.376765+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "3": {
+      "status": "corrected",
+      "wrong": 1,
+      "partial": 0,
+      "correct": 3,
+      "due_dates": [
+        "2026-11-26T15:42:31.445712+00:00",
+        "2026-11-30T15:42:31.445712+00:00",
+        "2026-12-07T15:42:31.445712+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "4": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 2,
+      "due_dates": [
+        "2026-11-30T13:30:24.376861+00:00",
+        "2026-12-14T13:30:24.376861+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "5": {
+      "status": "corrected",
+      "wrong": 0,
+      "partial": 1,
+      "correct": 3,
+      "due_dates": [
+        "2026-11-26T16:10:59.228893+00:00",
+        "2026-11-30T16:10:59.228893+00:00",
+        "2026-12-07T16:10:59.228893+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "6": {
+      "status": "corrected",
+      "wrong": 0,
+      "partial": 1,
+      "correct": 2,
+      "due_dates": [
+        "2026-11-26T13:53:45.909542+00:00",
+        "2026-11-30T13:53:45.909542+00:00",
+        "2026-12-07T13:53:45.909542+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "7": {
+      "status": "corrected",
+      "wrong": 1,
+      "partial": 0,
+      "correct": 2,
+      "due_dates": [
+        "2026-11-26T13:56:11.357678+00:00",
+        "2026-11-30T13:56:11.357678+00:00",
+        "2026-12-07T13:56:11.357678+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "8": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T13:57:25.580032+00:00",
+        "2026-12-14T13:57:25.580032+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "9": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T13:58:25.913579+00:00",
+        "2026-12-14T13:58:25.913579+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "10": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T13:58:59.693425+00:00",
+        "2026-12-14T13:58:59.693425+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "11": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T14:00:42.843576+00:00",
+        "2026-12-14T14:00:42.843576+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "12": {
+      "status": "corrected",
+      "wrong": 1,
+      "partial": 0,
+      "correct": 2,
+      "due_dates": [
+        "2026-11-26T14:02:51.606416+00:00",
+        "2026-11-30T14:02:51.606416+00:00",
+        "2026-12-07T14:02:51.606416+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "13": {
+      "status": "corrected",
+      "wrong": 1,
+      "partial": 0,
+      "correct": 2,
+      "due_dates": [
+        "2026-11-26T14:03:56.066770+00:00",
+        "2026-11-30T14:03:56.066770+00:00",
+        "2026-12-07T14:03:56.066770+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "14": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T14:19:36.853429+00:00",
+        "2026-12-14T14:19:36.853429+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "15": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T14:20:26.907269+00:00",
+        "2026-12-14T14:20:26.907269+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "16": {
+      "status": "corrected",
+      "wrong": 1,
+      "partial": 0,
+      "correct": 2,
+      "due_dates": [
+        "2026-11-26T15:25:47.435161+00:00",
+        "2026-11-30T15:25:47.435161+00:00",
+        "2026-12-07T15:25:47.435161+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "17": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T15:26:11.159120+00:00",
+        "2026-12-14T15:26:11.159120+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "18": {
+      "status": "corrected",
+      "wrong": 2,
+      "partial": 0,
+      "correct": 2,
+      "due_dates": [
+        "2026-11-26T15:26:31.484917+00:00",
+        "2026-11-30T15:26:31.484917+00:00",
+        "2026-12-07T15:26:31.484917+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "19": {
+      "status": "corrected",
+      "wrong": 1,
+      "partial": 0,
+      "correct": 2,
+      "due_dates": [
+        "2026-11-26T15:26:51.142555+00:00",
+        "2026-11-30T15:26:51.142555+00:00",
+        "2026-12-07T15:26:51.142555+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "20": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T15:35:42.715489+00:00",
+        "2026-12-14T15:35:42.715489+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "21": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T15:36:12.592627+00:00",
+        "2026-12-14T15:36:12.592627+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "22": {
+      "status": "corrected",
+      "wrong": 1,
+      "partial": 0,
+      "correct": 2,
+      "due_dates": [
+        "2026-11-26T15:36:36.019102+00:00",
+        "2026-11-30T15:36:36.019102+00:00",
+        "2026-12-07T15:36:36.019102+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "23": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T15:37:52.401140+00:00",
+        "2026-12-14T15:37:52.401140+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "24": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T15:38:07.233960+00:00",
+        "2026-12-14T15:38:07.233960+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "25": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T15:40:55.286473+00:00",
+        "2026-12-14T15:40:55.286473+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "26": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T15:41:09.493840+00:00",
+        "2026-12-14T15:41:09.493840+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "27": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T15:41:32.715907+00:00",
+        "2026-12-14T15:41:32.715907+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "28": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T15:46:37.889569+00:00",
+        "2026-12-14T15:46:37.889569+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "29": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T15:46:45.895259+00:00",
+        "2026-12-14T15:46:45.895259+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "30": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T15:50:16.445485+00:00",
+        "2026-12-14T15:50:16.445485+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "31": {
+      "status": "corrected",
+      "wrong": 1,
+      "partial": 0,
+      "correct": 2,
+      "due_dates": [
+        "2026-11-26T15:50:31.085522+00:00",
+        "2026-11-30T15:50:31.085522+00:00",
+        "2026-12-07T15:50:31.085522+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "32": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T15:50:54.532351+00:00",
+        "2026-12-14T15:50:54.532351+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "33": {
+      "status": "corrected",
+      "wrong": 1,
+      "partial": 0,
+      "correct": 2,
+      "due_dates": [
+        "2026-11-26T15:51:14.297062+00:00",
+        "2026-11-30T15:51:14.297062+00:00",
+        "2026-12-07T15:51:14.297062+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "34": {
+      "status": "corrected",
+      "wrong": 1,
+      "partial": 0,
+      "correct": 2,
+      "due_dates": [
+        "2026-11-26T15:51:43.223289+00:00",
+        "2026-11-30T15:51:43.223289+00:00",
+        "2026-12-07T15:51:43.223289+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "35": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T15:51:56.109573+00:00",
+        "2026-12-14T15:51:56.109573+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "36": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T15:52:19.051382+00:00",
+        "2026-12-14T15:52:19.051382+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "37": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T15:53:23.734032+00:00",
+        "2026-12-14T15:53:23.734032+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "38": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T15:53:33.095202+00:00",
+        "2026-12-14T15:53:33.095202+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "39": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T15:55:23.572653+00:00",
+        "2026-12-14T15:55:23.572653+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "40": {
+      "status": "corrected",
+      "wrong": 1,
+      "partial": 0,
+      "correct": 2,
+      "due_dates": [
+        "2026-11-26T15:56:03.647375+00:00",
+        "2026-11-30T15:56:03.647375+00:00",
+        "2026-12-07T15:56:03.647375+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "41": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T16:03:02.289551+00:00",
+        "2026-12-14T16:03:02.289551+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "42": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T16:04:38.754445+00:00",
+        "2026-12-14T16:04:38.754445+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "43": {
+      "status": "corrected",
+      "wrong": 3,
+      "partial": 0,
+      "correct": 3,
+      "due_dates": [
+        "2026-11-26T16:06:38.385318+00:00",
+        "2026-11-30T16:06:38.385318+00:00",
+        "2026-12-07T16:06:38.385318+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "44": {
+      "status": "corrected",
+      "wrong": 1,
+      "partial": 0,
+      "correct": 2,
+      "due_dates": [
+        "2026-11-26T16:06:00.871617+00:00",
+        "2026-11-30T16:06:00.871617+00:00",
+        "2026-12-07T16:06:00.871617+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "45": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T16:07:15.458237+00:00",
+        "2026-12-14T16:07:15.458237+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "46": {
+      "status": "corrected",
+      "wrong": 1,
+      "partial": 0,
+      "correct": 2,
+      "due_dates": [
+        "2026-11-26T16:08:33.446434+00:00",
+        "2026-11-30T16:08:33.446434+00:00",
+        "2026-12-07T16:08:33.446434+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "47": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T16:08:52.532030+00:00",
+        "2026-12-14T16:08:52.532030+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "48": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T16:08:59.202753+00:00",
+        "2026-12-14T16:08:59.202753+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "49": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T16:09:53.534087+00:00",
+        "2026-12-14T16:09:53.534087+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "50": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T16:10:12.352650+00:00",
+        "2026-12-14T16:10:12.352650+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "51": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T16:10:21.279350+00:00",
+        "2026-12-14T16:10:21.279350+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "52": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T16:11:47.521857+00:00",
+        "2026-12-14T16:11:47.521857+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "53": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T16:12:02.603800+00:00",
+        "2026-12-14T16:12:02.603800+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "54": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T16:12:19.961190+00:00",
+        "2026-12-14T16:12:19.961190+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "55": {
+      "status": "corrected",
+      "wrong": 1,
+      "partial": 0,
+      "correct": 2,
+      "due_dates": [
+        "2026-11-26T16:12:58.519997+00:00",
+        "2026-11-30T16:12:58.519997+00:00",
+        "2026-12-07T16:12:58.519997+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "56": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T16:13:50.685208+00:00",
+        "2026-12-14T16:13:50.685208+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "57": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T16:14:13.603993+00:00",
+        "2026-12-14T16:14:13.603993+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "58": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T16:14:40.108994+00:00",
+        "2026-12-14T16:14:40.108994+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "59": {
+      "status": "corrected",
+      "wrong": 1,
+      "partial": 0,
+      "correct": 2,
+      "due_dates": [
+        "2026-11-26T16:15:03.391016+00:00",
+        "2026-11-30T16:15:03.391016+00:00",
+        "2026-12-07T16:15:03.391016+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "60": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T16:15:42.844133+00:00",
+        "2026-12-14T16:15:42.844133+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "61": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T16:16:05.951056+00:00",
+        "2026-12-14T16:16:05.951056+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "62": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T16:16:30.597825+00:00",
+        "2026-12-14T16:16:30.597825+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "63": {
+      "status": "corrected",
+      "wrong": 1,
+      "partial": 0,
+      "correct": 2,
+      "due_dates": [
+        "2026-11-26T16:20:50.583095+00:00",
+        "2026-11-30T16:20:50.583095+00:00",
+        "2026-12-07T16:20:50.583095+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "64": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T16:20:56.186946+00:00",
+        "2026-12-14T16:20:56.186946+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "65": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T16:21:19.055139+00:00",
+        "2026-12-14T16:21:19.055139+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "66": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T16:21:41.861426+00:00",
+        "2026-12-14T16:21:41.861426+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "67": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T16:21:50.987398+00:00",
+        "2026-12-14T16:21:50.987398+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "68": {
+      "status": "corrected",
+      "wrong": 1,
+      "partial": 0,
+      "correct": 2,
+      "due_dates": [
+        "2026-11-26T16:22:15.498388+00:00",
+        "2026-11-30T16:22:15.498388+00:00",
+        "2026-12-07T16:22:15.498388+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "69": {
+      "status": "corrected",
+      "wrong": 1,
+      "partial": 0,
+      "correct": 2,
+      "due_dates": [
+        "2026-11-26T16:22:33.004681+00:00",
+        "2026-11-30T16:22:33.004681+00:00",
+        "2026-12-07T16:22:33.004681+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "101": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T16:26:48.309249+00:00",
+        "2026-12-14T16:26:48.309249+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "102": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T16:27:29.596060+00:00",
+        "2026-12-14T16:27:29.596060+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "103": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T16:30:21.248565+00:00",
+        "2026-12-14T16:30:21.248565+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "104": {
+      "status": "corrected",
+      "wrong": 1,
+      "partial": 0,
+      "correct": 2,
+      "due_dates": [
+        "2026-11-26T16:32:21.762676+00:00",
+        "2026-11-30T16:32:21.762676+00:00",
+        "2026-12-07T16:32:21.762676+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "105": {
+      "status": "corrected",
+      "wrong": 0,
+      "partial": 1,
+      "correct": 2,
+      "due_dates": [
+        "2026-11-26T16:33:45.124671+00:00",
+        "2026-11-30T16:33:45.124671+00:00",
+        "2026-12-07T16:33:45.124671+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "106": {
+      "status": "first_correct",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-30T16:51:51.810261+00:00",
+        "2026-12-14T16:51:51.810261+00:00"
+      ],
+      "due_after_attempt": null
+    },
+    "107": {
+      "status": "corrected",
+      "wrong": 0,
+      "partial": 1,
+      "correct": 1,
+      "due_dates": [
+        "2026-11-26T16:59:00.594701+00:00",
+        "2026-11-30T16:59:00.594701+00:00",
+        "2026-12-07T16:59:00.594701+00:00"
+      ],
+      "due_after_attempt": 136
+    },
+    "108": {
+      "status": "pending",
+      "wrong": 0,
+      "partial": 0,
+      "correct": 0,
+      "due_dates": [],
+      "due_after_attempt": null
+    }
+  },
+  "new_since_review": 0,
+  "daily": {},
+  "question_fingerprints": {
+    "1": "43fb8e6edb157abc2d49401b8a7d5a0218b0ade6fd2f894b695a3524fd644ed7",
+    "2": "abbbff01085483e13e70f7ff4f6910241d8a5319ed77f6cbe922f0a0c7611974",
+    "3": "28e42da0659431aa2cb59391248056cfb4d18355e7fed206f3b265cf6ab2954b",
+    "4": "64f90637f968b4c0e2f5b57900bfb308b43057c9c22ffa61e32f99c4b2cc0ea9",
+    "5": "d6f8f7402c2b7131e77a5fa9319a298a36cf3f1bf9884f717e74bb90fda72455",
+    "6": "a260c839d10d0adae36030bbe613842553df9e0065d4d1802f106767f327779f",
+    "7": "61d22fe3b17b1516a66b7bd282c0b07341fa01cb5de3c22ab4e1d88af4b2521d",
+    "8": "d99bd3b34ff510286f6b5098cb997a04fb59525ccee8fe8acdbf7c02eef1caa4",
+    "9": "64219f4967ee4bde52268a448347b998c53cb513e616c8a26afb620b94857fce",
+    "10": "5b0a806f2320529e3207188582b95afe95e2a101406ff83a549e8f15b3b59782",
+    "11": "b30e39356829b22fcb895a56bc81bf0cf3ab3e01563202c175bb4aab8d5b83ef",
+    "12": "2b8b083e25a466db945d2c2a1634f380f80110243d1e4bcbadcb98355c701c09",
+    "13": "e8472d76d983c7e659e851549fb62aeb61cd8d47e96a535c1e33fb5177ebfdb0",
+    "14": "b3d4bd004df1b2ebfeac0dffff575e0d122794695ee35b4e1575abe3e9269f5e",
+    "15": "737ee649425d30671e15e4ca96e492fb2ef098178dfc0250c1a48f4048139724",
+    "16": "c2a7e3c3132809f576bb398133bf2c9794ea0a83e5309493cbbb0733ceb2ddab",
+    "17": "a0e3bba5aecfbeb8a0869b1d5257fbc53ea6b70ce30cb15c8095723bef73e8bc",
+    "18": "e644132e3fd01c417095af0bd1d739e0541c4ed647f8e0b292266470fb2b77b3",
+    "19": "69510d3a957c610cdf42e5ff68ca2bea8c7c9fd54121b9a3506b24ae6f63ca20",
+    "20": "c64a63d722f34aec4faa007ffa79b7c0eb39fa92420060a64bf065117f995cf7",
+    "21": "e10aaa1e909661cc8af6c6dd75c8bde79de62733062d7879c35204f3b39aec5f",
+    "22": "b80e2d4a62e6fb3debb8270a965181495a3ab8bb4bac061453fd764070b285d6",
+    "23": "b800925ea54abf4e0b76a82592ecf1d5fc547d8a31f38320747e4565bc315d64",
+    "24": "7d5612bb9d78ae87e7355ad204f9b171560f154f2d4819c80b209db8a3db85a1",
+    "25": "2dc3eed15c68a6423bcf3deda91edec0a8f1a72b91f98c374ef6ead352cca709",
+    "26": "a5f0da1abeee4a83e834e9929557257c894f27bb470d503cf51524447b81c378",
+    "27": "4b9196026563c5f3cd73fa86c4d93e8b0bbc66f00794c495338d4f39ef647267",
+    "28": "d9fab99f87f8189f264081fed3f7a68fbf1dba09a49ce54e683c5192f14eb4e7",
+    "29": "cd033dbbe6bb5378f81de1bc97250ff4cfbb58cbe9807b898eb5cd673314b7d7",
+    "30": "4368372c9ee78161a80b6f60af54eeef210cb841a5bfcde5e1ea88b1ee9d374a",
+    "31": "6f5d77f59bee46c3ad97bc21e6c94851d13b7610fa1a0ab4658767209f285f12",
+    "32": "1b2285537a88aeab92955b1ddf69102e2092b31727c2e32a7d6bb12b3f2f31b8",
+    "33": "4d6f884e3ff6aad61791ee1342fcc612718f0a4804fe6da86f16f2098c4bb75a",
+    "34": "38a4ad76c5d3799e69e3a67e2c6d1eceea1c9132842565ca23b557a2e3efa95d",
+    "35": "8aa72fdf5bf4e56a83f779e9f19c70f9230750c187496a67214d09701e954a29",
+    "36": "841e1c96087dcd87e87eef4db29b382efd43a7389942ff4121592c51829b1882",
+    "37": "cde2ab357ad041ceaaeade70577f5e64c3fdafcfdfbb4d99f89201aff4336332",
+    "38": "9d92bbb430e8b06d08d504025bb0f0da90b7d4ec8e920323dfd0fbf5104253be",
+    "39": "e9eb4aa369094b2dd5ced2bfe7f793b62cf62ff2b50e973a1d32e851b89737d8",
+    "40": "b60c326da85f993a8320e774d3fa0d7b5cb3b6faeb056ff8ccd30843b9acfc42",
+    "41": "cf8b0d03fe4d277fadebb4683e4258657e493910a5c8ea5199ae272a8eb20bc9",
+    "42": "d4d4ffb514ba13fc2a137a2ea6fdf1488078ee77ce381155b37fadf889879022",
+    "43": "0deb68192f123ad2740b37180daabfc88993fb79963a60fb1cab292f71a26325",
+    "44": "18b2c4ed067e85b2098f596e86e5866cfcefb398b46dd3601d772bcc327a95c0",
+    "45": "fb6a1cf16c41888b80aae68db6fb66459cc62ee64adbb6bd1a0e695d4a83bf82",
+    "46": "78c9c20e9c6b441bbf375552e644dac192ccb8f8d5947439c8c99adf8309aecb",
+    "47": "05250cccca8f3506ab9f90f178689ec93e7022730287a62c56cf9530ac212b75",
+    "48": "c31a36c9c9605696968b963b2902e4d63a32a5f77da2eefa1b81187c0c429e62",
+    "49": "a6a436b4995c2325ab81430fd60b4c213eda92e611418407aaadd350ec5e4f05",
+    "50": "7c3dd3213db86ff8ad627289650ab5f8c23b592aa52fa4d001ddd2055b96f066",
+    "51": "6d8a96eb625d1f08aa4feaadf342e47e7c64caacf00358e75a7d39b8c12872b9",
+    "52": "8b24ef687ede1308016b55b1a4e2b3814254b9ba3bfcd46aca7faac0ff7d94b1",
+    "53": "c1cb678225499d4087259bbc88a74d9576137436058fc4d173ea1b9889869835",
+    "54": "31a9e001e2029658eb9cc76cec178d99cedde79cec16104ffb8b128b69fa84c6",
+    "55": "133a9148f903025e6e70de26914cd174fa8f37d0b90bd90b1479751b3c9f2ef9",
+    "56": "7490ccffe756983d91329f9f9cace8922c014b990fa3780996b7c8f8cb31be10",
+    "57": "39967a4941f664a6dab18d3dde68cf78734e569482d1f22b93e24084f88fe945",
+    "58": "c239a9a550ae4076b5f4444e6a3013ab114e19f8641174c29b42615995ccf157",
+    "59": "867626e7d683559af74242ddebaabe4efcebfd119093c27f170f92c91813dfa1",
+    "60": "918dc70f273437ef3116aed0abbb55ac49aa8b92fd10913f01028abfb048a89b",
+    "61": "3c85a61666f5bc6cd428b2266c661fb2a728cf3a6e36940339265474a1fbec9c",
+    "62": "53bb28017253c1f3e475fa45e54645a3d1e9341d09d886008c041891afbcda4f",
+    "63": "9254b2a7b4932016b66cd7d4a4b488f5a233232c09435fdd16d388d9fca2c5be",
+    "64": "41de8ca4976452e930c152cea7893a20edefdded40293d7115c45d76fb97092d",
+    "65": "82a4b66220a271af1da9d7152eff6382851e07d0f6ff3f23f4983f80a8ccc5ed",
+    "66": "3677eac74be1b041ad7d4704699402cc2447f0a83f77c516582a29ee194da993",
+    "67": "fefaea6e5414e3777628ef73aa5971f3b6f498906822570bbdc3e9f484bef1c9",
+    "68": "496dbf0eaa91e2da8252685689a01419fd440a2b27a21d8d15efdb320690d4d4",
+    "69": "0a0d2bac82dfcd26df9623338064a726d6d624ff6bbbacecae62122de5ba4300",
+    "70": "5c34a9183e8d739a577bf89644a25c40887731e3f1a76d484cb92ce719c1211b",
+    "71": "9aeb035493b2ba7da771002b3c59d5c60debd81cda91f9a1b1595152d6fbf1ac",
+    "72": "c0b05400763b3e2835c6ae9e154719911e18eb0d81c50ecbfb3d62da61be9c2a",
+    "73": "a8cea1c41a951de293973764175f97fd8a3d24ebeb2ddbc241d6212e4cd746a2",
+    "74": "991519d90d2f4a56456f04ed9dd1535262c91e366941143766cc600d570b7a5e",
+    "75": "67a85bbe57f21504d7e2f171559e1c63627785ed18f3ed46258174efc4db9ba7",
+    "76": "6f1a3c5dc0b15c545c8e44e49dda4998826fbb812e1a80f4bcecd7fe73ab0176",
+    "77": "06399c6e167fab227924457704f1e23d5e08af57669279c2e9ad4583df77858f",
+    "78": "86f457bd0415f4a871784b154ec8a5b37be2d0fc73ad38232b6dec77c0af9919",
+    "79": "650423321d2387192c8f63f3b89fffa38d9461ad416803e3def5b70a6646de2e",
+    "80": "e397d3dd5a5b8a5b8d4a3a6a106fd4e5ef58e3e3d9a72ffb17a0f4b7c1371425",
+    "101": "7d03bbb575e40c0bd4e0d9da195fae2cd903b4c57586a98446537917b7cd3c0e",
+    "102": "0ba7afba56d1115c98ed94aadd034c13265664a4bf7c3662b0b742fa6d023135",
+    "103": "1c3bf74c5c80cb93fe1f067a1df458a9b5d64e47a43355690029d4baeddd691d",
+    "104": "328a6190e7bf62b342ca19f8446381e059772e4ac8218b4633a06b56df379ebb",
+    "105": "342654cdbdeac9c174322febce1516d0867735bfb6edb584397f023a1a95f648",
+    "106": "bfb712737b96943e74dd3ad1909fa04911ceed25f8b1c52ef86c13d5bbd1a296",
+    "107": "c07dbf1f57a419231d74ae97493449d922030b362ddcaa0a6c1930d74a6824f6",
+    "108": "b3a33358764c5d585fd86c565ce1255f9515dabe3ceac555a4aca2a70e8e0bc9"
+  },
+  "adjudications": [
+    {
+      "presentation_id": 6,
+      "question_id": 6,
+      "old_score": 1,
+      "new_score": 0.5,
+      "reason": "Restriction au milieu artificiel incorrecte : réponse partielle, non validée.",
+      "at": "2026-11-23T13:43:53.019615+00:00",
+      "kind": "regrade"
+    }
+  ],
+  "bank_migrations": [
+    {
+      "version": 4,
+      "at": "2026-11-23T15:59:52.557747+00:00",
+      "question_ids": [
+        3,
+        4,
+        5
+      ],
+      "notice": "QCM à choix multiples : questions N1/N2 reformulées. Les notes déjà acquises sont conservées ; une présentation ancienne encore ouverte garde son énoncé et son barème."
+    }
+  ],
+  "session_mode": "normal"
+}
