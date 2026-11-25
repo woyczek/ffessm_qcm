@@ -1,5 +1,49 @@
 # QCM FFESSM — 1.7.0
 
+## Publication sur GitHub Pages
+
+Le dépôt contient le workflow `.github/workflows/pages.yml`. Il vérifie le QCM,
+construit un site statique et le publie à chaque push sur `main`. Les pull requests
+exécutent les vérifications et la construction sans publier.
+
+Pour la première publication :
+
+1. Pousse ces fichiers dans le dépôt GitHub `woyczek/ffessm_qcm`.
+2. Dans **Settings → Pages → Build and deployment → Source**, choisis **GitHub Actions**.
+3. Dans **Actions → Publier le QCM sur GitHub Pages**, lance **Run workflow** sur `main`
+   si le premier push a précédé l'activation de Pages.
+4. Après un déploiement réussi, le site est disponible sur
+   <https://woyczek.github.io/ffessm_qcm/>.
+
+GitHub Pages héberge uniquement des fichiers statiques : la version publiée utilise
+Pyodide **314.0.8** pour exécuter `app/engine.py` dans le navigateur. Le premier
+chargement télécharge Python depuis jsDelivr ; une connexion Internet est nécessaire.
+Le moteur, le barème et la banque restent communs à la version locale.
+Les liens vers le PDF et les ressources fonctionnent aussi sous le chemin du dépôt.
+
+La progression et les archives de session sont enregistrées dans le stockage local
+du navigateur, séparément pour ce site. Elles restent sur cet appareil, ne sont pas
+synchronisées avec les lanceurs Python et peuvent disparaître si les données du site
+sont effacées ou à la fermeture d'une session privée. Utilise **Exporter la progression**
+pour garder une copie ; l'interface ne propose pas d'import. Plusieurs onglets du même
+site partagent la progression et leurs actions sont sérialisées. Un navigateur récent
+prenant en charge Web Locks est requis. Aucun fichier de `preferences/`, aucune réponse
+personnelle et aucune archive ne sont copiés dans le site publié.
+
+Construction et aperçu local (Python 3.10 ou plus récent, sans dépendance à installer) :
+
+```sh
+python tools/build_pages.py
+python -m http.server 8000 --directory _site
+```
+
+Ouvre <http://localhost:8000/>. Le dossier `_site/` est ignoré par Git et doit être
+vide ou absent avant une nouvelle construction ; le script refuse d'écraser son contenu.
+La version locale se lance toujours avec les lanceurs décrits ci-dessous.
+
+Références techniques : [workflows GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages)
+et [exécution Python avec Pyodide](https://pyodide.org/en/stable/usage/quickstart.html).
+
 140 questions stockées, une interface HTML et une interface terminal. Python 3.10 ou plus récent est nécessaire ; aucun paquet supplémentaire n'est requis. Les deux interfaces utilisent la même progression. La consultation des sources n'est pas répétée à chaque question.
 
 ## 1. Installation et lancement
